@@ -27,8 +27,12 @@
 ---
 
 ## Preview
+## Preview
 ![List Build](./assets/listBuild.png)
 ![Build 1](./assets/build1.png)
 ![Build 2](./assets/build2.png)
+![Build 3](./assets/build2.png)
+![Build 4](./assets/build2.png)
 ![Jobs](./assets/jobs.png)
+![Monsters](./assets/monsters.png)
 ![Params](./assets/params.png)
