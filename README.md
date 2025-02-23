@@ -41,4 +41,4 @@ WAKFU est un MMORPG édité par Ankama. "WakfuBuilder" est un logiciel non-offic
 
 
 ### Vous pouvez soutenir via un don paypal : 
-![qrcode](https://github.com/user-attachments/assets/a3a9ac47-e81e-423d-a26f-b7d705f59088)
+<img src="https://github.com/user-attachments/assets/a3a9ac47-e81e-423d-a26f-b7d705f59088e" width="400" height="400"/>
