@@ -1,0 +1,1836 @@
+[ {
+  "id" : 100,
+  "parentId" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Arme & Bouclier",
+    "en" : "Weapon & Shield",
+    "es" : "Arma y escudo",
+    "pt" : "Arma e Escudo"
+  },
+  "titlePlural" : {
+    "fr" : "Armes & Boucliers",
+    "en" : "Weapons & Shields",
+    "es" : "Armas y escudos",
+    "pt" : "Armas e Escudos"
+  }
+}, {
+  "id" : 101,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Hache (Deux mains)",
+    "en" : "Axe (Two-handed)",
+    "es" : "Hacha (Dos manos)",
+    "pt" : "Machado (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Haches (Deux mains)",
+    "en" : "Axes (Two-handed)",
+    "es" : "Hachas (Dos manos)",
+    "pt" : "Machados (duas mãos)"
+  }
+}, {
+  "id" : 103,
+  "parentId" : 118,
+  "equipmentPositions" : [ "LEFT_HAND", "RIGHT_HAND" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Anneau",
+    "en" : "Ring",
+    "es" : "Anillo",
+    "pt" : "Anel"
+  },
+  "titlePlural" : {
+    "fr" : "Anneaux",
+    "en" : "Rings",
+    "es" : "Anillos",
+    "pt" : "Anéis"
+  }
+}, {
+  "id" : 106,
+  "parentId" : 385,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Consommable",
+    "en" : "Consumable",
+    "es" : "Consumible",
+    "pt" : "Consumível"
+  },
+  "titlePlural" : {
+    "fr" : "Consommables",
+    "en" : "Consumables",
+    "es" : "Consumibles",
+    "pt" : "Consumíveis"
+  }
+}, {
+  "id" : 108,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Baguette (Une main)",
+    "en" : "Wand (One-handed)",
+    "es" : "Varita (Una mano)",
+    "pt" : "Varinha (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Baguettes (Une main)",
+    "en" : "Wands (One-handed)",
+    "es" : "Varitas (Una mano)",
+    "pt" : "Varinhas (uma mão)"
+  }
+}, {
+  "id" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Equipement",
+    "en" : "Equipment Item",
+    "es" : "Equipable",
+    "pt" : "Equipamento"
+  },
+  "titlePlural" : {
+    "fr" : "Equipements",
+    "en" : "Equipment Items",
+    "es" : "Equipables",
+    "pt" : "Equipamentos"
+  }
+}, {
+  "id" : 110,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epée (Une main)",
+    "en" : "Sword (One-handed)",
+    "es" : "Espada (Una mano)",
+    "pt" : "Espada (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Epées (Une main)",
+    "en" : "Swords (One-handed)",
+    "es" : "Espadas (Una mano)",
+    "pt" : "Espadas (uma mão)"
+  }
+}, {
+  "id" : 111,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Pelle (Deux mains)",
+    "en" : "Shovel (Two-handed)",
+    "es" : "Pala (Dos manos)",
+    "pt" : "Pá (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Pelles (Deux mains)",
+    "en" : "Shovels (Two-handed)",
+    "es" : "Palas (Dos manos)",
+    "pt" : "Pás (duas mãos)"
+  }
+}, {
+  "id" : 112,
+  "parentId" : 520,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Dague (Seconde main)",
+    "en" : "Dagger (Second hand)",
+    "es" : "Daga (Segunda mano)",
+    "pt" : "Adaga (mão secundária)"
+  },
+  "titlePlural" : {
+    "fr" : "Dagues (Seconde main)",
+    "en" : "Daggers (Second hand)",
+    "es" : "Dagas (Segunda mano)",
+    "pt" : "Adagas (mão secundária)"
+  }
+}, {
+  "id" : 113,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bâton (Une main)",
+    "en" : "Staff (One-handed)",
+    "es" : "Bastón (Una mano)",
+    "pt" : "Bastão (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Bâtons (Une main)",
+    "en" : "Staffs (One-handed)",
+    "es" : "Bastones (Una mano)",
+    "pt" : "Bastões (uma mão)"
+  }
+}, {
+  "id" : 114,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Marteau (Deux mains)",
+    "en" : "Hammer (Two-handed)",
+    "es" : "Martillo (Dos manos)",
+    "pt" : "Martelo (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Marteaux (Deux mains)",
+    "en" : "Hammers (Two-handed)",
+    "es" : "Martillos (Dos manos)",
+    "pt" : "Martelos (duas mãos)"
+  }
+}, {
+  "id" : 115,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Aiguille (Une main)",
+    "en" : "Needle (One-handed)",
+    "es" : "Aguja (Una mano)",
+    "pt" : "Ponteiro (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Aiguilles (Une main)",
+    "en" : "Needles (One-handed)",
+    "es" : "Agujas (Una mano)",
+    "pt" : "Ponteiros (uma mão)"
+  }
+}, {
+  "id" : 117,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Arc (Deux mains)",
+    "en" : "Bow (Two-handed)",
+    "es" : "Arco (Dos manos)",
+    "pt" : "Arco (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Arcs (Deux mains)",
+    "en" : "Bows (Two-handed)",
+    "es" : "Arcos (Dos manos)",
+    "pt" : "Arcos (duas mãos)"
+  }
+}, {
+  "id" : 118,
+  "parentId" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Armure",
+    "en" : "Armor",
+    "es" : "Armadura",
+    "pt" : "Armadura"
+  },
+  "titlePlural" : {
+    "fr" : "Armures",
+    "en" : "Armor",
+    "es" : "Armaduras",
+    "pt" : "Armaduras"
+  }
+}, {
+  "id" : 119,
+  "parentId" : 118,
+  "equipmentPositions" : [ "LEGS" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bottes",
+    "en" : "Boots",
+    "es" : "Botas",
+    "pt" : "Botas"
+  },
+  "titlePlural" : {
+    "fr" : "Bottes",
+    "en" : "Boots",
+    "es" : "Botas",
+    "pt" : "Botas"
+  }
+}, {
+  "id" : 120,
+  "parentId" : 118,
+  "equipmentPositions" : [ "NECK" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Amulette",
+    "en" : "Amulet",
+    "es" : "Amuleto",
+    "pt" : "Amuleto"
+  },
+  "titlePlural" : {
+    "fr" : "Amulettes",
+    "en" : "Amulets",
+    "es" : "Amuletos",
+    "pt" : "Amuletos"
+  }
+}, {
+  "id" : 132,
+  "parentId" : 118,
+  "equipmentPositions" : [ "BACK" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Cape",
+    "en" : "Cloak",
+    "es" : "Capa",
+    "pt" : "Capa"
+  },
+  "titlePlural" : {
+    "fr" : "Capes",
+    "en" : "Cloaks",
+    "es" : "Capas",
+    "pt" : "Capas"
+  }
+}, {
+  "id" : 133,
+  "parentId" : 118,
+  "equipmentPositions" : [ "BELT" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Ceinture",
+    "en" : "Belt",
+    "es" : "Cinturón",
+    "pt" : "Cinto"
+  },
+  "titlePlural" : {
+    "fr" : "Ceintures",
+    "en" : "Belts",
+    "es" : "Cinturones",
+    "pt" : "Cintos"
+  }
+}, {
+  "id" : 134,
+  "parentId" : 118,
+  "equipmentPositions" : [ "HEAD" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Casque",
+    "en" : "Helmet",
+    "es" : "Casco",
+    "pt" : "Capacete"
+  },
+  "titlePlural" : {
+    "fr" : "Casques",
+    "en" : "Helmets",
+    "es" : "Cascos",
+    "pt" : "Capacetes"
+  }
+}, {
+  "id" : 136,
+  "parentId" : 118,
+  "equipmentPositions" : [ "CHEST" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Plastron",
+    "en" : "Breastplate",
+    "es" : "Coraza",
+    "pt" : "Peitoral"
+  },
+  "titlePlural" : {
+    "fr" : "Plastrons",
+    "en" : "Breastplates",
+    "es" : "Corazas",
+    "pt" : "Peitorais"
+  }
+}, {
+  "id" : 138,
+  "parentId" : 118,
+  "equipmentPositions" : [ "SHOULDERS" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epaulettes",
+    "en" : "Epaulettes",
+    "es" : "Hombreras",
+    "pt" : "Dragonas"
+  },
+  "titlePlural" : {
+    "fr" : "Epaulettes",
+    "en" : "Epaulettes",
+    "es" : "Hombreras",
+    "pt" : "Dragonas"
+  }
+}, {
+  "id" : 189,
+  "parentId" : 520,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bouclier (Seconde main)",
+    "en" : "Shield (Second hand)",
+    "es" : "Escudo (Segunda mano)",
+    "pt" : "Escudo (mão secundária)"
+  },
+  "titlePlural" : {
+    "fr" : "Boucliers (Seconde main)",
+    "en" : "Shields (Second hand)",
+    "es" : "Escudos (Segunda mano)",
+    "pt" : "Escudos (mão secundária)"
+  }
+}, {
+  "id" : 218,
+  "parentId" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Sac",
+    "en" : "Bag",
+    "es" : "Bolsa",
+    "pt" : "Bolsa"
+  },
+  "titlePlural" : {
+    "fr" : "Sacs",
+    "en" : "Bags",
+    "es" : "Bolsas",
+    "pt" : "Bolsas"
+  }
+}, {
+  "id" : 223,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epée (Deux mains)",
+    "en" : "Sword (Two-handed)",
+    "es" : "Espada (Dos manos)",
+    "pt" : "Espada (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Epées (Deux mains)",
+    "en" : "Swords (Two-handed)",
+    "es" : "Espadas (Dos manos)",
+    "pt" : "Espadas (duas mãos)"
+  }
+}, {
+  "id" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Ressource",
+    "en" : "Resource",
+    "es" : "Recurso",
+    "pt" : "Recurso"
+  },
+  "titlePlural" : {
+    "fr" : "Ressources",
+    "en" : "Resources",
+    "es" : "Recursos",
+    "pt" : "Recursos"
+  }
+}, {
+  "id" : 253,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bâton (Deux mains)",
+    "en" : "Staff (Two-handed)",
+    "es" : "Bastón (Dos manos)",
+    "pt" : "Bastão (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Bâtons (Deux mains)",
+    "en" : "Staffs (Two-handed)",
+    "es" : "Bastones (Dos manos)",
+    "pt" : "Bastões (duas mãos)"
+  }
+}, {
+  "id" : 254,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Carte (Une main)",
+    "en" : "Card (One-handed)",
+    "es" : "Carta (Una mano)",
+    "pt" : "Carta (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Cartes (Une main)",
+    "en" : "Cards (One-handed)",
+    "es" : "Cartas (Una mano)",
+    "pt" : "Cartas (uma mão)"
+  }
+}, {
+  "id" : 281,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte du Mineur",
+    "en" : "Miner's Harvest",
+    "es" : "Cosecha de minero",
+    "pt" : "Colheita de Mineiro"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes du Mineur",
+    "en" : "Miner's Harvests",
+    "es" : "Cosechas de minero",
+    "pt" : "Colheitas de Mineiro"
+  }
+}, {
+  "id" : 282,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte du Trappeur",
+    "en" : "Trapper's Harvest",
+    "es" : "Cosecha de peletero",
+    "pt" : "Colheita de Caçador"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes du Trappeur",
+    "en" : "Trapper's Harvests",
+    "es" : "Cosechas de peletero",
+    "pt" : "Colheitas de Caçador"
+  }
+}, {
+  "id" : 294,
+  "parentId" : 295,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Havre-Gemme",
+    "en" : "Haven Gem",
+    "es" : "Merkagema",
+    "pt" : "Gema de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Havres-Gemmes",
+    "en" : "Haven Gems",
+    "es" : "Merkagemas",
+    "pt" : "Gemas de Viagem"
+  }
+}, {
+  "id" : 295,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Havre-Sac",
+    "en" : "Haven Bag",
+    "es" : "Merkasako",
+    "pt" : "Saco de viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Havre-Sac",
+    "en" : "Haven Bag",
+    "es" : "Merkasako",
+    "pt" : "Saco de viagem"
+  }
+}, {
+  "id" : 296,
+  "parentId" : 534,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Vitrines",
+    "en" : "Display Windows",
+    "es" : "Muestrarios",
+    "pt" : "Vitrines"
+  },
+  "titlePlural" : {
+    "fr" : "Vitrines",
+    "en" : "Display Windows",
+    "es" : "Muestrarios",
+    "pt" : "Vitrines"
+  }
+}, {
+  "id" : 297,
+  "parentId" : 535,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Aménagement intérieur",
+    "en" : "Interior Furnishing",
+    "es" : "Diseño interior",
+    "pt" : "Decoração interna"
+  },
+  "titlePlural" : {
+    "fr" : "Aménagements intérieurs",
+    "en" : "Interior Furnishings",
+    "es" : "Diseños interiores",
+    "pt" : "Decorações internas"
+  }
+}, {
+  "id" : 306,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte du Forestier",
+    "en" : "Lumberjack's Harvest",
+    "es" : "Cosecha de leñador",
+    "pt" : "Colheita de Lenhador"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes du Forestier",
+    "en" : "Lumberjack's Harvests",
+    "es" : "Cosechas de leñador",
+    "pt" : "Colheitas de Lenhador"
+  }
+}, {
+  "id" : 308,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte du Pêcheur",
+    "en" : "Fisherman's Harvest",
+    "es" : "Cosecha de pescador",
+    "pt" : "Colheita de Pescador"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes du Pêcheur",
+    "en" : "Fisherman's Harvests",
+    "es" : "Cosechas de pescador",
+    "pt" : "Colheitas de Pescador"
+  }
+}, {
+  "id" : 309,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte du Paysan",
+    "en" : "Farmer's Harvest",
+    "es" : "Cosecha de campesino",
+    "pt" : "Colheita de Fazendeiro"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes du Paysan",
+    "en" : "Farmer's Harvests",
+    "es" : "Cosechas de campesino",
+    "pt" : "Colheitas de Fazendeiro"
+  }
+}, {
+  "id" : 313,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte de l'Herboriste",
+    "en" : "Herbalist's Harvest",
+    "es" : "Cosecha de herbolario",
+    "pt" : "Colheita de Herborista"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes de l'Herboriste",
+    "en" : "Herbalist's Harvests",
+    "es" : "Cosechas de herbolario",
+    "pt" : "Colheitas de Herborista"
+  }
+}, {
+  "id" : 317,
+  "parentId" : 385,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Clef",
+    "en" : "Key",
+    "es" : "Llave",
+    "pt" : "Chave"
+  },
+  "titlePlural" : {
+    "fr" : "Clefs",
+    "en" : "Keys",
+    "es" : "Llaves",
+    "pt" : "Chaves"
+  }
+}, {
+  "id" : 327,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage du Forestier",
+    "en" : "Lumberjack's Refinements",
+    "es" : "Elaboraciones del leñador",
+    "pt" : "Refinamentos do lenhador"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage du Forestier",
+    "en" : "Lumberjack's Refinements",
+    "es" : "Elaboraciones del leñador",
+    "pt" : "Refinamentos do lenhador"
+  }
+}, {
+  "id" : 385,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Divers",
+    "en" : "Miscellaneous",
+    "es" : "Varios",
+    "pt" : "Diversos"
+  },
+  "titlePlural" : {
+    "fr" : "Divers",
+    "en" : "Miscellaneous",
+    "es" : "Varios",
+    "pt" : "Diversos"
+  }
+}, {
+  "id" : 393,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage du Paysan",
+    "en" : "Farmer's Refinements",
+    "es" : "Elaboraciones del campesino",
+    "pt" : "Refinamentos do fazendeiro"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage du Paysan",
+    "en" : "Farmer's Refinements",
+    "es" : "Elaboraciones del campesino",
+    "pt" : "Refinamentos do fazendeiro"
+  }
+}, {
+  "id" : 415,
+  "parentId" : 297,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Mobilier du Havre-Sac",
+    "en" : "Haven Bag Furniture",
+    "es" : "Mobiliario del merkasako",
+    "pt" : "Mobília do Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Mobilier du Havre-Sac",
+    "en" : "Haven Bag Furniture",
+    "es" : "Mobiliario del merkasako",
+    "pt" : "Mobília do Saco de Viagem"
+  }
+}, {
+  "id" : 416,
+  "parentId" : 297,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 419,
+  "parentId" : 282,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Semence",
+    "en" : "Seed",
+    "es" : "Simiente",
+    "pt" : "Semente"
+  },
+  "titlePlural" : {
+    "fr" : "Semences",
+    "en" : "Seeds",
+    "es" : "Simientes",
+    "pt" : "Sementes"
+  }
+}, {
+  "id" : 447,
+  "parentId" : 534,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Machines d'Artisanat",
+    "en" : "Crafting Machines",
+    "es" : "Máquinas de artesanía",
+    "pt" : "Máquinas de artesanato"
+  },
+  "titlePlural" : {
+    "fr" : "Machines d'Artisanat",
+    "en" : "Crafting Machines",
+    "es" : "Máquinas de artesanía",
+    "pt" : "Máquinas de artesanato"
+  }
+}, {
+  "id" : 449,
+  "parentId" : 297,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Salle Marchande",
+    "en" : "Trade Room Decoration",
+    "es" : "Decoración de sala mercante",
+    "pt" : "Decoração da Sala Mercante"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Salle Marchande",
+    "en" : "Trade Room Decorations",
+    "es" : "Decoraciones de sala mercante",
+    "pt" : "Decorações da Sala Mercante"
+  }
+}, {
+  "id" : 463,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage de l'Herboriste",
+    "en" : "Herbalist's Refinements",
+    "es" : "Elaboraciones del herbolario",
+    "pt" : "Refinamentos do herborista"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage de l'Herboriste",
+    "en" : "Herbalist's Refinements",
+    "es" : "Elaboraciones del herbolario",
+    "pt" : "Refinamentos do herborista"
+  }
+}, {
+  "id" : 514,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage du Mineur",
+    "en" : "Miner's Refinements",
+    "es" : "Minerales refinados",
+    "pt" : "Refinamentos do mineiro"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage du Mineur",
+    "en" : "Miner's Refinements",
+    "es" : "Minerales refinados",
+    "pt" : "Refinamentos do mineiro"
+  }
+}, {
+  "id" : 515,
+  "parentId" : 297,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Salle Jardin",
+    "en" : "Garden Room Decoration",
+    "es" : "Decoración de sala del jardín",
+    "pt" : "Decoração da Sala do Jardim"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Salle Jardin",
+    "en" : "Garden Room Decorations",
+    "es" : "Decoraciones de sala del jardín",
+    "pt" : "Decorações da Sala do Jardim"
+  }
+}, {
+  "id" : 518,
+  "parentId" : 100,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Arme 1 Main",
+    "en" : "One-Handed Weapon",
+    "es" : "Arma a 1 mano",
+    "pt" : "Arma de 1 mão"
+  },
+  "titlePlural" : {
+    "fr" : "Armes 1 Main",
+    "en" : "One-Handed Weapons",
+    "es" : "Armas a 1 mano",
+    "pt" : "Armas de 1 mão"
+  }
+}, {
+  "id" : 519,
+  "parentId" : 100,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Arme 2 Mains",
+    "en" : "Two-Handed Weapon",
+    "es" : "Arma a 2 manos",
+    "pt" : "Arma de 2 mãos"
+  },
+  "titlePlural" : {
+    "fr" : "Armes 2 Mains",
+    "en" : "Two-Handed Weapons",
+    "es" : "Armas a 2 manos",
+    "pt" : "Armas de 2 mãos"
+  }
+}, {
+  "id" : 520,
+  "parentId" : 100,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Seconde Main",
+    "en" : "Second Hand",
+    "es" : "Segunda mano",
+    "pt" : "Segunda mão"
+  },
+  "titlePlural" : {
+    "fr" : "Seconde Main",
+    "en" : "Second Hand",
+    "es" : "Segunda mano",
+    "pt" : "Segunda mão"
+  }
+}, {
+  "id" : 521,
+  "parentId" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Accessoire",
+    "en" : "Accessory",
+    "es" : "Accesorio",
+    "pt" : "Acessório"
+  },
+  "titlePlural" : {
+    "fr" : "Accessoires",
+    "en" : "Accessories",
+    "es" : "Accesorios",
+    "pt" : "Acessórios"
+  }
+}, {
+  "id" : 525,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Cosmétique",
+    "en" : "Cosmetic Item",
+    "es" : "Cosmético",
+    "pt" : "Cosmético"
+  },
+  "titlePlural" : {
+    "fr" : "Cosmétiques",
+    "en" : "Cosmetic Items",
+    "es" : "Cosméticos",
+    "pt" : "Cosméticos"
+  }
+}, {
+  "id" : 531,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Ressource de monstres",
+    "en" : "Monster Resource",
+    "es" : "Recurso de monstruos",
+    "pt" : "Recurso de monstro"
+  },
+  "titlePlural" : {
+    "fr" : "Ressources de monstres",
+    "en" : "Monster Resources",
+    "es" : "Recursos de monstruos",
+    "pt" : "Recursos de monstros"
+  }
+}, {
+  "id" : 534,
+  "parentId" : 295,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Vitrine & Atelier",
+    "en" : "Display Window & Workshop",
+    "es" : "Muestrario y taller",
+    "pt" : "Vitrine e Ateliê"
+  },
+  "titlePlural" : {
+    "fr" : "Vitrines & Ateliers",
+    "en" : "Display Windows & Workshops",
+    "es" : "Muestrarios y talleres",
+    "pt" : "Vitrines e Ateliês"
+  }
+}, {
+  "id" : 535,
+  "parentId" : 295,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 537,
+  "parentId" : 521,
+  "equipmentPositions" : [ "ACCESSORY" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Outil",
+    "en" : "Tool",
+    "es" : "Herramienta",
+    "pt" : "Ferramenta"
+  },
+  "titlePlural" : {
+    "fr" : "Outils",
+    "en" : "Tools",
+    "es" : "Herramientas",
+    "pt" : "Ferramentas"
+  }
+}, {
+  "id" : 546,
+  "parentId" : 416,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 551,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Objet de Quête",
+    "en" : "Quest Item",
+    "es" : "Objeto de misión",
+    "pt" : "Item de Missão"
+  },
+  "titlePlural" : {
+    "fr" : "Objets de Quête",
+    "en" : "Quest Items",
+    "es" : "Objetos de misión",
+    "pt" : "Itens de Missão"
+  }
+}, {
+  "id" : 566,
+  "parentId" : 416,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 567,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage du Pêcheur",
+    "en" : "Fisherman's Refinements",
+    "es" : "Elaboraciones del pescador",
+    "pt" : "Refinamentos do pescador"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage du Pêcheur",
+    "en" : "Fisherman's Refinements",
+    "es" : "Elaboraciones del pescador",
+    "pt" : "Refinamentos do pescador"
+  }
+}, {
+  "id" : 568,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage du Trappeur",
+    "en" : "Trapper's Refinements",
+    "es" : "Elaboraciones del peletero",
+    "pt" : "Refinamentos do caçador"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinage du Trappeur",
+    "en" : "Trapper's Refinements",
+    "es" : "Elaboraciones del peletero",
+    "pt" : "Refinamentos do caçador"
+  }
+}, {
+  "id" : 569,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Cuisinier",
+    "en" : "Chef Component",
+    "es" : "Componente de cocinero",
+    "pt" : "Componente de cozinheiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Cuisinier",
+    "en" : "Chef Components",
+    "es" : "Componentes de cocinero",
+    "pt" : "Componentes de cozinheiro"
+  }
+}, {
+  "id" : 570,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Tailleur",
+    "en" : "Tailor Component",
+    "es" : "Componente de sastre",
+    "pt" : "Componente de alfaiate"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Tailleur",
+    "en" : "Tailor Components",
+    "es" : "Componentes de sastre",
+    "pt" : "Componentes de alfaiate"
+  }
+}, {
+  "id" : 571,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Maître d'Armes",
+    "en" : "Weapons Master Component",
+    "es" : "Componente de maestro de armas",
+    "pt" : "Componente de Mestre de Armas"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Maître d'Armes",
+    "en" : "Weapons Master Components",
+    "es" : "Componentes de maestro de armas",
+    "pt" : "Componentes de Mestre de Armas"
+  }
+}, {
+  "id" : 574,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Maroquinier",
+    "en" : "Leather Dealer Component",
+    "es" : "Componente de marroquinero",
+    "pt" : "Componente de coureiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Maroquinier",
+    "en" : "Leather Dealer Components",
+    "es" : "Componentes de marroquinero",
+    "pt" : "Componentes de coureiro"
+  }
+}, {
+  "id" : 575,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Armurier",
+    "en" : "Armorer Component",
+    "es" : "Componente de armero",
+    "pt" : "Componente de armeiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Armurier",
+    "en" : "Armorer Components",
+    "es" : "Componentes de armero",
+    "pt" : "Componentes de armeiro"
+  }
+}, {
+  "id" : 576,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Bijoutier",
+    "en" : "Jeweler Component",
+    "es" : "Componente de joyero",
+    "pt" : "Componente de joalheiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Bijoutier",
+    "en" : "Jeweler Components",
+    "es" : "Componentes de joyero",
+    "pt" : "Componentes de joalheiro"
+  }
+}, {
+  "id" : 577,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Boulanger",
+    "en" : "Baker Component",
+    "es" : "Componente de panadero",
+    "pt" : "Componente de padeiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Boulanger",
+    "en" : "Baker Components",
+    "es" : "Componentes de panadero",
+    "pt" : "Componentes de padeiro"
+  }
+}, {
+  "id" : 578,
+  "parentId" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Composant Ebéniste",
+    "en" : "Handyman Component",
+    "es" : "Componente de ebanista",
+    "pt" : "Componente de marceneiro"
+  },
+  "titlePlural" : {
+    "fr" : "Composants Ebéniste",
+    "en" : "Handyman Components",
+    "es" : "Componentes de ebanista",
+    "pt" : "Componentes de marceneiro"
+  }
+}, {
+  "id" : 602,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Amélioration",
+    "en" : "Improvement",
+    "es" : "Mejora",
+    "pt" : "Melhoria"
+  },
+  "titlePlural" : {
+    "fr" : "Améliorations",
+    "en" : "Improvements",
+    "es" : "Mejoras",
+    "pt" : "Melhorias"
+  }
+}, {
+  "id" : 604,
+  "parentId" : 109,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Panoplie",
+    "en" : "Set",
+    "es" : "Set",
+    "pt" : "Conjunto"
+  },
+  "titlePlural" : {
+    "fr" : "Panoplies",
+    "en" : "Sets",
+    "es" : "Sets",
+    "pt" : "Conjuntos"
+  }
+}, {
+  "id" : 630,
+  "parentId" : 106,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Téléportation",
+    "en" : "Teleportation",
+    "es" : "Teletransportación",
+    "pt" : "Teletransporte"
+  },
+  "titlePlural" : {
+    "fr" : "Téléportation",
+    "en" : "Teleportation",
+    "es" : "Teletransportación",
+    "pt" : "Teletransporte"
+  }
+}, {
+  "id" : 646,
+  "parentId" : 521,
+  "equipmentPositions" : [ "ACCESSORY" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Emblème",
+    "en" : "Emblem",
+    "es" : "Emblema",
+    "pt" : "Emblema"
+  },
+  "titlePlural" : {
+    "fr" : "Emblèmes",
+    "en" : "Emblems",
+    "es" : "Emblemas",
+    "pt" : "Emblemas"
+  }
+}, {
+  "id" : 652,
+  "parentId" : 295,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Havre Monde",
+    "en" : "Haven World",
+    "es" : "Merkamundo",
+    "pt" : "Mundo Seguro"
+  },
+  "titlePlural" : {
+    "fr" : "Havre Monde",
+    "en" : "Haven World",
+    "es" : "Merkamundo",
+    "pt" : "Mundo Seguro"
+  }
+}, {
+  "id" : 687,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Fragment de Relique",
+    "en" : "Relic Fragment",
+    "es" : "Fragmento de reliquia",
+    "pt" : "Fragmento de Relíquia"
+  },
+  "titlePlural" : {
+    "fr" : "Fragments de Reliques",
+    "en" : "Relic Fragments",
+    "es" : "Fragmentos de reliquias",
+    "pt" : "Fragmentos de Relíquias"
+  }
+}, {
+  "id" : 701,
+  "parentId" : 416,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 702,
+  "parentId" : 416,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Décoration de Havre-Sac",
+    "en" : "Haven Bag Decoration",
+    "es" : "Decoración de merkasako",
+    "pt" : "Decoração de Saco de Viagem"
+  },
+  "titlePlural" : {
+    "fr" : "Décorations de Havre-Sac",
+    "en" : "Haven Bag Decorations",
+    "es" : "Decoraciones de merkasako",
+    "pt" : "Decorações de Saco de Viagem"
+  }
+}, {
+  "id" : 709,
+  "parentId" : 602,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Transmutation",
+    "en" : "Transmutation",
+    "es" : "Transmutación",
+    "pt" : "Transmutação"
+  },
+  "titlePlural" : {
+    "fr" : "Transmutations",
+    "en" : "Transmutations",
+    "es" : "Transmutaciones",
+    "pt" : "Transmutações"
+  }
+}, {
+  "id" : 719,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Recette",
+    "en" : "Recipe",
+    "es" : "Receta",
+    "pt" : "Receita"
+  },
+  "titlePlural" : {
+    "fr" : "Recettes",
+    "en" : "Recipes",
+    "es" : "Recetas",
+    "pt" : "Receitas"
+  }
+}, {
+  "id" : 738,
+  "parentId" : 756,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Transformation",
+    "en" : "Transformation",
+    "es" : "Transformación",
+    "pt" : "Transformação"
+  },
+  "titlePlural" : {
+    "fr" : "Transformations",
+    "en" : "Transformations",
+    "es" : "Transformaciones",
+    "pt" : "Transformações"
+  }
+}, {
+  "id" : 739,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Sioupère-Glou",
+    "en" : "Souper-Glou",
+    "es" : "Superglús",
+    "pt" : "Bond, Super Bond"
+  },
+  "titlePlural" : {
+    "fr" : "Sioupère-Glous",
+    "en" : "Souper-Glous",
+    "es" : "Supergluses",
+    "pt" : "Bonds, Super Bonds"
+  }
+}, {
+  "id" : 745,
+  "parentId" : 757,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Nourriture",
+    "en" : "Food",
+    "es" : "Comida",
+    "pt" : "Comida"
+  },
+  "titlePlural" : {
+    "fr" : "Nourriture",
+    "en" : "Food",
+    "es" : "Comida",
+    "pt" : "Comida"
+  }
+}, {
+  "id" : 746,
+  "parentId" : 757,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Consommable",
+    "en" : "Consumable",
+    "es" : "Consumible",
+    "pt" : "Consumível"
+  },
+  "titlePlural" : {
+    "fr" : "Consommable",
+    "en" : "Consumable",
+    "es" : "Consumible",
+    "pt" : "Consumível"
+  }
+}, {
+  "id" : 747,
+  "parentId" : 757,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Consommable",
+    "en" : "Consumable",
+    "es" : "Consumible",
+    "pt" : "Consumível"
+  },
+  "titlePlural" : {
+    "fr" : "Consommable",
+    "en" : "Consumable",
+    "es" : "Consumible",
+    "pt" : "Consumível"
+  }
+}, {
+  "id" : 751,
+  "parentId" : 757,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  },
+  "titlePlural" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  }
+}, {
+  "id" : 756,
+  "parentId" : 525,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Animation",
+    "en" : "Event",
+    "es" : "Animación",
+    "pt" : "Animação"
+  },
+  "titlePlural" : {
+    "fr" : "Animations",
+    "en" : "Events",
+    "es" : "Animaciones",
+    "pt" : "Animações"
+  }
+}, {
+  "id" : 757,
+  "parentId" : 106,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Nourritures",
+    "en" : "Food",
+    "es" : "Comidas",
+    "pt" : "Alimentos"
+  },
+  "titlePlural" : {
+    "fr" : "Nourritures",
+    "en" : "Food",
+    "es" : "Comidas",
+    "pt" : "Alimentos"
+  }
+}, {
+  "id" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte",
+    "en" : "Harvest",
+    "es" : "Cosecha",
+    "pt" : "Colheita"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes",
+    "en" : "Harvests",
+    "es" : "Cosechas",
+    "pt" : "Colheitas"
+  }
+}, {
+  "id" : 761,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Raffinage & Composant",
+    "en" : "Refinement & Component",
+    "es" : "Refinado y componente",
+    "pt" : "Refinamento e Componente"
+  },
+  "titlePlural" : {
+    "fr" : "Raffinages & Composants",
+    "en" : "Refinements & Components",
+    "es" : "Refinados y componentes",
+    "pt" : "Refinamentos e Componentes"
+  }
+}, {
+  "id" : 809,
+  "parentId" : 758,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Récolte diverses",
+    "en" : "Miscellaneous Harvest",
+    "es" : "Cosecha variada",
+    "pt" : "Colheita diversas"
+  },
+  "titlePlural" : {
+    "fr" : "Récoltes diverses",
+    "en" : "Miscellaneous Harvests",
+    "es" : "Cosechas variadas",
+    "pt" : "Colheitas diversas"
+  }
+}, {
+  "id" : 811,
+  "parentId" : 602,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Enchantement",
+    "en" : "Enchantment",
+    "es" : "Encantamiento",
+    "pt" : "Encantamento"
+  },
+  "titlePlural" : {
+    "fr" : "Enchantement",
+    "en" : "Enchantment",
+    "es" : "Encantamiento",
+    "pt" : "Encantamento"
+  }
+}, {
+  "id" : 812,
+  "parentId" : 602,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Parchemin de Sublimation",
+    "en" : "Sublimation Scroll",
+    "es" : "Pergamino de sublimación",
+    "pt" : "Pergaminho de Sublimação"
+  },
+  "titlePlural" : {
+    "fr" : "Parchemins de Sublimation",
+    "en" : "Sublimation Scrolls",
+    "es" : "Pergaminos de sublimación",
+    "pt" : "Pergaminhos de Sublimação"
+  }
+}, {
+  "id" : 822,
+  "parentId" : 226,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Ressource diverse",
+    "en" : "Miscellaneous Resource",
+    "es" : "Recurso vario",
+    "pt" : "Recurso diverso"
+  },
+  "titlePlural" : {
+    "fr" : "Ressources diverses",
+    "en" : "Miscellaneous Resources",
+    "es" : "Recursos varios",
+    "pt" : "Recursos diversos"
+  }
+}, {
+  "id" : 827,
+  "parentId" : 525,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Apparence de Familiers",
+    "en" : "Pet Skin",
+    "es" : "Apariencia de mascota",
+    "pt" : "Aparência de Mascotes"
+  },
+  "titlePlural" : {
+    "fr" : "Apparences de Familiers",
+    "en" : "Pet Skins",
+    "es" : "Apariencias de mascota",
+    "pt" : "Aparências de Mascotes"
+  }
+}, {
+  "id" : 840,
+  "parentId" : 551,
+  "equipmentPositions" : [ ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  },
+  "titlePlural" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  }
+} ]

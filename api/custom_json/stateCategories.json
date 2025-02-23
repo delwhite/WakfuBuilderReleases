@@ -1,0 +1,371 @@
+[ 
+{
+    "code": null,
+    "title" : {
+      "fr" : "Aucune",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "CHARAC",
+    "title" : {
+      "fr" : "Stats",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "PA",
+    "title" : {
+      "fr" : "Stats - PA",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "PM",
+    "title" : {
+      "fr" : "Stats - PM",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "PO",
+    "title" : {
+      "fr" : "Stats - PO",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "PW",
+    "title" : {
+      "fr" : "Stats - PW",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "HP",
+    "title" : {
+      "fr" : "Stats - PV",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "CRITICAL",
+    "title" : {
+      "fr" : "Stats - Coup critiques",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "WILL",
+    "title" : {
+      "fr" : "Stats - Volonté",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "PARADE",
+    "title" : {
+      "fr" : "Stats - Parade",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "RES",
+    "title" : {
+      "fr" : "Stats - Résistances",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DODGE",
+    "title" : {
+      "fr" : "Stats - Esquive",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "TACKLE",
+    "title" : {
+      "fr" : "Stats - Tacle",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "ELEMENT",
+    "title" : {
+      "fr" : "Stats - Maîtrise Élémentaire",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUMMON",
+    "title" : {
+      "fr" : "Stats - Transmis aux invocations",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG",
+    "title" : {
+      "fr" : "Dégats",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_GENERAL",
+    "title" : {
+      "fr" : "Dégats - Général",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_MELEE",
+    "title" : {
+      "fr" : "Dégats - Mêlée",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_DIST",
+    "title" : {
+      "fr" : "Dégats - Distance",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_SINGLE",
+    "title" : {
+      "fr" : "Dégats - Monocible",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_AREA",
+    "title" : {
+      "fr" : "Dégats - Zone",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_CRITICAL",
+    "title" : {
+      "fr" : "Dégats - Coups critiques ",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_NO_CRITICAL",
+    "title" : {
+      "fr" : "Dégats - Non critiques",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_BERSERK",
+    "title" : {
+      "fr" : "Dégats - Berserk",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_FOCUS_ONE_SPELL",
+    "title" : {
+      "fr" : "Dégats - Concentrés sur un seul sort",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_FRONT",
+    "title" : {
+      "fr" : "Dégats - De Face",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_BACK",
+    "title" : {
+      "fr" : "Dégats - De Dos",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_FLAMING",
+    "title" : {
+      "fr" : "Dégats - Enflammé",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_INDIRECT",
+    "title" : {
+      "fr" : "Dégats - Indirects",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_MULTI_ELEMENT",
+    "title" : {
+      "fr" : "Dégats - Multi Éléments",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_MONO_ELEMENT",
+    "title" : {
+      "fr" : "Dégats - Mono Élément",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+},  {
+    "code": "DMG_ARMOR",
+    "title" : {
+      "fr" : "Dégats - Destruction d’Armure",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "DMG_STEAL_LIFE",
+    "title" : {
+      "fr" : "Dégats - Vol de Vie",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "NO_SECONDARY_MASTERY",
+    "title" : {
+      "fr" : "Dégats - Sans Maîtrise Secondaires",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "NO_ELEMENT",
+    "title" : {
+      "fr" : "Dégats - Sans Maîtrise Élémentaire",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "OPTI_ROUND_1",
+    "title" : {
+      "fr" : "Optimisation - Tour 1",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+},  {
+    "code": "OPTI_BREACH",
+    "title" : {
+      "fr" : "Optimisation - Brèches",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT",
+    "title" : {
+      "fr" : "Supports",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_HEALING",
+    "title" : {
+      "fr" : "Supports - Soins",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_ARMOR",
+    "title" : {
+      "fr" : "Support - Armures",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_REDUCE_DMG",
+    "title" : {
+      "fr" : "Supports - Réduction des dégâts subis",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_PARADE",
+    "title" : {
+      "fr" : "Supports - Parade",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_TACKLE",
+    "title" : {
+      "fr" : "Supports - Tacle",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_DODGE",
+    "title" : {
+      "fr" : "Supports - Esquive",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "SUPPORT_PENALTY",
+    "title" : {
+      "fr" : "Support - Malus Soins / Armure reçue",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+}, {
+    "code": "USELESS",
+    "title" : {
+      "fr" : "Inutile",
+      "en" : "",
+      "es" : "",
+      "pt" : ""
+    }
+} 
+]

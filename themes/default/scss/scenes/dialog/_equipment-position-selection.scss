@@ -1,0 +1,24 @@
+@use '../../variables' as *;
+//Bug couleur sans cette ajout
+* {
+}
+
+.equipment-position-selection {
+    -fx-background-color: $secondary_menu_background_color;
+    -fx-padding: 5;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    > HBox {
+        -fx-padding: 5;
+        -fx-opacity: 0.6;
+        -fx-cursor: hand;
+        -fx-background-color: $secondary_menu_background_color;
+        &:hover {
+            -fx-opacity: 1;
+            -fx-background-color: $secondary_menu_background_color_hover;
+        }
+        > .label {
+            -fx-padding: 0 0 0 10;
+        }
+    }
+}

@@ -1,0 +1,81 @@
+// _variables.scss
+
+/* Couleurs */
+
+/* Menu 1 */
+$primary_menu_text_color: #fff;
+$primary_menu_background_color: #1F1E25;
+$primary_menu_text_color_hover: #fff;
+$primary_menu_background_color_hover: #393943;
+
+/* Menu 2 */
+$secondary_menu_text_color: #fff;
+$secondary_menu_background_color: #2B2A33;
+$secondary_menu_text_color_hover: #aaa;
+$secondary_menu_background_color_hover: #42414D;
+
+/* Menu Boutons */
+$primary_menu_button_text_color: #fff;
+$primary_menu_button_background_color: #1F1E25;
+$primary_menu_button_text_color_hover: #fff;
+$primary_menu_button_background_color_hover: #444349;
+
+/* Contenu */
+$primary_text_color: #fff;
+$primary_background_color: #313131;
+$primary_text_color_hover: #fff;
+$primary_background_color_hover: #474747;
+$primary_background_color_hover_bis: #353535;
+
+/* Contenu Form */
+$primary_field_text_color: #E3E3E3;
+$primary_field_background_color: #3f3f3f;
+$primary_field_text_color_hover: #fff;
+$primary_field_background_color_hover: #4f4f4f;
+$primary_field_background_color_bis_hover: #5f5f5f;
+
+/* Contenu Boutons */
+$primary_button_text_color: #fff;
+$primary_button_background_color: #3f3f3f;//#676767;
+$primary_button_text_color_hover: #fff;
+$primary_button_background_color_hover: #4f4f4f;//#8C8C8C;
+
+$primary_icon_button_background_color: #BCBCBC;
+$primary_icon_button_background_color_hover: #9c9c9c;
+
+$checkbox_checked_icon_color: #28a3f4;
+$table_view_selected: #0e5f95;
+$table_view_hovered: #1e6fa5;
+
+/* Item */
+$rarity_common_color: #959595;
+$rarity_common_background_color: #757575;
+$rarity_unusual_color: #ffffff;
+$rarity_unusual_background_color: #dadada;
+$rarity_rare_color: #4c9646;
+$rarity_rare_background_color: #2c6231;
+$rarity_mythical_color: #dd7f13;
+$rarity_mythical_background_color: #7a5c39;
+$rarity_legendary_color: #ffef64;
+$rarity_legendary_background_color: #9e9651;
+$rarity_relic_color: #c570ef;
+$rarity_relic_background_color: #543962;
+$rarity_memory_color: #80d6d4;
+$rarity_memory_background_color: #3d7271;
+$rarity_epic_color: #eebcd7;
+$rarity_epic_background_color: #744960;
+
+/* Polices */
+$font_family: 'Roboto, Helvetica, Arial, sans-serif';
+$font_size_base: 16px;
+$font_size_large: 18px;
+
+/* Espacements */
+$padding_base: 10px;
+$margin_base: 15px;
+
+/* Rayon de bordure */
+$border_radius: 5px;
+
+/* Vitesse de transition */
+$transition_speed: 0.3s;

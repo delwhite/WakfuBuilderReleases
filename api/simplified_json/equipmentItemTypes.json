@@ -1,0 +1,609 @@
+[ {
+  "id" : 101,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Hache (Deux mains)",
+    "en" : "Axe (Two-handed)",
+    "es" : "Hacha (Dos manos)",
+    "pt" : "Machado (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Haches (Deux mains)",
+    "en" : "Axes (Two-handed)",
+    "es" : "Hachas (Dos manos)",
+    "pt" : "Machados (duas mãos)"
+  }
+}, {
+  "id" : 103,
+  "parentId" : 118,
+  "equipmentPositions" : [ "LEFT_HAND", "RIGHT_HAND" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Anneau",
+    "en" : "Ring",
+    "es" : "Anillo",
+    "pt" : "Anel"
+  },
+  "titlePlural" : {
+    "fr" : "Anneaux",
+    "en" : "Rings",
+    "es" : "Anillos",
+    "pt" : "Anéis"
+  }
+}, {
+  "id" : 108,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Baguette (Une main)",
+    "en" : "Wand (One-handed)",
+    "es" : "Varita (Una mano)",
+    "pt" : "Varinha (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Baguettes (Une main)",
+    "en" : "Wands (One-handed)",
+    "es" : "Varitas (Una mano)",
+    "pt" : "Varinhas (uma mão)"
+  }
+}, {
+  "id" : 110,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epée (Une main)",
+    "en" : "Sword (One-handed)",
+    "es" : "Espada (Una mano)",
+    "pt" : "Espada (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Epées (Une main)",
+    "en" : "Swords (One-handed)",
+    "es" : "Espadas (Una mano)",
+    "pt" : "Espadas (uma mão)"
+  }
+}, {
+  "id" : 111,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Pelle (Deux mains)",
+    "en" : "Shovel (Two-handed)",
+    "es" : "Pala (Dos manos)",
+    "pt" : "Pá (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Pelles (Deux mains)",
+    "en" : "Shovels (Two-handed)",
+    "es" : "Palas (Dos manos)",
+    "pt" : "Pás (duas mãos)"
+  }
+}, {
+  "id" : 112,
+  "parentId" : 520,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Dague (Seconde main)",
+    "en" : "Dagger (Second hand)",
+    "es" : "Daga (Segunda mano)",
+    "pt" : "Adaga (mão secundária)"
+  },
+  "titlePlural" : {
+    "fr" : "Dagues (Seconde main)",
+    "en" : "Daggers (Second hand)",
+    "es" : "Dagas (Segunda mano)",
+    "pt" : "Adagas (mão secundária)"
+  }
+}, {
+  "id" : 113,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bâton (Une main)",
+    "en" : "Staff (One-handed)",
+    "es" : "Bastón (Una mano)",
+    "pt" : "Bastão (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Bâtons (Une main)",
+    "en" : "Staffs (One-handed)",
+    "es" : "Bastones (Una mano)",
+    "pt" : "Bastões (uma mão)"
+  }
+}, {
+  "id" : 114,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Marteau (Deux mains)",
+    "en" : "Hammer (Two-handed)",
+    "es" : "Martillo (Dos manos)",
+    "pt" : "Martelo (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Marteaux (Deux mains)",
+    "en" : "Hammers (Two-handed)",
+    "es" : "Martillos (Dos manos)",
+    "pt" : "Martelos (duas mãos)"
+  }
+}, {
+  "id" : 115,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Aiguille (Une main)",
+    "en" : "Needle (One-handed)",
+    "es" : "Aguja (Una mano)",
+    "pt" : "Ponteiro (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Aiguilles (Une main)",
+    "en" : "Needles (One-handed)",
+    "es" : "Agujas (Una mano)",
+    "pt" : "Ponteiros (uma mão)"
+  }
+}, {
+  "id" : 117,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Arc (Deux mains)",
+    "en" : "Bow (Two-handed)",
+    "es" : "Arco (Dos manos)",
+    "pt" : "Arco (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Arcs (Deux mains)",
+    "en" : "Bows (Two-handed)",
+    "es" : "Arcos (Dos manos)",
+    "pt" : "Arcos (duas mãos)"
+  }
+}, {
+  "id" : 119,
+  "parentId" : 118,
+  "equipmentPositions" : [ "LEGS" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bottes",
+    "en" : "Boots",
+    "es" : "Botas",
+    "pt" : "Botas"
+  },
+  "titlePlural" : {
+    "fr" : "Bottes",
+    "en" : "Boots",
+    "es" : "Botas",
+    "pt" : "Botas"
+  }
+}, {
+  "id" : 120,
+  "parentId" : 118,
+  "equipmentPositions" : [ "NECK" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Amulette",
+    "en" : "Amulet",
+    "es" : "Amuleto",
+    "pt" : "Amuleto"
+  },
+  "titlePlural" : {
+    "fr" : "Amulettes",
+    "en" : "Amulets",
+    "es" : "Amuletos",
+    "pt" : "Amuletos"
+  }
+}, {
+  "id" : 132,
+  "parentId" : 118,
+  "equipmentPositions" : [ "BACK" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Cape",
+    "en" : "Cloak",
+    "es" : "Capa",
+    "pt" : "Capa"
+  },
+  "titlePlural" : {
+    "fr" : "Capes",
+    "en" : "Cloaks",
+    "es" : "Capas",
+    "pt" : "Capas"
+  }
+}, {
+  "id" : 133,
+  "parentId" : 118,
+  "equipmentPositions" : [ "BELT" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Ceinture",
+    "en" : "Belt",
+    "es" : "Cinturón",
+    "pt" : "Cinto"
+  },
+  "titlePlural" : {
+    "fr" : "Ceintures",
+    "en" : "Belts",
+    "es" : "Cinturones",
+    "pt" : "Cintos"
+  }
+}, {
+  "id" : 134,
+  "parentId" : 118,
+  "equipmentPositions" : [ "HEAD" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Casque",
+    "en" : "Helmet",
+    "es" : "Casco",
+    "pt" : "Capacete"
+  },
+  "titlePlural" : {
+    "fr" : "Casques",
+    "en" : "Helmets",
+    "es" : "Cascos",
+    "pt" : "Capacetes"
+  }
+}, {
+  "id" : 136,
+  "parentId" : 118,
+  "equipmentPositions" : [ "CHEST" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Plastron",
+    "en" : "Breastplate",
+    "es" : "Coraza",
+    "pt" : "Peitoral"
+  },
+  "titlePlural" : {
+    "fr" : "Plastrons",
+    "en" : "Breastplates",
+    "es" : "Corazas",
+    "pt" : "Peitorais"
+  }
+}, {
+  "id" : 138,
+  "parentId" : 118,
+  "equipmentPositions" : [ "SHOULDERS" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epaulettes",
+    "en" : "Epaulettes",
+    "es" : "Hombreras",
+    "pt" : "Dragonas"
+  },
+  "titlePlural" : {
+    "fr" : "Epaulettes",
+    "en" : "Epaulettes",
+    "es" : "Hombreras",
+    "pt" : "Dragonas"
+  }
+}, {
+  "id" : 189,
+  "parentId" : 520,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bouclier (Seconde main)",
+    "en" : "Shield (Second hand)",
+    "es" : "Escudo (Segunda mano)",
+    "pt" : "Escudo (mão secundária)"
+  },
+  "titlePlural" : {
+    "fr" : "Boucliers (Seconde main)",
+    "en" : "Shields (Second hand)",
+    "es" : "Escudos (Segunda mano)",
+    "pt" : "Escudos (mão secundária)"
+  }
+}, {
+  "id" : 219,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Poing",
+    "en" : "Fist",
+    "es" : "Puño",
+    "pt" : "Punho "
+  },
+  "titlePlural" : {
+    "fr" : "Poing",
+    "en" : "Fist",
+    "es" : "Puño",
+    "pt" : "Punho "
+  }
+}, {
+  "id" : 223,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Epée (Deux mains)",
+    "en" : "Sword (Two-handed)",
+    "es" : "Espada (Dos manos)",
+    "pt" : "Espada (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Epées (Deux mains)",
+    "en" : "Swords (Two-handed)",
+    "es" : "Espadas (Dos manos)",
+    "pt" : "Espadas (duas mãos)"
+  }
+}, {
+  "id" : 253,
+  "parentId" : 519,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Bâton (Deux mains)",
+    "en" : "Staff (Two-handed)",
+    "es" : "Bastón (Dos manos)",
+    "pt" : "Bastão (duas mãos)"
+  },
+  "titlePlural" : {
+    "fr" : "Bâtons (Deux mains)",
+    "en" : "Staffs (Two-handed)",
+    "es" : "Bastones (Dos manos)",
+    "pt" : "Bastões (duas mãos)"
+  }
+}, {
+  "id" : 254,
+  "parentId" : 518,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : true,
+  "isVisibleInAnimation" : true,
+  "title" : {
+    "fr" : "Carte (Une main)",
+    "en" : "Card (One-handed)",
+    "es" : "Carta (Una mano)",
+    "pt" : "Carta (uma mão)"
+  },
+  "titlePlural" : {
+    "fr" : "Cartes (Une main)",
+    "en" : "Cards (One-handed)",
+    "es" : "Cartas (Una mano)",
+    "pt" : "Cartas (uma mão)"
+  }
+}, {
+  "id" : 480,
+  "parentId" : 521,
+  "equipmentPositions" : [ "ACCESSORY" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Torche",
+    "en" : "Torch",
+    "es" : "Antorcha",
+    "pt" : "Tocha"
+  },
+  "titlePlural" : {
+    "fr" : "Torches",
+    "en" : "Torches",
+    "es" : "Antorchas",
+    "pt" : "Tochas"
+  }
+}, {
+  "id" : 518,
+  "parentId" : 100,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Arme 1 Main",
+    "en" : "One-Handed Weapon",
+    "es" : "Arma a 1 mano",
+    "pt" : "Arma de 1 mão"
+  },
+  "titlePlural" : {
+    "fr" : "Armes 1 Main",
+    "en" : "One-Handed Weapons",
+    "es" : "Armas a 1 mano",
+    "pt" : "Armas de 1 mão"
+  }
+}, {
+  "id" : 519,
+  "parentId" : 100,
+  "equipmentPositions" : [ "FIRST_WEAPON" ],
+  "equipmentDisabledPositions" : [ "SECOND_WEAPON" ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Arme 2 Mains",
+    "en" : "Two-Handed Weapon",
+    "es" : "Arma a 2 manos",
+    "pt" : "Arma de 2 mãos"
+  },
+  "titlePlural" : {
+    "fr" : "Armes 2 Mains",
+    "en" : "Two-Handed Weapons",
+    "es" : "Armas a 2 manos",
+    "pt" : "Armas de 2 mãos"
+  }
+}, {
+  "id" : 520,
+  "parentId" : 100,
+  "equipmentPositions" : [ "SECOND_WEAPON" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Seconde Main",
+    "en" : "Second Hand",
+    "es" : "Segunda mano",
+    "pt" : "Segunda mão"
+  },
+  "titlePlural" : {
+    "fr" : "Seconde Main",
+    "en" : "Second Hand",
+    "es" : "Segunda mano",
+    "pt" : "Segunda mão"
+  }
+}, {
+  "id" : 537,
+  "parentId" : 521,
+  "equipmentPositions" : [ "ACCESSORY" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Outil",
+    "en" : "Tool",
+    "es" : "Herramienta",
+    "pt" : "Ferramenta"
+  },
+  "titlePlural" : {
+    "fr" : "Outils",
+    "en" : "Tools",
+    "es" : "Herramientas",
+    "pt" : "Ferramentas"
+  }
+}, {
+  "id" : 582,
+  "parentId" : 420,
+  "equipmentPositions" : [ "PET" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Familier",
+    "en" : "Pet",
+    "es" : "Mascota",
+    "pt" : "Mascote"
+  },
+  "titlePlural" : {
+    "fr" : "Familiers",
+    "en" : "Pets",
+    "es" : "Mascotas",
+    "pt" : "Mascotes"
+  }
+}, {
+  "id" : 611,
+  "parentId" : 420,
+  "equipmentPositions" : [ "MOUNT" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Monture",
+    "en" : "Mount",
+    "es" : "Montura",
+    "pt" : "Montaria"
+  },
+  "titlePlural" : {
+    "fr" : "Montures",
+    "en" : "Mounts",
+    "es" : "Monturas",
+    "pt" : "Montarias"
+  }
+}, {
+  "id" : 646,
+  "parentId" : 521,
+  "equipmentPositions" : [ "ACCESSORY" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Emblème",
+    "en" : "Emblem",
+    "es" : "Emblema",
+    "pt" : "Emblema"
+  },
+  "titlePlural" : {
+    "fr" : "Emblèmes",
+    "en" : "Emblems",
+    "es" : "Emblemas",
+    "pt" : "Emblemas"
+  }
+}, {
+  "id" : 647,
+  "parentId" : 525,
+  "equipmentPositions" : [ "COSTUME" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "Costume",
+    "en" : "Costume",
+    "es" : "Traje",
+    "pt" : "Traje"
+  },
+  "titlePlural" : {
+    "fr" : "Costumes",
+    "en" : "Costumes",
+    "es" : "Trajes",
+    "pt" : "Trajes"
+  }
+}, {
+  "id" : 837,
+  "parentId" : 525,
+  "equipmentPositions" : [ "COSTUME" ],
+  "equipmentDisabledPositions" : [ ],
+  "isRecyclable" : false,
+  "isVisibleInAnimation" : false,
+  "title" : {
+    "fr" : "WIP",
+    "en" : "Localisation failed. Error: 418 I'm a teapot.",
+    "es" : "WIP",
+    "pt" : "WIP"
+  },
+  "titlePlural" : {
+    "fr" : "WIP",
+    "en" : "Localisation failed. Error: 418 I'm a teapot.",
+    "es" : "WIP",
+    "pt" : "WIP"
+  }
+} ]

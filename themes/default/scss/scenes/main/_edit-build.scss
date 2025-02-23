@@ -1,0 +1,233 @@
+@use '../../variables' as *;
+//Bug couleur sans cette ajout
+* {
+}
+
+.mastery-element-types, .resistance-element-types {
+    .mastery-element-number {
+        -fx-text-fill: #cc0033;
+    }
+    > .button, > StackPane .button {
+        -fx-background-color: $primary_field_background_color;
+        &:hover {
+            -fx-background-color: $primary_field_background_color_hover;
+        }
+    }
+}
+
+.element-types {
+    .button {
+        -fx-background-color: transparent;
+    }
+}
+
+.equipment-categories {
+    -fx-padding: 10 0 10 0;
+}
+
+.search-filter {
+    .characteristic-rows {
+        -fx-background-color: transparent;
+        .button {
+            -fx-background-color: transparent;
+        }
+        .characteristic-row {
+            -fx-background-color: $primary_field_background_color;
+            -fx-padding: 2 0 2 3;
+            -fx-cursor: move;
+            .characteristic-row-image {
+                -fx-cursor: pointer;
+            }
+            .text-field {
+                -fx-pref-width: 90;
+                -fx-background-color: $primary_field_background_color_hover;
+                * {
+                    -fx-background-color: $primary_field_background_color_hover;
+                }
+            }
+        }
+    }
+}
+
+.build-characteristics {
+    .build-characteristic {
+        -fx-background-radius: 5;
+        -fx-padding: 5; 
+        -fx-background-color: $primary_field_background_color;
+        > button {
+            -fx-background-color: transparent;
+            -fx-cursor: pointer;
+            &:hover {
+                -fx-background-color: transparent;
+            }
+        }
+    }
+}
+
+.header-scroll, .characteristics-scroll, .search-scroll {
+    -fx-background-color: transparent;
+    .scroll-pane-container {
+        -fx-background-color: transparent;
+    }
+}
+
+.separator .line {
+    -fx-border-color: $primary_field_background_color_hover;
+    -fx-background-color: transparent;
+    -fx-pref-height: 2;
+}
+
+.characteristics-scroll, .selected-position-equipments-scroll {
+    -fx-padding: 5 0 0 0;
+}
+
+.lock-button, .delete-button {
+    -fx-background-color: rgba(103, 103, 103, 0.5);
+    -fx-background-radius: 4;
+    &:hover {
+        -fx-background-color: rgba(140, 140, 140, 0.5);
+    }
+}
+
+.selected-position-equipments-scroll, .selected-position-equipments-scroll .scroll-pane-container,
+.selected-position-equipments, .selected-position-equipments > * {
+    -fx-background-color: $primary_background_color_hover_bis;
+}
+.selected-position-equipment {
+/*    -fx-background-color: $primary_background_color_hover;
+    .item-info {
+        -fx-background-color: $primary_background_color_hover;
+        .item-more-info, .item-more-info * {
+            -fx-background-color: $primary_background_color_hover;
+        }
+    }*/
+}
+
+.masteries-popup {
+    -fx-padding: 5px;
+    -fx-border-color: $primary_field_background_color;
+    -fx-border-width: 3;
+    .masteries-number-element {
+        -fx-padding: 0 0 10 0;
+    }
+    .masteries-to-accumulate {
+        
+    }
+}
+
+.enchantment-content {
+    .enchantment-positions {
+        -fx-padding: 5 0 0 3;
+        .enchantment-position {
+            -fx-background-color: $primary_field_background_color;
+            -fx-background-radius: 5;
+            -fx-pref-width: 220;
+            -fx-padding: 3;
+            -fx-pref-height: 160;//173
+            &.selected-position {
+                -fx-background-color: $primary_field_background_color_bis_hover;
+            }
+            .image-categories, .image-categories > *,
+            .rows, .shard, .sublimation, .shard > *, .sublimation > * {
+                -fx-background-color: transparent;
+            }
+            .rows {
+                .shard, .sublimation {
+                    -fx-background-color: transparent;
+                    .label {
+                        -fx-background-color: transparent;
+                        -fx-padding: 0 2 0 4;
+                    }
+                }
+            }
+        }
+        .special-sublimation {
+            -fx-background-color: $primary_field_background_color;
+            -fx-background-radius: 5;
+            -fx-pref-width: 165;
+            -fx-padding: 3;
+            -fx-pref-height: 160;
+        }
+    }
+/*    .special-sublimations {
+        -fx-padding: 5 0 0 3;
+
+    }*/
+
+    .shards {
+        -fx-padding: 3 0 5 0;
+        .shard {
+            -fx-background-color: $primary_field_background_color;
+            -fx-background-radius: 5;
+            -fx-max-width: 290;
+            -fx-padding: 1;
+            -fx-border-width: 2;
+            -fx-border-color: $primary_field_background_color;
+            -fx-border-radius: 4;
+            -fx-cursor: hand;
+            .label {
+                -fx-padding: 0 3 0 6;
+            }
+            &.selected-position {
+                -fx-background-color: $primary_field_background_color_bis_hover;
+                -fx-border-color: $primary_field_background_color_bis_hover;
+            }
+            &.selected-shard {
+                -fx-border-color: $primary_field_text_color;
+            }
+            * {
+                -fx-background-color: transparent;
+            }
+        }
+    }
+    
+    .item-cell {
+        -fx-border-color: transparent;
+        -fx-border-width: 2;
+        -fx-border-radius: 4;
+        -fx-cursor: hand;
+        &.selected-sublimation {
+            -fx-border-color: $primary_field_text_color;
+        }
+    }
+
+    .filters-sublimation {
+        -fx-padding: 1 0 3 0;
+        .categories-select {
+            -fx-max-width: 300;
+        }
+    }
+
+    &.max-1290 {
+        .enchantment-positions {
+            .enchantment-position {
+                -fx-pref-width: 72;
+                -fx-background-radius: 5;
+                .rows {
+                    .shard, .sublimation {
+                    }
+                }
+            }
+            .special-sublimation {
+                -fx-pref-width: 31;
+            }
+        }
+
+        .filters-sublimation {
+            -fx-padding: 2 0 2 0;
+            .categories-select {
+                -fx-max-width: 200;
+            }
+        }
+    }
+    &.max-495 {
+        .shards {
+            -fx-padding: 3 0 3 0;
+            .shard {
+                .label {
+                    -fx-padding: 0 2 0 2;
+                }
+            }
+        }
+    }
+}

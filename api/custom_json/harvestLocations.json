@@ -1,0 +1,1182 @@
+[
+    {
+        "comment": "FARMER = 64; FOREST = 71; HERBORIST = 72; MINER = 73; TRAPPER = 74; FISHERMAN = 75;",
+        "jobId": 64,
+        "jobItemId": 4278,
+        "locations": [
+            "ASTRUB_FIELDS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 1889,
+        "locations": [
+            "ASTRUB_FIELDS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 9268,
+        "locations": [
+            "ASTRUB_FIELDS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 4279,
+        "locations": [
+            "ASTRUB_FIELDS",
+            "AMAKNA_DUNGEON_CHAMPS_POURCHAN"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 6948,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS",
+            "WABBIT_ISLAND_WABBIT_TERRITORY"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 1902,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 11462,
+        "locations": [
+            "SUFOKIA_DUNE_KANE"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 11464,
+        "locations": [
+            "SUFOKIA_DUNE_KANE",
+            "EREBORIA_PIRATE_BEACH"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 11467,
+        "locations": [
+            "BONTA_CANIA_PLAINS",
+            "SADIDA_KINGDOM_MULOS_CLEARENCE",
+            "MONK_ISLAND"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 11469,
+        "locations": [
+            "BONTA_CANIA_PLAINS",
+            "BONTA_KARA",
+            "SADIDA_KINGDOM_GERBOUILLES_GALLERIES",
+            "EREBORIA_CAVERN"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 11472,
+        "locations": [
+            "BRAKMAR_PABONG_FIELDS",
+            "PANDALOUSIE_VALLEY_PANDISSIDAN_VILLAGE",
+            "WABBIT_ISLAND_VILLAGE_LENALD",
+            "WABBIT_ISLAND_LENALD_TERRITORY"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 13163,
+        "locations": [
+            "BILBYZA_GELAX_COAST",
+            "BILBYZA_GELAX_DIMENSION"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 13166,
+        "locations": [
+            "SUFOKIA_MOUNTAINS_FLACKEUX"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 5443,
+        "locations": [
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 9805,
+        "locations": [
+            "ZINIT_BASE_FLANK_SMARES",
+            "ZINIT_BASE_FLANK_PHORREURS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 18115,
+        "locations": [
+            "SAHARACH"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 18117,
+        "locations": [
+            "SAHARACH_FUNGOPHY"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 17369,
+        "locations": [
+            "WABBIT_ISLAND_MORBID_SUBTERRANEANS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 18479,
+        "locations": [
+            "SBERG_BURIED_VILLAGE"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 18481,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 19174,
+        "locations": [
+            "AMAKNA_SEA_ZONE",
+            "SUFOKIA_SEA_ZONE"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 20187,
+        "locations": [
+            "BRAKMAR_MACHEVILLE"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 19768,
+        "locations": [
+            "MOON_BEACH",
+            "MOON_SUBTERRANEANS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 19764,
+        "locations": [
+            "PANDALOUSIE_VALLEY_SALTY_MARSH",
+            "MOON_BEACH"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 22060,
+        "locations": [
+            "SADIDA_KINGDOM_DEFORESTED_FOREST",
+            "ZINIT_TOP_FLANK_SBIRE_KALI"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 22063,
+        "locations": [
+            "SADIDA_KINGDOM_DEFORESTED_FOREST",
+            "ZINIT_TOP_FLANK_BLEROX",
+            "ZINIT_SUMMIT_DRAGOEFS"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 27852,
+        "locations": [
+            "CHUCHOKU_KINGDOM_TUNDRA",
+            "OSAMOSA_GLACIAL_WING"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 27855,
+        "locations": [
+            "OSAMOSA_ARID_WING"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 28745,
+        "locations": [
+            "SHUKRUTE_HORROR_CITADEL"
+        ]
+    },
+    {
+        "jobId": 64,
+        "jobItemId": 28748,
+        "locations": [
+            "SHUKRUTE_DEMENTIA"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 1723,
+        "locations": [
+            "ASTRUB_CITY",
+            "ASTRUB_FIELDS",
+            "ASTRUB_PLAINS",
+            "ASTRUB_FISHERMANS_HAMLET",
+            "ASTRUB_TAINELA"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 1732,
+        "locations": [
+            "ASTRUB_CITY",
+            "ASTRUB_FIELDS",
+            "ASTRUB_PLAINS",
+            "ASTRUB_FOREST"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 11440,
+        "locations": [
+            "ASTRUB_FOREST"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 1718,
+        "locations": [
+            "ASTRUB_MOUNTAINS",
+            "SUFOKIA_MOUNTAINS_FLACKEUX"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 1719,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 10009,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 8172,
+        "locations": [
+            "AMAKNA_EMELKA_FOREST",
+            "WILD_DOMAIN",
+            "ZINIT_SAVAGE_BEACH_PART_1",
+            "ZINIT_SAVAGE_BEACH_PART_2"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 10431,
+        "locations": [
+            "SUFOKIA_DUNE_KANE",
+            "EREBORIA_PIRATE_BEACH"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 10737,
+        "locations": [
+            "SADIDA_KINGDOM_CLOUDED_HILL"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 5426,
+        "locations": [
+            "BONTA_CANIA_PLAINS",
+            "KELBA_LANDS",
+            "KELBA_PEAKS",
+            "MONK_ISLAND"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 6162,
+        "locations": [
+            "BRAKMAR_PABONG_FIELDS"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 12004,
+        "locations": [
+            "KATREPAT"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 13096,
+        "locations": [
+            "BILBYZA_GELAX_COAST",
+            "SUFOKIA_MOUNTAINS_FLACKEUX"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 13098,
+        "locations": [
+            "SBERG_ICEBERG",
+            "SBERG_BURIED_VILLAGE",
+            "SBERG_HAREBOURG_CASTLE"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 13110,
+        "locations": [
+            "ZINIT_BASE_FLANK_SMARES",
+            "ZINIT_BASE_FLANK_PHORREURS",
+            "CHUCHOKU_KINGDOM_TUNDRA"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 18107,
+        "locations": [
+            "SAHARACH",
+            "WABBIT_ISLAND_SAND_CAWOTTE"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 18111,
+        "locations": [
+            "SAHARACH_FUNGOPHY"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 13114,
+        "locations": [
+            "WABBIT_ISLAND_WABBIT_TERRITORY"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 18467,
+        "locations": [
+            "BRAKMAR_MACHEVILLE",
+            "WABBIT_ISLAND_DEVASTATED_FIELDS"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 18469,
+        "locations": [
+            "BONTA_TONKULT_FOREST",
+            "SADIDA_KINGDOM_MULOS_CLEARENCE"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 19167,
+        "locations": [
+            "ZINIT_TOP_FLANK_SBIRE_KALI"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 20181,
+        "locations": [
+            "BONTA_TONKULT_FOREST",
+            "WABBIT_ISLAND_LENALD_TERRITORY"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 19757,
+        "locations": [
+            "MOON_BEACH",
+            "MOON_SUBTERRANEANS"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 19754,
+        "locations": [
+            "MOON_JUNGLE",
+            "MOON_BEACH"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 22054,
+        "locations": [
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE",
+            "ZINIT_TOP_FLANK_BLEROX"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 22057,
+        "locations": [
+            "EREBORIA_CURSED_BEACH",
+            "ZINIT_DORMOR_CAVE"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 27846,
+        "locations": [
+            "OSAMOSA_DORSAL_FOREST"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 27849,
+        "locations": [
+            "EREBORIA_PRISON",
+            "OSAMOSA_CAUDAL_SHORE"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 28739,
+        "locations": [
+            "SHUKRUTE_DESPAIR_KINGDOM"
+        ]
+    },
+    {
+        "jobId": 71,
+        "jobItemId": 28742,
+        "locations": [
+            "SHUKRUTE_DEMENTIA"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 2504,
+        "locations": [
+            "ASTRUB_FIELDS",
+            "ASTRUB_PLAINS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 11451,
+        "locations": [
+            "ASTRUB_PLAINS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 4441,
+        "locations": [
+            "ASTRUB_TAINELA"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 11454,
+        "locations": [
+            "ASTRUB_FOREST"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 5440,
+        "locations": [
+            "AMAKNA_EMELKA_FOREST"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 9270,
+        "locations": [
+            "AMAKNA_EMELKA_FOREST",
+            "SADIDA_KINGDOM_CLOUDED_HILL",
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 11455,
+        "locations": [
+            "WILD_DOMAIN"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 11458,
+        "locations": [
+            "SUFOKIA_DUNE_KANE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 1832,
+        "locations": [
+            "BONTA_CANIA_PLAINS",
+            "KELBA_LANDS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 4443,
+        "locations": [
+            "ZINIT_SAVAGE_BEACH_PART_1",
+            "ZINIT_SAVAGE_BEACH_PART_2",
+            "PANDALOUSIE_VALLEY_SALTY_MARSH"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 10958,
+        "locations": [
+            "BRAKMAR_PABONG_FIELDS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 13140,
+        "locations": [
+            "BRAKMAR_SIDIMOTE_LANDS",
+            "KATREPAT"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 13147,
+        "locations": [
+            "AMAKNA_RIKTUS_PLAINS",
+            "SUFOKIA_MOUNTAINS_FLACKEUX",
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 13144,
+        "locations": [
+            "AMAKNA_RIKTUS_PLAINS",
+            "PANDALOUSIE_VALLEY_SUMMIT",
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 1783,
+        "locations": [
+            "ZINIT_BASE_FLANK_SMARES",
+            "ZINIT_BASE_FLANK_PHORREURS",
+            "ZINIT_TOP_FLANK_SBIRE_KALI"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 18121,
+        "locations": [
+            "SAHARACH",
+            "WABBIT_ISLAND_SAND_CAWOTTE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 18122,
+        "locations": [
+            "SAHARACH_FUNGOPHY"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 13151,
+        "locations": [
+            "BONTA_TONKULT_FOREST",
+            "WABBIT_ISLAND_LENALD_TERRITORY",
+            "WABBIT_ISLAND_DEVASTATED_FIELDS",
+            "WABBIT_ISLAND_WABBIT_TERRITORY",
+            "WABBIT_ISLAND_SAND_CAWOTTE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 18474,
+        "locations": [
+            "BONTA_TONKULT_FOREST"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 19171,
+        "locations": [
+            "BRAKMAR_MACHEVILLE",
+            "AMAKNA_MINE_GALLERIES",
+            "AMAKNA_MINE_TREFOUNDS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 18473,
+        "locations": [
+            "AMAKNA_MINE_GALLERIES",
+            "AMAKNA_MINE_TREFOUNDS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 20184,
+        "locations": [
+            "BONTA_MINE_GALLERIES",
+            "BONTA_MINE_TREFOUNDS"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 19771,
+        "locations": [
+            "MOON_JUNGLE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 19774,
+        "locations": [
+            "MOON_JUNGLE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 22069,
+        "locations": [
+            "ZINIT_TOP_FLANK_SBIRE_KALI",
+            "ZINIT_SUMMIT_ETHERNELS",
+            "SADIDA_KINGDOM_MULOS_CLEARENCE"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 22066,
+        "locations": [
+            "PANDALOUSIE_VALLEY_CEMETERY",
+            "ZINIT_TOP_FLANK_BLEROX",
+            "CHUCHOKU_INNER_GRAMPAR"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 27858,
+        "locations": [
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE",
+            "OSAMOSA_DORSAL_FOREST"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 27861,
+        "locations": [
+            "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS",
+            "OSAMOSA_GLACIAL_WING"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 28751,
+        "locations": [
+            "SHUKRUTE_DESPAIR_KINGDOM"
+        ]
+    },
+    {
+        "jobId": 72,
+        "jobItemId": 28754,
+        "locations": [
+            "SHUKRUTE_DEATH_ROAD"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 1846,
+        "locations": [
+            "ASTRUB_PLAINS",
+            "ASTRUB_SEWERS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 2355,
+        "locations": [
+            "ASTRUB_FIELDS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11479,
+        "locations": [
+            "ASTRUB_MOUNTAINS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 1851,
+        "locations": [
+            "ASTRUB_MOUNTAINS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11480,
+        "locations": [
+            "ASTRUB_MINES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11481,
+        "locations": [
+            "AMAKNA_MINE_GALLERIES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11482,
+        "locations": [
+            "BRAKMAR_MINE_GALLERIES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 1848,
+        "locations": [
+            "SADIDA_KINGDOM_GERBOUILLES_GALLERIES",
+            "PANDALOUSIE_VALLEY_MINES",
+            "WILD_DOMAIN"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11485,
+        "locations": [
+            "KELBA_PEAKS",
+            "MONK_ISLAND"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 11484,
+        "locations": [
+            "PANDALOUSIE_VALLEY_MINES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 1856,
+        "locations": [
+            "BONTA_MINE_GALLERIES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 13178,
+        "locations": [
+            "ASTRUB_MOUNTAINS",
+            "KATREPAT",
+            "ZINIT_SLEK_CAVE"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 13180,
+        "locations": [
+            "SUFOKIA_MINES_GALLERIES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 13182,
+        "locations": [
+            "SBERG_ICEBERG",
+            "SBERG_BURIED_VILLAGE",
+            "SBERG_HAREBOURG_CASTLE"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 5474,
+        "locations": [
+            "ASTRUB_MOUNTAINS",
+            "ZINIT_BASE_FLANK_SMARES",
+            "ZINIT_BASE_FLANK_PHORREURS",
+            "ASTRUB_WAKFU_SOURCE",
+            "ASTRUB_STATIS_SOURCE"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 18126,
+        "locations": [
+            "SAHARACH"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 18128,
+        "locations": [
+            "SAHARACH_FUNGOPHY",
+            "EREBORIA_SUFOCIAN_MINE"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 17490,
+        "locations": [
+            "WABBIT_ISLAND_MORBID_SUBTERRANEANS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 18483,
+        "locations": [
+            "SUFOKIA_MINES_TREFOUNDS",
+            "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 18485,
+        "locations": [
+            "BONTA_MINE_TREFOUNDS",
+            "CHUCHOKU_INNER_GRAMPAR"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 19177,
+        "locations": [
+            "AMAKNA_MINE_TREFOUNDS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 19749,
+        "locations": [
+            "BRAKMAR_MINE_TREFOUNDS",
+            "SADIDA_KINGDOM_GERBOUILLES_GALLERIES"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 19751,
+        "locations": [
+            "MOON_JUNGLE",
+            "MOON_BEACH"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 20176,
+        "locations": [
+            "MOON_BEACH",
+            "MOON_SUBTERRANEANS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 22072,
+        "locations": [
+            "ZINIT_TOP_FLANK_SBIRE_KALI",
+            "ZINIT_TOP_FLANK_BLEROX",
+            "ZINIT_SUMMIT_DRAGOEFS",
+            "ZINIT_SUMMIT_ETHERNELS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 22074,
+        "locations": [
+            "ZINIT_DORMOR_CAVE",
+            "ZINIT_SUMMIT_DRAGOEFS"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 27863,
+        "locations": [
+            "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS",
+            "OSAMOSA_GLACIAL_WING"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 27865,
+        "locations": [
+            "CHUCHOKU_INNER_GRAMPAR",
+            "OSAMOSA_ARID_WING"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 28756,
+        "locations": [
+            "EREBORIA_PRISON",
+            "SHUKRUTE_VACUUM_SPIRAL"
+        ]
+    },
+    {
+        "jobId": 73,
+        "jobItemId": 28758,
+        "locations": [
+            "SHUKRUTE_DEATH_ROAD"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8105,
+        "locations": [
+            "ASTRUB_CITY",
+            "ASTRUB_FISHERMANS_HAMLET"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8106,
+        "locations": [
+            "ASTRUB_FIELDS",
+            "ASTRUB_PLAINS",
+            "ASTRUB_FISHERMANS_HAMLET"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8104,
+        "locations": [
+            "ASTRUB_CEMETERY",
+            "ASTRUB_TAINELA"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8107,
+        "locations": [
+            "ASTRUB_FOREST"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8109,
+        "locations": [
+            "AMAKNA_SINGING_FIELDS",
+            "EREBORIA_CURSED_BEACH"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8113,
+        "locations": [
+            "SADIDA_KINGDOM_MULOS_CLEARENCE",
+            "EREBORIA_PIRATE_BEACH"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8108,
+        "locations": [
+            "SUFOKIA_DUNE_KANE",
+            "SADIDA_KINGDOM_CLOUDED_HILL"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8110,
+        "locations": [
+            "WILD_DOMAIN",
+            "ZINIT_SAVAGE_BEACH_PART_1",
+            "ZINIT_SAVAGE_BEACH_PART_2"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8111,
+        "locations": [
+            "KELBA_LANDS",
+            "MONK_ISLAND"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8115,
+        "locations": [
+            "BONTA_CANIA_PLAINS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 8112,
+        "locations": [
+            "BRAKMAR_PABONG_FIELDS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 13188,
+        "locations": [
+            "BILBYZA_GELAX_COAST"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 13190,
+        "locations": [
+            "AMAKNA_RIKTUS_PLAINS",
+            "EREBORIA_CAVERN"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 13194,
+        "locations": [
+            "CHUCHOKU_INNER_GRAMPAR"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 13196,
+        "locations": [
+            "SUFOKIA_MOUNTAINS_FLACKEUX",
+            "ZINIT_BASE_FLANK_SMARES",
+            "ZINIT_BASE_FLANK_PHORREURS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 18130,
+        "locations": [
+            "SAHARACH",
+            "WABBIT_ISLAND_SAND_CAWOTTE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 18132,
+        "locations": [
+            "SAHARACH_FUNGOPHY",
+            "WABBIT_ISLAND_LENALD_TERRITORY"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 13198,
+        "locations": [
+            "BONTA_TONKULT_FOREST",
+            "WABBIT_ISLAND_DEVASTATED_FIELDS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 18487,
+        "locations": [
+            "BRAKMAR_MACHEVILLE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 18489,
+        "locations": [
+            "AMAKNA_SEA_ZONE",
+            "SUFOKIA_SEA_ZONE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 19178,
+        "locations": [
+            "SUFOKIA_MINES_GALLERIES",
+            "SUFOKIA_MINES_TREFOUNDS",
+            "SADIDA_KINGDOM_DEFORESTED_FOREST"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 20178,
+        "locations": [
+            "BONTA_SEA_ZONE",
+            "BRAKMAR_SEA_ZONE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 19759,
+        "locations": [
+            "SADIDA_KINGDOM_GERBOUILLES_GALLERIES",
+            "MOON_BEACH"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 19761,
+        "locations": [
+            "MOON_JUNGLE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 22079,
+        "locations": [
+            "PANDALOUSIE_VALLEY_CEMETERY",
+            "ZINIT_TOP_FLANK_SBIRE_KALI",
+            "ZINIT_SUMMIT_ETHERNELS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 22077,
+        "locations": [
+            "PANDALOUSIE_VALLEY_SALTY_MARSH",
+            "ZINIT_TOP_FLANK_BLEROX",
+            "ZINIT_SUMMIT_DRAGOEFS"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 27867,
+        "locations": [
+            "CHUCHOKU_KINGDOM_TUNDRA",
+            "OSAMOSA_CAUDAL_SHORE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 27869,
+        "locations": [
+            "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS",
+            "OSAMOSA_CAUDAL_SHORE"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 28760,
+        "locations": [
+            "SHUKRUTE_HORROR_CITADEL"
+        ]
+    },
+    {
+        "jobId": 75,
+        "jobItemId": 28762,
+        "locations": [
+            "SHUKRUTE_DEATH_ROAD"
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+@use '../variables' as *;
+//Bug couleur sans cette ajout
+* {
+}
+
+// Boutons
+.button {
+    -fx-text-fill: $primary_button_text_color;
+    -fx-background-color: $primary_button_background_color;
+    -fx-padding: 10 20 10 20;
+    -fx-background-radius: 5;
+    -fx-background-insets: 0;
+    &:hover {
+        -fx-background-color: $primary_button_background_color_hover;
+    }
+}
+
+.button {
+    -fx-cursor: hand;
+}
+
+// Fields
+.combo-box, .text-field, .password-field, .text-area, .check-box, .radio-button,
+.toggle-group, .list-view, .spinner, .date-picker, .slider, .progress-bar {
+    -fx-background-color: $primary_field_background_color;
+    -fx-text-fill: $primary_field_text_color;
+    -fx-background-insets: 0;
+    &:hover, &:hover * {
+        -fx-background-color: $primary_field_background_color_hover;
+    }
+    * {
+        -fx-background-color: $primary_field_background_color;
+        -fx-text-fill: $primary_field_text_color;
+    }
+}
+
+.combo-box, .check-box, .radio-button, .spinner,
+.date-picker, .toggle-group, .image-toggle, .image-checkbox, .image-popup-sprite {
+    -fx-cursor: hand;
+    -fx-background-insets: 0;
+}
+
+
+.combo-box {
+    -fx-border-radius: 10;
+    -fx-padding: 1 0 0 1;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+ 
+    .combo-box-popup {
+        -fx-border-radius: 10;
+    }
+       
+    .arrow-button {
+        -fx-background-color: transparent;
+        .arrow {
+            -fx-background-color: $primary_icon_button_background_color;
+            -fx-shape: "M12 17.414L3.293 8.707L4.707 7.293L12 14.586L19.293 7.293L20.707 8.707L12 17.414z";
+        }
+
+        &:hover .arrow {
+            -fx-background-color: $primary_icon_button_background_color_hover;
+        }
+    }
+    
+    .list-view {
+         .list-cell {
+            -fx-background-color: $primary_field_background_color;
+            &:hover {
+                -fx-background-color: $primary_field_background_color_hover;
+            }
+
+            &:selected {
+                -fx-background-color: $primary_field_background_color_hover;
+            }
+        }   
+    }
+}
+
+.text-field, .password-field, .text-area {
+    -fx-padding: 6;
+    -fx-pref-width: 150;
+}
+
+.scroll-pane, .infinite-scroll-pane {
+    -fx-background-color: $primary_field_background_color;
+
+    .increment-button, .decrement-button {
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+    }
+
+    .scroll-bar:horizontal, .scroll-bar:vertical , .scroll-bar .corner {
+        -fx-background-color:transparent;
+        .track {
+            -fx-background-color: transparent;
+            -fx-border-color: transparent;
+            -fx-background-radius: 0em;        
+        }
+        .thumb {
+            -fx-background-color: $primary_field_background_color;
+            -fx-background-radius: 5em;   
+        }
+    }
+    
+    .scroll-pane-container {
+        -fx-background-color: $primary_field_background_color;
+    }
+}
+
+.popup-sprite, .image-popup-sprite {
+
+}    
+.popup-sprite-content {
+    -fx-background-color: $primary_field_background_color_hover;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+    -fx-border-color: $primary_field_background_color_hover;
+    .button {
+        -fx-opacity: 0.5;
+        &:hover {
+            -fx-opacity: 0.9;
+        }
+    }
+}
+
+.image-checkbox, .text-checkbox {
+    -fx-background-color: $primary_field_background_color;
+    -fx-opacity: 0.5;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-padding: 3 3 3 3;
+    -fx-border-color: $primary_button_background_color_hover;
+    &:hover {
+        -fx-opacity: 0.9;
+    }
+    &.selected {
+        -fx-opacity: 1.0;
+        -fx-background-color: $primary_button_background_color_hover;
+        -fx-border-color: $primary_button_background_color_hover;
+        &:hover {
+            -fx-opacity: 0.9;
+        }
+    }
+}
+.text-checkbox {
+    -fx-padding: 4 5 4 5;
+}
+
+.check-box {
+    &:selected {
+        .box {
+            -fx-background-color: $primary_field_background_color_hover;
+        }
+        .mark {
+            -fx-background-color: $checkbox_checked_icon_color;
+        }
+    }
+}

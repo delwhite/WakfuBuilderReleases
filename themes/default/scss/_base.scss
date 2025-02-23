@@ -1,0 +1,201 @@
+@use 'variables' as *;
+* {
+    -fx-font-family: $font_family;
+    -fx-font-size: $font_size_base;
+    -fx-text-fill: $primary_text_color;
+}
+
+VBox, HBox, Pane, GridPane, BorderPane, StackPane, 
+AnchorPane, TilePane, FlowPane, ScrollPane, TableView {
+    -fx-background-color: $primary_background_color;
+}
+Region, .scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+
+.rootBar, .rootBar * {
+    -fx-background-color: $primary_menu_background_color;
+    -fx-text-fill: $primary_menu_text_color;
+    .menu-button {
+        -fx-text-fill: $primary_menu_button_text_color;
+        -fx-background-color: $primary_menu_button_background_color;
+        -fx-background-radius: 5;
+        &:hover,&:showing {
+            -fx-background-color: $primary_menu_button_background_color_hover;
+            .container, .container .label {
+                -fx-background-color: $primary_menu_button_background_color_hover;    
+            }
+        }
+
+        .label, .arrow-button {
+            -fx-background-color: transparent;
+        }
+        .arrow-button {
+            -fx-padding: 0;
+            .arrow {
+                -fx-shape: none;
+                -fx-padding: 0;
+            }
+        }
+    }
+    .menu-item {
+        -fx-text-fill: $primary_menu_button_text_color;
+        -fx-background-color: $primary_menu_button_background_color;
+        -fx-background-radius: 5;
+        &:hover {
+            -fx-background-color: $primary_menu_button_background_color_hover;
+            * {
+                -fx-background-color: $primary_menu_button_background_color_hover;    
+            }
+        }
+    }
+}
+
+.loaderStackPane {
+    -fx-background-color: $primary_menu_background_color;
+}
+
+.title {
+    -fx-font-size: $font_size_large;
+    -fx-font-weight: bold;
+}
+
+.sidebar {
+    .sidebar-control {
+        -fx-background-color: transparent;
+    }
+}
+
+.tab-pane {
+    -fx-padding: 0; 
+    -fx-border-insets: 0; 
+    -fx-background-insets: 0;
+    .tab {
+        -fx-pref-height: 25px;
+        -fx-background-color: $secondary_menu_background_color;
+        -fx-padding: 2 10 2 10;
+        -fx-font-size: $font_size_large;
+        -fx-border-color: transparent;
+        -fx-border-radius: 10;
+        -fx-cursor: hand;
+        .tab-label {
+            -fx-text-fill: $secondary_menu_text_color_hover;
+        }
+
+        &:selected {
+            .focus-indicator {
+                -fx-border-color: transparent;
+            }
+        }
+
+        &:selected, &:hover {
+            -fx-background-color: $secondary_menu_background_color_hover;
+            .tab-label {
+               -fx-text-fill: $secondary_menu_text_color;
+            }
+        }
+
+        .tab-header .graphic {
+            -fx-padding: 0 5 0 5;
+        }
+    }
+    .tab-header-area {
+        -fx-padding: 0;
+    }
+}
+
+MenuButton, .menu-item {
+    -fx-cursor: hand;
+}
+.menu-item {
+    -fx-opacity: 0.6;
+    &:hover {
+        -fx-opacity: 1;
+    }
+}
+
+
+.tooltip-graphic {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+}
+
+.not-buttons .button {
+    -fx-cursor: pointer;
+    -fx-background-color: transparent;
+    &:hover {
+        -fx-background-color: transparent;
+    }
+    
+    
+    &.is_button {
+        -fx-cursor: hand;
+        -fx-background-color: $primary_button_background_color;
+        &:hover {
+            -fx-background-color: $primary_button_background_color_hover;
+        }
+    }
+    
+    &.button-info {
+        cursor: help;   
+    }
+}
+.button-info {
+    cursor: help;   
+}
+
+.table-view {
+    -fx-background-color: $secondary_menu_background_color;
+    -fx-padding: 10px;
+    -fx-font-size: $font_size_base;
+    .table-column {
+        -fx-background-color: transparent;
+        -fx-alignment: CENTER;
+        -fx-padding: 0 2 0 2;
+        -fx-font-weight: bold;
+        
+        -fx-border-color: $primary_background_color;
+        -fx-border-width: 1px;
+    }
+    .table-cell {
+        -fx-background-color: transparent;
+        -fx-text-fill: $primary_field_text_color;
+        -fx-font-size: $font_size_base;
+    }
+    .column-header-background {
+        -fx-background-color: transparent;
+    }
+    .column-header {
+        -fx-background-color: $secondary_menu_background_color;
+        -fx-text-fill: $secondary_menu_text_color;
+        -fx-font-weight: bold;
+        -fx-font-size: $font_size_large;
+        .arrow {
+            -fx-background-color: $secondary_menu_text_color;
+        }
+    }
+    
+    .table-row-cell {
+        &:odd {
+            -fx-background-color: $primary_field_background_color;
+        }
+        &:even {
+            -fx-background-color: $primary_field_background_color_hover;
+        }
+        &:focused {
+            -fx-background-color: $table_view_selected;
+        }
+        &:hover {
+            -fx-background-color: $table_view_hovered;
+        }
+    }
+    .scroll-bar {
+        -fx-background-color: transparent;
+        .thumb {
+            -fx-background-color: $secondary_menu_background_color;
+        }
+        .track {
+            -fx-background-color: transparent;
+        }
+    }
+}

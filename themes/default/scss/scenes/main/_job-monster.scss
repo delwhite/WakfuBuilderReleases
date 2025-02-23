@@ -1,0 +1,19 @@
+@use '../../variables' as *;
+//Bug couleur sans cette ajout
+* {
+}
+
+.location-column-content, .loot-column-content {
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+    HBox {
+        -fx-background-color: transparent;
+    }
+}
+
+.loot-column-content HBox {
+    -fx-cursor:hand;
+    &:hover .label {
+        -fx-underline: true;
+    }
+}

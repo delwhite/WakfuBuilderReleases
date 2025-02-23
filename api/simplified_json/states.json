@@ -1,0 +1,4436 @@
+[ {
+  "id" : 6714,
+  "title" : {
+    "fr" : "Paisible",
+    "en" : "Peaceful",
+    "es" : "Apacible",
+    "pt" : "Pacífico"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque mouvement, par PM utilisé :", "➥ +3% Parade (max 18)(1 tour)", "Si le porteur de l'état effectue une parade hors de son tour :", "➥ le bonus est transformé en Coup critique au prochain tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL", "PARADE", "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 1613,
+  "title" : {
+    "fr" : "Emblème du Sadida",
+    "en" : "Sadida Emblem",
+    "es" : "Emblema de sadida",
+    "pt" : "Emblema de Sadida"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5073,
+  "title" : {
+    "fr" : "Inflexible (Inflexibilité)",
+    "en" : "Inflexible",
+    "es" : "Inflexible",
+    "pt" : "Inflexível"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 10 PA ou moins :", "➥ 15% Dommages infligés", "➥ 10 Volonté (si le personnage est niveau 100 ou plus)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "WILL", "ELEMENT", "SUMMON" ]
+}, {
+  "id" : 1583,
+  "title" : {
+    "fr" : "Le demi pay aime",
+    "en" : "Glass Half Empee",
+    "es" : "Medio peheme",
+    "pt" : "Vidro Meio Vajio"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6000,
+  "title" : {
+    "fr" : "Théorie de la matière",
+    "en" : "Theory of Matter",
+    "es" : "Teoría de la Materia",
+    "pt" : "Teoria da Matéria"
+  },
+  "descriptions" : {
+    "fr" : [ "50% Coup critique", "-50% Dommages et Soins", "100% Coup critique", "-50% Dommages et Soins" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "CRITICAL", "SUMMON" ]
+}, {
+  "id" : 1482,
+  "title" : {
+    "fr" : "Costume de Goule",
+    "en" : "Ghoul Costume",
+    "es" : "Traje de Ghul",
+    "pt" : "Traje de Carniçal"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5078,
+  "title" : {
+    "fr" : "Fracass'carcasse",
+    "en" : "Smashmouth",
+    "es" : "Rompecarcasa",
+    "pt" : "Kebra-Karkaça"
+  },
+  "descriptions" : {
+    "fr" : [ "Le premier sort qui occasionne des dégâts du tou retire 30% Armure à la cible" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_ARMOR" ]
+}, {
+  "id" : 7257,
+  "title" : {
+    "fr" : "Sentinelle",
+    "en" : "Sentinel",
+    "es" : "Centinela",
+    "pt" : "Sentinela"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour :", "➥ 3 Portée", "➥ 15% Dommages Distance", "➥ 15% Soins réalisés", "➥ Les bonus sont perdu au premier déplacement (PM)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PO", "DMG", "DMG_DIST", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6041,
+  "title" : {
+    "fr" : "Expert des Coups critiques",
+    "en" : "Critical Hit Expert",
+    "es" : "Experto en Golpes Críticos",
+    "pt" : "Especialista em Golpes Críticos"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, si un coup critique a été effectué :", "➥ Soin (neutre) : 2% des PV manquants du lanceur", "En fin de tour, si un coup critique a été effectué :", "➥ Soin (neutre) : 4% des PV manquants du lanceur", "En fin de tour, si un coup critique a été effectué :", "➥ Soin (neutre) : 6% des PV manquants du lanceur" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_CRITICAL", "OPTI_BREACH", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6705,
+  "title" : {
+    "fr" : "Furie",
+    "en" : "Outrage",
+    "es" : "Furia",
+    "pt" : "Fúria"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a moins de 100% de son niveau en Esquive :", "➥ 15% Dommages infligés en Berserk", "➥ 100% du niveau en Tacle" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_BERSERK" ]
+}, {
+  "id" : 8390,
+  "title" : {
+    "fr" : "Dérobade continue",
+    "en" : "Constant Evasion",
+    "es" : "Escapatoria Continua",
+    "pt" : "Evasão Contínua"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Parade", "6% Parade", "9% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "PARADE", "SUMMON" ]
+}, {
+  "id" : 7880,
+  "title" : {
+    "fr" : "Engagement",
+    "en" : "Engagement",
+    "es" : "Compromiso",
+    "pt" : "Engajamento"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état possède 0 Maîtrise Soin ou moins :", "➥ 30% Soins réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 7875,
+  "title" : {
+    "fr" : "Distribution",
+    "en" : "Distribution",
+    "es" : "Distribución",
+    "pt" : "Distribuição"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur soigne un allié, 50% du soin est converti en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6006,
+  "title" : {
+    "fr" : "Sauvegarde",
+    "en" : "Save",
+    "es" : "Guardado",
+    "pt" : "Salvaguarda"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour :", "➥ Les PA non utilisés sont transmis au tour suivant :", "➥ Max 1 PA (augmente de 1 tous les 2 niveaux, soit 3 PA au max)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA" ]
+}, {
+  "id" : 5158,
+  "title" : {
+    "fr" : "Maniement : Deux mains",
+    "en" : "Wield type: two-handed",
+    "es" : "Manejo: Dos manos",
+    "pt" : "Manejo: Duas mãos"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a une Arme à deux mains équipée (maximum 12 PA avant l'effet de la sublimation) :", "➥ -2PM max", "➥ 2 PA max" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA", "SUMMON" ]
+}, {
+  "id" : 8402,
+  "title" : {
+    "fr" : "Rupture violente",
+    "en" : "Violent Rupture",
+    "es" : "Ruptura Violenta",
+    "pt" : "Ruptura Violenta"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état fait perdre son Armure à la cible :", "➥ Le porteur de l'état lui inflige des dommages lumière (10% du niveau)", "Lorsque le porteur de l'état fait perdre son Armure à la cible :", "➥ Le porteur de l'état lui inflige des dommages lumière (20% du niveau)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_ARMOR" ]
+}, {
+  "id" : 7070,
+  "title" : {
+    "fr" : "Pacte d'Anathar II",
+    "en" : "Anathar's Pact II",
+    "es" : "Pacto de Anathar II",
+    "pt" : "Pacto de Anathar II"
+  },
+  "descriptions" : {
+    "fr" : [ "Tour impair : +5% Dommages Zone", "Tour pair : +5 Dommages Monocible" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7865,
+  "title" : {
+    "fr" : "Interception",
+    "en" : "Interception",
+    "es" : "Interceptación",
+    "pt" : "Interceptação"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 50% du niveau en Tacle", "En début de combat :", "➥ 100% du niveau en Tacle", "En début de combat :", "➥ 150% du niveau en Tacle" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "TACKLE", "SUMMON" ]
+}, {
+  "id" : 5988,
+  "title" : {
+    "fr" : "Ténacité",
+    "en" : "Tenacity",
+    "es" : "Tenacidad",
+    "pt" : "Tenacidade"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, si le porteur de l'état a 2 PA ou plus :", "➥ 25 Résistance Élémentaire (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 8403,
+  "title" : {
+    "fr" : "Rupture PA",
+    "en" : "AP Rupture",
+    "es" : "Ruptura PA",
+    "pt" : "Ruptura de PA"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état fait perdre son Armure à la cible :", "➥ Le porteur de l'état regagne 2 PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA", "DMG_ARMOR" ]
+}, {
+  "id" : 6002,
+  "title" : {
+    "fr" : "Endurance",
+    "en" : "Endurance",
+    "es" : "Aguante",
+    "pt" : "Resistência"
+  },
+  "descriptions" : {
+    "fr" : [ "-5% aux malus de caractéristiques reçus", "Concerne tous les malus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état. La valeur est toujours arrondie à l'inférieur.", "-10% aux malus de caractéristiques reçus", "Concerne tous les malus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état. La valeur est toujours arrondie à l'inférieur.", "-15% aux malus de caractéristiques reçus", "Concerne tous les malus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état. La valeur est toujours arrondie à l'inférieur." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ ]
+}, {
+  "id" : 7860,
+  "title" : {
+    "fr" : "Agilité vitale",
+    "en" : "Vital Agility",
+    "es" : "Agilidad Vital",
+    "pt" : "Agilidade Vital"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour, si les PV sont supérieurs à 90% :", "➥ 1 PM" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM", "OPTI_ROUND_1" ]
+}, {
+  "id" : 5990,
+  "title" : {
+    "fr" : "Fermeté",
+    "en" : "Resolute",
+    "es" : "Firmeza",
+    "pt" : "Firmeza"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir subi une perte de 3 PA :", "➥ 10 Volonté (3 tours)", "Après avoir subi une perte de 3 PA :", "➥ 20 Volonté (3 tours)", "Après avoir subi une perte de 3 PA :", "➥ 30 Volonté (3 tours)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 8497,
+  "title" : {
+    "fr" : "Dernier soin",
+    "en" : "Last Heal",
+    "es" : "Última Cura",
+    "pt" : "Última Cura"
+  },
+  "descriptions" : {
+    "fr" : [ "En tombant sous 20% PV max (1 fois par combat) :", "➥ Soin : 5% des PV max", "En tombant sous 20% PV max (1 fois par combat) :", "➥ Soin : 10% des PV max", "En tombant sous 20% PV max (1 fois par combat) :", "➥ Soin : 15% des PV max" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6706,
+  "title" : {
+    "fr" : "Furie II",
+    "en" : "Outrage II",
+    "es" : "Furia II",
+    "pt" : "Fúria II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 4 Portée ou plus :", "➥ 15% Dommages infligés en Berserk et Distance simultanément", "➥ +1 Portée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PO", "TACLKE", "DMG", "DMG_DIST", "DMG_BERSERK" ]
+}, {
+  "id" : 7075,
+  "title" : {
+    "fr" : "Combat rapproché",
+    "en" : "Brawling",
+    "es" : "Combate Cercano",
+    "pt" : "Combate Aproximado"
+  },
+  "descriptions" : {
+    "fr" : [ "-1 Portée", "50% du Niveau en Tacle et Esquive", "-1 Portée", "100% du Niveau en Tacle et Esquive" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "TACKLE", "SUMMON" ]
+}, {
+  "id" : 1611,
+  "title" : {
+    "fr" : "Emblème d'Ecaflip",
+    "en" : "Ecaflip Emblem",
+    "es" : "Emblema de zurcarák",
+    "pt" : "Emblema de Ecaflip"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6020,
+  "title" : {
+    "fr" : "Barrière Mêlée",
+    "en" : "Melee Barrier",
+    "es" : "Barrera en Melé",
+    "pt" : "Barreira Curta Distância"
+  },
+  "descriptions" : {
+    "fr" : [ "Réduit les Dommages Mêlée subis de 50% du niveau, 2 fois par tour", "Réduit les Dommages Mêlée subis de 50% du niveau, 4 fois par tour", "Réduit les Dommages Mêlée subis de 50% du niveau, 6 fois par tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 8381,
+  "title" : {
+    "fr" : "Pétulance",
+    "en" : "Ebullience",
+    "es" : "Petulancia",
+    "pt" : "Petulância"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur se déplace avec un sort :", "➥ 1 PA", "➥ 2 max par tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA" ]
+}, {
+  "id" : 8519,
+  "title" : {
+    "fr" : "Gel",
+    "en" : "Freezing",
+    "es" : "Congelación",
+    "pt" : "Congelamento"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Dommages [IMAGE-WATER]", "4% Dommages [IMAGE-WATER]", "6% Dommages [IMAGE-WATER]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 6821,
+  "title" : {
+    "fr" : "Expert des armes légères",
+    "en" : "Light Weapons Expert",
+    "es" : "Experto en armas ligeras",
+    "pt" : "Especialista em Armas Leves"
+  },
+  "descriptions" : {
+    "fr" : [ "Si aucun bouclier, ni dague, ni arme à deux main n'est équipé, en début de combat :", "➥ 25% du niveau en Maîtrise Élémentaire", "➥ 2% Dommages infligés sur une cible avec de l'Armure", "Si aucun bouclier, ni dague, ni arme à deux main n'est équipé, en début de combat :", "➥ 50% du niveau en Maîtrise Élémentaire", "➥ 4% Dommages infligés sur une cible avec de l'Armure", "Si aucun bouclier, ni dague, ni arme à deux main n'est équipé, en début de combat :", "➥ 75% du niveau en Maîtrise Élémentaire", "➥ 6% Dommages infligés sur une cible avec de l'Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "ELEMENT", "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 2505,
+  "title" : {
+    "fr" : "Fortification",
+    "en" : "Fortification",
+    "es" : "Fortificación",
+    "pt" : "Fortificação"
+  },
+  "descriptions" : {
+    "fr" : [ "+X Résistance Élémentaire pour 1% de PV manquants", "Calcul : (0.001 * Niv.) + (0.01 * Niv.) + (0.1 * Niv.) Chaque multiplication est arrondi) (si 0.5 alors arrondi au supérieur)", "Exemple pour Niv. 30 : +0.33 Résistance Élémentaire pour 1% de PV manquants" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2570,
+  "title" : {
+    "fr" : "Muraille 75%",
+    "en" : "Walls 75%",
+    "es" : "Muralla 75%",
+    "pt" : "Muros 75%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 75% :", "➥ X Résistance Élémentaire", "Calcul : X = Niv." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6830,
+  "title" : {
+    "fr" : "Nature",
+    "en" : "Natural",
+    "es" : "Naturaleza",
+    "pt" : "Natural"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Soins réalisés sur un allié au contact d'un autre allié", "4% Soins réalisés sur un allié au contact d'un autre allié", "6% Soins réalisés sur un allié au contact d'un autre allié" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6928,
+  "title" : {
+    "fr" : "Critique technique",
+    "en" : "Technical Critical",
+    "es" : "Crítico técnico",
+    "pt" : "Crítico Técnico"
+  },
+  "descriptions" : {
+    "fr" : [ "Le premier Coup critique du tour inflige 6% de Dommages supplémentaires", "Les suivants infligent -3% Dommages", "Le premier Coup critique du tour inflige 12% de Dommages supplémentaires", "Les suivants infligent -6% Dommages" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ ]
+}, {
+  "id" : 7859,
+  "title" : {
+    "fr" : "Force légère",
+    "en" : "Light Strength",
+    "es" : "Fuerza Ligera",
+    "pt" : "Força Branda"
+  },
+  "descriptions" : {
+    "fr" : [ "Tant que le porteur ne possède pas d'Armure :", "➥ 3% Dommages infligés", "Tant que le porteur ne possède pas d'Armure :", "➥ 6% Dommages infligés", "Tant que le porteur ne possède pas d'Armure :", "➥ 9% Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 7255,
+  "title" : {
+    "fr" : "Contrôle de l'espace II",
+    "en" : "Controlling Space II",
+    "es" : "Control del Espacio II",
+    "pt" : "Controle do Espaço II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a au moins 3 Portée : ", "➥ 30% dommages infligés indirects" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "DMG_INDIRECT" ]
+}, {
+  "id" : 6021,
+  "title" : {
+    "fr" : "Persistance",
+    "en" : "Persistence",
+    "es" : "Persistencia",
+    "pt" : "Persistência"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, si le porteur de l'état a 6 PA ou plus :", "60 Résistance Élémentaire (2 tours)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 6831,
+  "title" : {
+    "fr" : "Dernier souffle",
+    "en" : "Last Breath",
+    "es" : "Último aliento",
+    "pt" : "Último Suspiro"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur commence son tour en dessous de 20% PV :", "➥ 3% Dommages infligés (1 tour)", "➥ 50% du niveau en armure", "Lorsque le porteur commence son tour en dessous de 20% PV :", "➥ 6% Dommages infligés (1 tour)", "➥ 100% du niveau en armure", "Lorsque le porteur commence son tour en dessous de 20% PV :", "➥ 9% Dommages infligés (1 tour)", "➥ 150% du niveau en armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_BERSERK", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 7254,
+  "title" : {
+    "fr" : "Lunatique",
+    "en" : "Lunatic",
+    "es" : "Lunático",
+    "pt" : "Lunático"
+  },
+  "descriptions" : {
+    "fr" : [ "Tour impair, en début de tour :", "➥ 25% Dommages infligés", "➥ -25% Soins réalisés et Armure donnée", "Tour pair, en début de tour :", "➥ -25% Dommages infligés", "➥ 25% Soins réalisés et Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMH_GENERAL", "OPTI_ROUND_1", "SUPPORT", "SUPPORT_HEALING", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6827,
+  "title" : {
+    "fr" : "Longueur d'armure",
+    "en" : "Armor Length",
+    "es" : "Longitud de armadura",
+    "pt" : "Extensão da Armadura"
+  },
+  "descriptions" : {
+    "fr" : [ "4% Armure donnée sur un allié en Ligne et à Distance", "8% Armure donnée sur un allié en Ligne et à Distance", "12% Armure donnée sur un allié en Ligne et à Distance" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6026,
+  "title" : {
+    "fr" : "Influence",
+    "en" : "Influence",
+    "es" : "Influjo",
+    "pt" : "Influência"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Coup critique", "6% Coup critique", "9% Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "CRITICAL", "SUMMON" ]
+}, {
+  "id" : 7872,
+  "title" : {
+    "fr" : "Contact",
+    "en" : "Contact",
+    "es" : "Contacto",
+    "pt" : "Contato"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, par ennemi au contact :", "➥ 5% des PV max en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 5981,
+  "title" : {
+    "fr" : "Dévastation",
+    "en" : "Devastation",
+    "es" : "Devastación",
+    "pt" : "Devastação"
+  },
+  "descriptions" : {
+    "fr" : [ "1 PW", "-30 Volonté", "1 PW", "-20 Volonté", "1 PW", "-10 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PW", "SUMMON" ]
+}, {
+  "id" : 5999,
+  "title" : {
+    "fr" : "Dimensionnalité",
+    "en" : "Dimensionality",
+    "es" : "Dimensionalidad",
+    "pt" : "Dimensionalidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Au premier tour du poreteur de l'état :", "➥ 1PW (non régénérable)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PW" ]
+}, {
+  "id" : 7106,
+  "title" : {
+    "fr" : "Dofushu",
+    "en" : "Dofushu",
+    "es" : "Dofub'huritu",
+    "pt" : "Dofushu"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5077,
+  "title" : {
+    "fr" : "Dénouement",
+    "en" : "Unraveling",
+    "es" : "Desenlace",
+    "pt" : "Desenlace"
+  },
+  "descriptions" : {
+    "fr" : [ "Convertit 100% de Maîtrise Critique en Maîtrise Élémentaire au lancement du combat si le porteur de l'état possède au moins 40% Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "ELEMENT", "SUMMON", "DMG", "DMG_NO_CRITICAL", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 2413,
+  "title" : {
+    "fr" : "Muraille 50%",
+    "en" : "Walls 50%",
+    "es" : "Muralla 50%",
+    "pt" : "Muros 50%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 50% :", "➥ X Résistance Élémentaire", "Calcul : X = Niv." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8389,
+  "title" : {
+    "fr" : "Vision intermédiaire",
+    "en" : "Intermediate Vision",
+    "es" : "Visión Intermedia",
+    "pt" : "Visão Intermediária"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Dommages infligés aux cibles à exactement 3 cases", "6% Dommages infligés aux cibles à exactement 3 cases", "9% Dommages infligés aux cibles à exactement 3 cases" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 1348,
+  "title" : {
+    "fr" : "Etoi Eskeutula",
+    "en" : "Legwhat?",
+    "es" : "Ytudondeta",
+    "pt" : "Pernoquê?"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque début de tour, le porteur a 50% de chance de gagner ou de perdre 1 PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5989,
+  "title" : {
+    "fr" : "Solidité",
+    "en" : "Solidity",
+    "es" : "Solidez",
+    "pt" : "Solidez"
+  },
+  "descriptions" : {
+    "fr" : [ "Réduit les Dommages Directs reçus suprérieurs à 20% des PV max de 400% du niveau (une fois par tour de table)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 2573,
+  "title" : {
+    "fr" : "Requinquage 75%",
+    "en" : "Perk Up 75%",
+    "es" : "Recuperación 75%",
+    "pt" : "Estimular 75%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 75%, en début de tour :", "➥ Soin [IMAGE-NEUTRAL] : 80" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2571,
+  "title" : {
+    "fr" : "Berserk 75%",
+    "en" : "75% Berserk",
+    "es" : "Berserk 75%",
+    "pt" : "Berserk 75%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieur à 75% :", "➥ X Maîtrise Élémentaire", "Calcul : X = Niv." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7877,
+  "title" : {
+    "fr" : "Élémentalisme",
+    "en" : "Elementalism",
+    "es" : "Elementalismo",
+    "pt" : "Elementalismo"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état possède 3 maîtrises élémentaires égales :", "➥ 20% Dommages infligés et Soins réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "DMG_MULTI_ELEMENT", "DMG_MONO_ELEMENT", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 3233,
+  "title" : {
+    "fr" : "Emblème du Zobal",
+    "en" : "Masqueraider Emblem",
+    "es" : "Emblema de zobal",
+    "pt" : "Emblema do Zobal"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7879,
+  "title" : {
+    "fr" : "Abnégation",
+    "en" : "Abnegation",
+    "es" : "Abnegación",
+    "pt" : "Abnegação"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat :", "➥ Convertit 50% de la Maîtrise Élémentaire en Maîtrise Soin (à taux de 1 vers 1.3)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6712,
+  "title" : {
+    "fr" : "Renaissance",
+    "en" : "Rebirth",
+    "es" : "Resurrección",
+    "pt" : "Renascimento"
+  },
+  "descriptions" : {
+    "fr" : [ "-50 Résistance Élémentaire", "Une fois par tour, en tombant sous 50% PV :", "➥ 1 PM", "➥ 15% Dommages infligés", "➥ 50 Rsistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM", "DMG", "DMG_BERSERK" ]
+}, {
+  "id" : 8131,
+  "title" : {
+    "fr" : "Allocentrisme",
+    "en" : "Allocentrism",
+    "es" : "Alocentrismo",
+    "pt" : "Alocentrismo"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur ne possède pas d'Armure:", "➥ 5% Armure donnée", "Si le porteur ne possède pas d'Armure:", "➥ 10% Armure donnée", "Si le porteur ne possède pas d'Armure:", "➥ 15% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 5980,
+  "title" : {
+    "fr" : "Ruine",
+    "en" : "Ruin",
+    "es" : "Ruina",
+    "pt" : "Ruína"
+  },
+  "descriptions" : {
+    "fr" : [ "5% dommages indirects", "10% dommages indirects", "15% dommages indirects" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUMMON", "DMG", "DMG_FLAMING", "DMG_INDIRECT" ]
+}, {
+  "id" : 1608,
+  "title" : {
+    "fr" : "Emblème du Iop",
+    "en" : "Iop Emblem",
+    "es" : "Emblema de yopuka",
+    "pt" : "Emblema de Iop"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8384,
+  "title" : {
+    "fr" : "Pilier II",
+    "en" : "Pillar II",
+    "es" : "Pilar II",
+    "pt" : "Pilar II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 50% Parade ou plus", "➥ Bonus sur le modificateur de PV : -30%", "➥ 30% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "HP", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 7873,
+  "title" : {
+    "fr" : "Face-à-face",
+    "en" : "Face-to-Face",
+    "es" : "Cara-a-cara",
+    "pt" : "Cara a Cara"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, si le porteur fait face à un ennemi au contact :", "➥ 10% des PV max en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 2515,
+  "title" : {
+    "fr" : "Berserk 50%",
+    "en" : "50% Berserk",
+    "es" : "Berserk 50%",
+    "pt" : "Berserk 50%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieur à 50% :", "➥ X Maîtrise Élémentaire", "Calcul : X = Niv." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6818,
+  "title" : {
+    "fr" : "Vol d'Esquive",
+    "en" : "Dodge Steal",
+    "es" : "Robo de esquiva",
+    "pt" : "Roubo de Esquiva"
+  },
+  "descriptions" : {
+    "fr" : [ "-10% Dommages infligés avec une arme", "En infligeant des Dommages à un ennemi avec une arme à deux mains :", "Vole 15% du niveau en Esquive (1 tour, non-cumulable)", "-10% Dommages infligés avec une arme", "En infligeant des Dommages à un ennemi avec une arme à deux mains :", "Vole 30% du niveau en Esquive (1 tour, non-cumulable)", "-10% Dommages infligés avec une arme", "En infligeant des Dommages à un ennemi avec une arme à deux mains :", "Vole 45% du niveau en Esquive (1 tour, non-cumulable)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "DODGE" ]
+}, {
+  "id" : 8490,
+  "title" : {
+    "fr" : "Contrôle du temps",
+    "en" : "Time Control",
+    "es" : "Control del Tiempo",
+    "pt" : "Controle do Tempo"
+  },
+  "descriptions" : {
+    "fr" : [ "Tous les 3 sorts lancés : Fixe les Coup critique à 100" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL" ]
+}, {
+  "id" : 8368,
+  "title" : {
+    "fr" : "Modularité",
+    "en" : "Modularity",
+    "es" : "Modularidad",
+    "pt" : "Modularidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir subi des dommages :", "➥ 50 Résistance élémentaire dans cet élément (1 tour) (non cumulable)", "➥ Un nouvel élément remplace le précédent" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 8502,
+  "title" : {
+    "fr" : "Gel secondaire",
+    "en" : "Secondary Freezing",
+    "es" : "Congelación Secundaria",
+    "pt" : "Congelamento Secundário"
+  },
+  "descriptions" : {
+    "fr" : [ "En lançant un sort [IMAGE-FIRE][IMAGE-EARTH][IMAGE-WIND]", "➥ 2% Dommages [IMAGE-WATER]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Eau", "En lançant un sort [IMAGE-FIRE][IMAGE-EARTH][IMAGE-WIND]", "➥ 4% Dommages [IMAGE-WATER]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Eau", "En lançant un sort [IMAGE-FIRE][IMAGE-EARTH][IMAGE-WIND]", "➥ 6% Dommages [IMAGE-WATER]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Eau" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 8489,
+  "title" : {
+    "fr" : "Cuirasse singulière II",
+    "en" : "Single Shared Armor II",
+    "es" : "Cota Singular",
+    "pt" : "Couraça Singular II"
+  },
+  "descriptions" : {
+    "fr" : [ "Chaque tour, 40% Armure donnée sur la première Armure posée", "Sinon -50% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6023,
+  "title" : {
+    "fr" : "Aisance",
+    "en" : "Poise",
+    "es" : "Ligereza",
+    "pt" : "Desenvoltura"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir subi une perte de 2 PM :", "5 Volonté (3 tours)", "Après avoir subi une perte de 2 PM :", "10 Volonté (3 tours)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 8496,
+  "title" : {
+    "fr" : "Dernière armure",
+    "en" : "Last Armor",
+    "es" : "Última Armadura",
+    "pt" : "Última Armadura"
+  },
+  "descriptions" : {
+    "fr" : [ "En tombant sous 20% PV max (1 fois par combat) :", "➥ 5% des PV max en Armure", "En tombant sous 20% PV max (1 fois par combat) :", "➥ 10% des PV max en Armure", "En tombant sous 20% PV max (1 fois par combat) :", "➥ 15% des PV max en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 5443,
+  "title" : {
+    "fr" : "Santé de fer",
+    "en" : "Robust Health",
+    "es" : "Salud de hierro",
+    "pt" : "Saúde de Ferro"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, pour le porteur de l'état :", "➥ -30% PV", "➥ 30% Soins et Armures reçues" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_HEALING", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 8508,
+  "title" : {
+    "fr" : "Ventilation secondaire",
+    "en" : "Secondary Ventilation",
+    "es" : "Ventilación Secundaria",
+    "pt" : "Ventilação Secundária"
+  },
+  "descriptions" : {
+    "fr" : [ "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-EARTH]", "➥ 2% Dommages [IMAGE-WIND]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Air", "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-EARTH]", "➥ 4% Dommages [IMAGE-WIND]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Air", "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-EARTH]", "➥ 6% Dommages [IMAGE-WIND]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Air" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 7713,
+  "title" : {
+    "fr" : "Tabass'Carapace",
+    "en" : "Bashell",
+    "es" : "Caparagolpiza",
+    "pt" : "Soca-Carapaça"
+  },
+  "descriptions" : {
+    "fr" : [ "6% Dommages infligés sur une cible qui possède de l'armure", "12% Dommages infligés sur une cible qui possède de l'armure", "18% Dommages infligés sur une cible qui possède de l'armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_ARMOR" ]
+}, {
+  "id" : 5082,
+  "title" : {
+    "fr" : "Robuste",
+    "en" : "Robust",
+    "es" : "Robusto",
+    "pt" : "Robusto"
+  },
+  "descriptions" : {
+    "fr" : [ "100% du niveau en Barrière contre les dégâts reçus à distance (permanent)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 5886,
+  "title" : {
+    "fr" : "Eternité",
+    "en" : "Eternity",
+    "es" : "Eternidad",
+    "pt" : "Eternidade"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6029,
+  "title" : {
+    "fr" : "Muraille",
+    "en" : "Wall",
+    "es" : "Muralla",
+    "pt" : "Muralha"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 150% du niveau en Armure", "En début de combat :", "➥ 300% du niveau en Armure", "En début de combat :", "➥ 450% du niveau en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 8366,
+  "title" : {
+    "fr" : "Dernier instant",
+    "en" : "Last Moment",
+    "es" : "Último Instante",
+    "pt" : "Último Instante"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement d'un sort, s'il coûte 1 PW ou plus :", "➥ 5% Dommages infligés par PW courant sur le porteur (max 30%)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 7714,
+  "title" : {
+    "fr" : "Témérité",
+    "en" : "Recklessness",
+    "es" : "Temeridad",
+    "pt" : "Temeridade"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur retire toute son Armure à une cible :", "3% Dommages infligés pour le reste du tour (max 30)", "Lorsque le porteur retire toute son Armure à une cible :", "6% Dommages infligés pour le reste du tour (max 30)", "Lorsque le porteur retire toute son Armure à une cible :", "9% Dommages infligés pour le reste du tour (max 30)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_ARMOR" ]
+}, {
+  "id" : 7079,
+  "title" : {
+    "fr" : "Préparation critique ",
+    "en" : "Critical Preparation ",
+    "es" : "Preparación Crítica ",
+    "pt" : "Preparação Crítica "
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque fois qu'un coup critique est effectué (5 fois par tour max) :", "Au début du prochain tour :", "➥ 2% Dommages infligés au prochain sort de Dommages", "À chaque fois qu'un coup critique est effectué (5 fois par tour max) :", "Au début du prochain tour :", "➥ 4% Dommages infligés au prochain sort de Dommages", "À chaque fois qu'un coup critique est effectué (5 fois par tour max) :", "Au début du prochain tour :", "➥ 6% Dommages infligés au prochain sort de Dommages" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_CRITICAL", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 6010,
+  "title" : {
+    "fr" : "Visibilité",
+    "en" : "Visibility",
+    "es" : "Visibilidad",
+    "pt" : "Visibilidade"
+  },
+  "descriptions" : {
+    "fr" : [ "1 Portée", "-300 Tacle", "-300 Esquive", "1 Portée", "-150 Tacle", "-150 Esquive" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "PO", "SUMMON" ]
+}, {
+  "id" : 8498,
+  "title" : {
+    "fr" : "Dernières résistances",
+    "en" : "Last Resistance",
+    "es" : "Últimas Resistencias",
+    "pt" : "Últimas Resistências"
+  },
+  "descriptions" : {
+    "fr" : [ "En tombant sous 20% PV max (1 fois par combat) :", "20 Résistance Élémentaire", "En tombant sous 20% PV max (1 fois par combat) :", "40 Résistance Élémentaire", "En tombant sous 20% PV max (1 fois par combat) :", "60 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 6090,
+  "title" : {
+    "fr" : "Cicatrisation",
+    "en" : "Healing",
+    "es" : "Sanación",
+    "pt" : "Cicatrização"
+  },
+  "descriptions" : {
+    "fr" : [ "+5% Point de vie", "+10% Point de vie", "+15% Point de vie" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUMMON" ]
+}, {
+  "id" : 8399,
+  "title" : {
+    "fr" : "Représailles",
+    "en" : "Reprisal",
+    "es" : "Represalias",
+    "pt" : "Represália"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état subit des Dommages Directs à Distance :", "➥ Inflige 6% Dommages supplémentaires à l'attaquant (1 tour) (non-cumulable)", "Lorsque le porteur de l'état subit des Dommages Directs à Distance :", "➥ Inflige 12% Dommages supplémentaires à l'attaquant (1 tour) (non-cumulable)", "Lorsque le porteur de l'état subit des Dommages Directs à Distance :", "➥ Inflige 18% Dommages supplémentaires à l'attaquant (1 tour) (non-cumulable)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 6817,
+  "title" : {
+    "fr" : "Vol de Tacle",
+    "en" : "Lock Steal",
+    "es" : "Robo de placaje",
+    "pt" : "Roubo de Bloqueio"
+  },
+  "descriptions" : {
+    "fr" : [ "-10% Dommages infligés avec une arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ Vole 15% du niveau en Tacle (1 tour, non-cumulable)", "-10% Dommages infligés avec une arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ Vole 30% du niveau en Tacle (1 tour, non-cumulable)", "-10% Dommages infligés avec une arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ Vole 45% du niveau en Tacle (1 tour, non-cumulable)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "TACKLE" ]
+}, {
+  "id" : 8393,
+  "title" : {
+    "fr" : "Bouclier dorsal",
+    "en" : "Rear Shield",
+    "es" : "Escudo Dorsal",
+    "pt" : "Escudo Dorsal"
+  },
+  "descriptions" : {
+    "fr" : [ "5 Résistance Dos", "10 Résistance Dos", "15 Résistance Dos" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES", "SUMMON" ]
+}, {
+  "id" : 7874,
+  "title" : {
+    "fr" : "Hypermétrope",
+    "en" : "Farsighted",
+    "es" : "Hipermétrope",
+    "pt" : "Hipermetrope"
+  },
+  "descriptions" : {
+    "fr" : [ "30% Dommages infligés sur les cibles à 7 cases ou plus, sinon -15%" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 8372,
+  "title" : {
+    "fr" : "Véhémence",
+    "en" : "Vehemence",
+    "es" : "Vehemencia",
+    "pt" : "Veemência"
+  },
+  "descriptions" : {
+    "fr" : [ "Chaque tour, 50% de vie volée sur le premier sort qui inflige des dommages" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8499,
+  "title" : {
+    "fr" : "Brûlure secondaire",
+    "en" : "Secondary Burn",
+    "es" : "Quemadura Secundaria",
+    "pt" : "Queimadura Secundária"
+  },
+  "descriptions" : {
+    "fr" : [ "En lançant un sort [IMAGE-WATER][IMAGE-EARTH][IMAGE-WIND]", "➥ 2% Dommages [IMAGE-FIRE]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Feu", "En lançant un sort [IMAGE-WATER][IMAGE-EARTH][IMAGE-WIND]", "➥ 4% Dommages [IMAGE-FIRE]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Feu", "En lançant un sort [IMAGE-WATER][IMAGE-EARTH][IMAGE-WIND]", "➥ 6% Dommages [IMAGE-FIRE]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Feu" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 1616,
+  "title" : {
+    "fr" : "Emblème du Roublard",
+    "en" : "Rogue Emblem",
+    "es" : "Emblema de tymador",
+    "pt" : "Emblema de Ladino"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6823,
+  "title" : {
+    "fr" : "Relations sociales",
+    "en" : "Social Relations",
+    "es" : "Relaciones sociales",
+    "pt" : "Relações Sociais"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Dommages dos en tour pair", "2% Dommages de face en tour impair", "4% Dommages dos en tour pair", "4% Dommages de face en tour impair", "6% Dommages dos en tour pair", "6% Dommages de face en tour impair" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_FRONT", "DMG_BACK" ]
+}, {
+  "id" : 8370,
+  "title" : {
+    "fr" : "Calibrage",
+    "en" : "Calibration",
+    "es" : "Calibrado",
+    "pt" : "Calibragem"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur a infligé des dommages en mêlée à un ennemi pendant son tour :", "➥ 25% Dommages infligés à distance pour le tour suivant" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_DIST" ]
+}, {
+  "id" : 5444,
+  "title" : {
+    "fr" : "Science du placement",
+    "en" : "Positioning Knowledge",
+    "es" : "Ciencia del Posicionamiento",
+    "pt" : "Arte do posicionamento"
+  },
+  "descriptions" : {
+    "fr" : [ "50 Résistance Élémentaire", "-200 Résistance Dos" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 7258,
+  "title" : {
+    "fr" : "Assimilation",
+    "en" : "Assimilation",
+    "es" : "Asimilación",
+    "pt" : "Assimilação"
+  },
+  "descriptions" : {
+    "fr" : [ "-50 Résistance élémentaire", "Si le porteur de l'état subit des dommages d'un ennemi :", "➥ 100 Résistance dans l'élément subi (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 6007,
+  "title" : {
+    "fr" : "Bonne action",
+    "en" : "Good Deed",
+    "es" : "Buena Acción",
+    "pt" : "Boa Ação"
+  },
+  "descriptions" : {
+    "fr" : [ "N'existe plus !" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7722,
+  "title" : {
+    "fr" : "Conservation",
+    "en" : "Conservation",
+    "es" : "Conservación",
+    "pt" : "Conservação"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont supérieurs à 90% :", "➥ 10% Parade", "Lorsque les PV sont supérieurs à 90% :", "➥ 20% Parade", "Lorsque les PV sont supérieurs à 90% :", "➥ 30% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PARADE" ]
+}, {
+  "id" : 8398,
+  "title" : {
+    "fr" : "Sanguinolence",
+    "en" : "Blood Stains",
+    "es" : "Sanguinolencia",
+    "pt" : "Sanguinolência"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque malus ou perte appliqué sur une cible : ", "➥ 2% Dommages reçus par le lanceur", "À chaque malus ou perte appliqué sur une cible : ", "➥ 4% Dommages reçus par le lanceur", "À chaque malus ou perte appliqué sur une cible : ", "➥ 6% Dommages reçus par le lanceur" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 1614,
+  "title" : {
+    "fr" : "Emblème du Xelor",
+    "en" : "Xelor Emblem",
+    "es" : "Emblema de xelor",
+    "pt" : "Emblema de Xelor"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6834,
+  "title" : {
+    "fr" : "Volte-face",
+    "en" : "About-Turn",
+    "es" : "Media vuelta",
+    "pt" : "Meia-Volta"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état subit des Dommages Directs au Contact, une fois par tour de l'attaquant :", "➥ Le porteur de l'état se tourne vers lui" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 8391,
+  "title" : {
+    "fr" : "Bouclier critique",
+    "en" : "Critical Shield",
+    "es" : "Escudo Crítico",
+    "pt" : "Escudo Crítico"
+  },
+  "descriptions" : {
+    "fr" : [ "5 Résistance Critique", "10 Résistance Critique", "15 Résistance Critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "RES", "SUMMON" ]
+}, {
+  "id" : 7072,
+  "title" : {
+    "fr" : "Pacte d'Anathar IV",
+    "en" : "Anathar's Pact IV",
+    "es" : "Pacto de Anathar IV",
+    "pt" : "Pacto de Anathar IV"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état commence son tour avec 80% de ses PV ou plus :", "➥ 1 Portée", "➥ -40 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5984,
+  "title" : {
+    "fr" : "Cicatrisation",
+    "en" : "Healing",
+    "es" : "Sanación",
+    "pt" : "Cicatrização"
+  },
+  "descriptions" : {
+    "fr" : [ "+5% Point de vie", "+10% Point de vie", "+15% Point de vie" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "HP" ]
+}, {
+  "id" : 2411,
+  "title" : {
+    "fr" : "Requinquage 50%",
+    "en" : "Perk Up 50%",
+    "es" : "Recuperación 50%",
+    "pt" : "Estimular 50%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 50%, en début de tour :", "➥ Soin [IMAGE-NEUTRAL] : 80" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6036,
+  "title" : {
+    "fr" : "Longueur",
+    "en" : "Length",
+    "es" : "Longitud",
+    "pt" : "Extensão"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Dommages infligés aux cibles alignées et à 2 cases et plus du porteur de l'état", "4% Dommages infligés aux cibles alignées et à 2 cases et plus du porteur de l'état", "6% Dommages infligés aux cibles alignées et à 2 cases et plus du porteur de l'état" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 1615,
+  "title" : {
+    "fr" : "Emblème d'Enutrof",
+    "en" : "Enutrof Emblem",
+    "es" : "Emblema de anutrof",
+    "pt" : "Emblema de Enutrof"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5252,
+  "title" : {
+    "fr" : "Sang de la déchirure",
+    "en" : "Heartbreaking Blood",
+    "es" : "Sangre del Martirio",
+    "pt" : "Sangue do Talho"
+  },
+  "descriptions" : {
+    "fr" : [ "Les tour impair :", "➥ 25% Dommages infligés", "➥ Subit 15% des Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL", "OPTI_ROUND_1" ]
+}, {
+  "id" : 7855,
+  "title" : {
+    "fr" : "Retour d'Armure",
+    "en" : "Armor Return",
+    "es" : "Vuelta de Armadura",
+    "pt" : "Retorno da Armadura"
+  },
+  "descriptions" : {
+    "fr" : [ "Regagne 5% des PV max en Armure en tuant un ennemi (2 activations par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "OPTI_BREACH", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6930,
+  "title" : {
+    "fr" : "Critique tactique",
+    "en" : "Tactical Critical",
+    "es" : "Crítico táctico",
+    "pt" : "Crítico Estratégico"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Dommages critiques infligés si la cible a > 50% PV", "-3% Dommages critiques infligés si la cible a <= 50% PV", "6% Dommages critiques infligés si la cible a > 50% PV", "-6% Dommages critiques infligés si la cible a <= 50% PV", "9% Dommages critiques infligés si la cible a > 50% PV", "-9% Dommages critiques infligés si la cible a <= 50% PV" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_CRITICAL", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 6933,
+  "title" : {
+    "fr" : "Prétention",
+    "en" : "Pretension",
+    "es" : "Pretensión",
+    "pt" : "Pretensão"
+  },
+  "descriptions" : {
+    "fr" : [ "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 5% Parade", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 10% Parade", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 15% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PARADE", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 6825,
+  "title" : {
+    "fr" : "Destruction",
+    "en" : "Destruction",
+    "es" : "Destrucción",
+    "pt" : "Destruição"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Dommages de Dos", "-2% Dommages de Face et de Côté", "6% Dommages de Dos", "-4% Dommages de Face et de Côté", "9% Dommages de Dos", "-6% Dommages de Face et de Côté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_BACK" ]
+}, {
+  "id" : 6331,
+  "title" : {
+    "fr" : "Tolérance",
+    "en" : "Tolerance",
+    "es" : "Tolerancia",
+    "pt" : "Tolerância"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour :", "➥ 50% des PM non utilisés sont transmis au tour suivant", "➥ Max 1 PM", "En fin de tour :", "➥ 50% des PM non utilisés sont transmis au tour suivant", "➥ Max 2 PM" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "PM" ]
+}, {
+  "id" : 7077,
+  "title" : {
+    "fr" : "Armure lourde",
+    "en" : "Heavy Armor",
+    "es" : "Armadura Pesada",
+    "pt" : "Armadura Pesada"
+  },
+  "descriptions" : {
+    "fr" : [ "-1 PM max", "5% Dommages infligés", "-1 PM max", "10% Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUMMON", "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 8494,
+  "title" : {
+    "fr" : "Consolation critique",
+    "en" : "Critical Consolation",
+    "es" : "Consuelo Crítico",
+    "pt" : "Consolação Crítica"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque sort non critique lancé :", "➥ 2% Dommages infligés critique", "➥ Le bonus est perdu au prochain Coup critique", "À chaque sort non critique lancé :", "➥ 4% Dommages infligés critique", "➥ Le bonus est perdu au prochain Coup critique", "À chaque sort non critique lancé :", "➥ 6% Dommages infligés critique", "➥ Le bonus est perdu au prochain Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_CRITICAL" ]
+}, {
+  "id" : 6832,
+  "title" : {
+    "fr" : "Main forte",
+    "en" : "Strong Hand",
+    "es" : "Mano aliada",
+    "pt" : "Mãozinha"
+  },
+  "descriptions" : {
+    "fr" : [ "Finir son tour au contact d'un ennemi lui applique -5% Armure reçue (1 tour)", "Finir son tour au contact d'un ennemi lui applique -10% Armure reçue (1 tour)", "Finir son tour au contact d'un ennemi lui applique -15% Armure reçue (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_PENALTY" ]
+}, {
+  "id" : 7864,
+  "title" : {
+    "fr" : "Evasion",
+    "en" : "Evasion",
+    "es" : "Evasión",
+    "pt" : "Evasão"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 50% du niveau en Esquive", "En début de combat :", "➥ 100% du niveau en Esquive", "En début de combat :", "➥ 150% du niveau en Esquive" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "DODGE", "SUMMON" ]
+}, {
+  "id" : 6008,
+  "title" : {
+    "fr" : "Vivacité",
+    "en" : "Vivacity",
+    "es" : "Vivacidad",
+    "pt" : "Vivacidade"
+  },
+  "descriptions" : {
+    "fr" : [ "1 PA", "-150 Résistance élémentaire", "1 PA", "-75 Résistance élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PA" ]
+}, {
+  "id" : 7076,
+  "title" : {
+    "fr" : "Carapace",
+    "en" : "Carapace",
+    "es" : "Caparazón",
+    "pt" : "Carapaça"
+  },
+  "descriptions" : {
+    "fr" : [ "-2 PA max", "75 Résistance Élémentaire", "-1 PA max", "75 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "RES", "SUMMON" ]
+}, {
+  "id" : 8382,
+  "title" : {
+    "fr" : "Empressement",
+    "en" : "Gusto",
+    "es" : "Ahínco",
+    "pt" : "Afã"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur se déplace avec un sort :", "➥ 1 PM", "➥ 2 PM max par tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM" ]
+}, {
+  "id" : 7071,
+  "title" : {
+    "fr" : "Pacte d'Anathar III",
+    "en" : "Anathar's Pact III",
+    "es" : "Pacto de Anathar III",
+    "pt" : "Pacto de Anathar III"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état commence son tour avec 80% de ses PV ou plus :", "➥ 15% Soins réalisés", "➥ 15% Armure donnée", "➥ -50 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2848,
+  "title" : {
+    "fr" : "Costume du Waterfestival",
+    "en" : "Water Festival Costume",
+    "es" : "Traje del Festival del Agua",
+    "pt" : "Insígnia de Festival de Água"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5175,
+  "title" : {
+    "fr" : "Brise",
+    "en" : "Breeze",
+    "es" : "Brisa",
+    "pt" : "Brisa"
+  },
+  "descriptions" : {
+    "fr" : [ "25% aux dommages des sorts de zone sur la cible directe du sort", "-25% aux dommages des sorts de zone sur les autres cibles" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_SINGLE" ]
+}, {
+  "id" : 7115,
+  "title" : {
+    "fr" : "Ambition",
+    "en" : "Ambition",
+    "es" : "Ambición",
+    "pt" : "Ambição"
+  },
+  "descriptions" : {
+    "fr" : [ "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 5% Coup critique", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 10% Coup critique", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 15% Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "CRITICAL", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 6012,
+  "title" : {
+    "fr" : "Tacle Berserk",
+    "en" : "Berserk Lock",
+    "es" : "Placaje Berserker",
+    "pt" : "Bloqueio Berserk"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieurs à 50% :", "➥ 50% du niveau en Tacle", "Lorsque les PV sont inférieurs à 50% :", "➥ 100% du niveau en Tacle", "Lorsque les PV sont inférieurs à 50% :", "➥ 150% du niveau en Tacle" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "TACKLE", "DMG", "DMG_BERSERK" ]
+}, {
+  "id" : 8392,
+  "title" : {
+    "fr" : "Sauvegarde du Wakfu",
+    "en" : "Wakfu Conservation",
+    "es" : "Guardado del Wakfu",
+    "pt" : "Salvaguarda do Wakfu"
+  },
+  "descriptions" : {
+    "fr" : [ "-1 PW max", "En fin de tour, si le porteur n'a pas dépensé de PW : +1 PW" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PW" ]
+}, {
+  "id" : 6833,
+  "title" : {
+    "fr" : "Pied ferme",
+    "en" : "Firm Foot",
+    "es" : "Pie firme",
+    "pt" : "Pé Firme"
+  },
+  "descriptions" : {
+    "fr" : [ "Finir son tour au contact d'un ennemi lui applique -5% Soins réalisés (1 tour)", "Finir son tour au contact d'un ennemi lui applique -10% Soins réalisés (1 tour)", "Finir son tour au contact d'un ennemi lui applique -15% Soins réalisés (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_PENALTY" ]
+}, {
+  "id" : 6932,
+  "title" : {
+    "fr" : "Abandon",
+    "en" : "Abandon",
+    "es" : "Abandono",
+    "pt" : "Abandono"
+  },
+  "descriptions" : {
+    "fr" : [ "Au début du premier tour, si les maîtrises secondaires sont <= 0 (valeur arrondi à l'inférieur) :", "➥ 1 PW max et 1 Portée", "➥ -10% Armure donnée et reçue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PO", "PW", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 6014,
+  "title" : {
+    "fr" : "Dérobade lente",
+    "en" : "Slow Escape",
+    "es" : "Escapatoria lenta",
+    "pt" : "Evasão Lenta"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Parade par tour (max 40)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PARADE", "OPTI_BREACH" ]
+}, {
+  "id" : 1610,
+  "title" : {
+    "fr" : "Emblème du Sacrieur",
+    "en" : "Sacrier Emblem",
+    "es" : "Emblema de sacrógrito",
+    "pt" : "Emblema de Sacrier"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5174,
+  "title" : {
+    "fr" : "Alternance II",
+    "en" : "Alternation II",
+    "es" : "Alternancia II",
+    "pt" : "Alternância II"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur inflige des dommages dans un élément, il gagne +15% Maîtrise Élémentaire dans les autres éléments pour le prochain sort", "Uniquement la première ligne de dégats occasionnée par le sort est prise en compte" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "ELEMENT", "DMG", "DMG_MULTI_ELEMENT", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 6025,
+  "title" : {
+    "fr" : "Puits de Vitalité",
+    "en" : "Vitality Well",
+    "es" : "Pozo de Vitalidad",
+    "pt" : "Poço de Vitalidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Augmente de 5% les Vols de vie réalisés", "Augmente de 10% les Vols de vie réalisés", "Augmente de 15% les Vols de vie réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_STEAL_LIFE" ]
+}, {
+  "id" : 8518,
+  "title" : {
+    "fr" : "Brûlure",
+    "en" : "Burn",
+    "es" : "Quemadura",
+    "pt" : "Queimadura"
+  },
+  "descriptions" : {
+    "fr" : [ "+4% Dommages infligés [IMAGE-FIRE]", "+8% Dommages infligés [IMAGE-FIRE]", "+12% Dommages infligés [IMAGE-FIRE]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 6822,
+  "title" : {
+    "fr" : "Arcanes",
+    "en" : "Arcana",
+    "es" : "Arcanos",
+    "pt" : "Arcanos"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur de l'état ne possède pas d'armure en fin de tour :", "➥ 50% du niveau en Armure", "Si le porteur de l'état ne possède pas d'armure en fin de tour :", "➥ 100% du niveau en Armure", "Si le porteur de l'état ne possède pas d'armure en fin de tour :", "➥ 150% du niveau en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 5453,
+  "title" : {
+    "fr" : "Garde Levée",
+    "en" : "Guard Up",
+    "es" : "Guardia Levantada",
+    "pt" : "Guarda Baixada"
+  },
+  "descriptions" : {
+    "fr" : [ "-30% Dommages subis au cours de son propre tour." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ]
+}, {
+  "id" : 5991,
+  "title" : {
+    "fr" : "Légèreté",
+    "en" : "Lightness",
+    "es" : "Ligereza",
+    "pt" : "Leveza"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir subi une perte de 3 PM :", "10 Volonté (3 tours)", "Après avoir subi une perte de 3 PM :", "20 Volonté (3 tours)", "Après avoir subi une perte de 3 PM :", "30 Volonté (3 tours)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 6812,
+  "title" : {
+    "fr" : "Puissance brute",
+    "en" : "Raw Power",
+    "es" : "Potencia bruta",
+    "pt" : "Potência Bruta"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "-1 PW max", "Pour chaque PW dépensé pendant le tour :", "2% Dommages infligés (1 tour) (max 30)", "En début de combat :", "-2 PW max", "Pour chaque PW dépensé pendant le tour :", "4% Dommages infligés (1 tour) (max 30)", "En début de combat :", "-3 PW max", "Pour chaque PW dépensé pendant le tour :", "6% Dommages infligés (1 tour) (max 30)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 7252,
+  "title" : {
+    "fr" : "Excès II",
+    "en" : "Excess II",
+    "es" : "Exceso II",
+    "pt" : "Excesso II"
+  },
+  "descriptions" : {
+    "fr" : [ "-10% Dommages infligés", "Tous les 5 sorts lancés, le porteur de l'état gagne 100% Dommages infligés pour le prochain sort", "➥ Les sorts lancés doivent coûter au moins 1 PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 8383,
+  "title" : {
+    "fr" : "Lourdeur involontaire",
+    "en" : "Involuntary Heaviness",
+    "es" : "Pesadez Involuntaria",
+    "pt" : "Lentidão Involuntária"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur est déplacé en dehors de son tour :", "➥ Applique STABILISÉ à la fin de son prochain tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ]
+}, {
+  "id" : 6032,
+  "title" : {
+    "fr" : "Prospérité",
+    "en" : "Prosperity",
+    "es" : "Prosperidad",
+    "pt" : "Prosperidade"
+  },
+  "descriptions" : {
+    "fr" : [ "3% aux bonus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état (La valeur est toujours arrondie à l'inférieur)", "6% aux bonus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état (La valeur est toujours arrondie à l'inférieur)", "9% aux bonus de caractéristiques reçus en combat, lancés par une entité autre que le porteur de l'état (La valeur est toujours arrondie à l'inférieur)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "RES", "ELEMENT", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 4570,
+  "title" : {
+    "fr" : "Dofus Prismatique",
+    "en" : "Prismatic Dofus",
+    "es" : "Dofus Prismático",
+    "pt" : "Dofus Prismático"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8379,
+  "title" : {
+    "fr" : "Lunatique II",
+    "en" : "Lunatic II",
+    "es" : "Lunático II",
+    "pt" : "Lunático II"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir infligé des Dommages à un ennemi, pour le tour suivant :", "➥ -30% Dommages infligés", "➥ 30% soins réalisés", "➥ 30% Armure donnée", "Après avoir soigné ou donnée de l'Armure à un allié, pour le tour suivant :", "➥ 30% Dommages infligés", "➥ -30% Soins réalisés", "➥ -30% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 7088,
+  "title" : {
+    "fr" : "Poids plume",
+    "en" : "Featherweight",
+    "es" : "Peso Pluma",
+    "pt" : "Peso-pena"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, par PM supérieur à 4 :", "➥ 2% Dommages infligés (maximum 24)", "Au lancement du combat, par PM supérieur à 4 :", "➥ 4% Dommages infligés (maximum 24)", "Au lancement du combat, par PM supérieur à 4 :", "➥ 6% Dommages infligés (maximum 24)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUMMON", "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 6018,
+  "title" : {
+    "fr" : "Esquive Berserk",
+    "en" : "Berserk Dodge",
+    "es" : "Esquiva Berserker",
+    "pt" : "Esquiva Berserk"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieurs à 50% :", "➥ 50% du niveau en Esquive", "Lorsque les PV sont inférieurs à 50% :", "➥ 100% du niveau en Esquive", "Lorsque les PV sont inférieurs à 50% :", "➥ 150% du niveau en Esquive" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_BERSERK" ]
+}, {
+  "id" : 6708,
+  "title" : {
+    "fr" : "Contrôle de l'espace",
+    "en" : "Controlling Space",
+    "es" : "Control del Espacio",
+    "pt" : "Controle do Espaço"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a au moins 1 Portée : ", "➥ 15% dommages infligés et Soins réalisés sur les cibles à 2, 3 ou 4 cases de distance du lanceur" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_DIST", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6842,
+  "title" : {
+    "fr" : "Courage",
+    "en" : "Courage",
+    "es" : "Valentía",
+    "pt" : "Coragem"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Dommages et Soins non critiques infligés", "-2% Dommages et Soins critiques infligés", "4% Dommages et Soins non critiques infligés", "-4% Dommages et Soins critiques infligés", "6% Dommages et Soins non critiques infligés", "-6% Dommages et Soins critiques infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_NO_CRITICAL", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 2572,
+  "title" : {
+    "fr" : "Requinquage 66%",
+    "en" : "Perk Up 66%",
+    "es" : "Recuperación 66%",
+    "pt" : "Estimular 66%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 66%, en début de tour :", "➥ Soin [IMAGE-NEUTRAL] : 75" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2064,
+  "title" : {
+    "fr" : "Insigne des Mérydes",
+    "en" : "Meridia Insignia",
+    "es" : "Insignia de los santos",
+    "pt" : "Insígnia dos Meridas"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6328,
+  "title" : {
+    "fr" : "Intégrité",
+    "en" : "Integrity",
+    "es" : "Integridad",
+    "pt" : "Integridade"
+  },
+  "descriptions" : {
+    "fr" : [ "En soignant un allié, si cet allié a moins de 15% PV :", "➥ Soin (neutre) : 7% des PV max de la cible", "En soignant un allié, si cet allié a moins de 15% PV :", "➥ Soin (neutre) : 14% des PV max de la cible" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 5993,
+  "title" : {
+    "fr" : "Réprobation",
+    "en" : "Condemnation",
+    "es" : "Reprobación",
+    "pt" : "Reprovação"
+  },
+  "descriptions" : {
+    "fr" : [ "-20 Volonté", "Réduit de 1 la prochaine perte de PA subie (1 fois par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ]
+}, {
+  "id" : 6037,
+  "title" : {
+    "fr" : "Expert des Parades",
+    "en" : "Blocking Expert",
+    "es" : "Experto en Anticipación",
+    "pt" : "Especialista em Paradas"
+  },
+  "descriptions" : {
+    "fr" : [ "-50 Résistance Élémentaire", "-15% Dommages reçus lors d'une Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 2513,
+  "title" : {
+    "fr" : "Requinquage 33%",
+    "en" : "Perk Up 33%",
+    "es" : "Recuperación 33%",
+    "pt" : "Estimular 33%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 33%, en début de tour :", "➥ Soin [IMAGE-NEUTRAL] : 75" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6330,
+  "title" : {
+    "fr" : "Secret de la vie",
+    "en" : "Secret of Life",
+    "es" : "Secreto de la Vida",
+    "pt" : "Segredo da Vida"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ Reduit la maîtrise Soin à 0", "➥ 10% soins réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 5976,
+  "title" : {
+    "fr" : "Arme de Lumière",
+    "en" : "Light Weapon",
+    "es" : "Arma de Luz",
+    "pt" : "Arma de Luz"
+  },
+  "descriptions" : {
+    "fr" : [ "Les dommages effectués par l'arme du porteur sont réduits de 20% et appliquent un poison (3 tour) :", "➥ En début de tour :", "➥ Dommage [IMAGE-LIGHT] : 10", "➥ Dommage * par le coût en dégat de l'arme et n'inclus par l'arme secondaire)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ],
+  "categories-useless" : [ "DMG", "DMG_INDIRECT" ]
+}, {
+  "id" : 8400,
+  "title" : {
+    "fr" : "Coque",
+    "en" : "Shell",
+    "es" : "Cáscara",
+    "pt" : "Casco"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état applique de l'armure sur un allié, applique Contre sur l'allié :", "➥ Lorsque le porteur de l'état subit des dommages directs au contact :", " ➥ Inflige des Dommages [IMAGE-LIGHT]", " ➥ Dommage : 5% de votre niveau", " ➥ Vous perdez l'état Contre", "Lorsque le porteur de l'état applique de l'armure sur un allié, applique Contre sur l'allié :", "➥ Lorsque le porteur de l'état subit des dommages directs au contact :", " ➥ Inflige des Dommages [IMAGE-LIGHT]", " ➥ Dommage : 10% de votre niveau", " ➥ Vous perdez l'état Contre", "Lorsque le porteur de l'état applique de l'armure sur un allié, applique Contre sur l'allié :", "➥ Lorsque le porteur de l'état subit des dommages directs au contact :", " ➥ Inflige des Dommages [IMAGE-LIGHT]", " ➥ Dommage : 15% de votre niveau", " ➥ Vous perdez l'état Contre" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 5,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 7711,
+  "title" : {
+    "fr" : "Art du cachement",
+    "en" : "Art of Concealment",
+    "es" : "Arte del Escondite",
+    "pt" : "Arte do Escondimento"
+  },
+  "descriptions" : {
+    "fr" : [ "-6% Dommages reçus lorsque le porteur est hors ligne de vue", "3% Dommages reçus lorsque le porteur est en ligne de vue", "-12% Dommages reçus lorsque le porteur est hors ligne de vue", "6% Dommages reçus lorsque le porteur est en ligne de vue", "-18% Dommages reçus lorsque le porteur est hors ligne de vue", "9% Dommages reçus lorsque le porteur est en ligne de vue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 5370,
+  "title" : {
+    "fr" : "Pacte Wakfu",
+    "en" : "Wakfu Pact",
+    "es" : "Pacto Wakfu",
+    "pt" : "Pacto Wakfu"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 8 PW ou plus", "➥ 10 Volonté", "➥ 15% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "WILL", "PARADE", "SUMMON" ]
+}, {
+  "id" : 7878,
+  "title" : {
+    "fr" : "Chaos",
+    "en" : "Chaos",
+    "es" : "Caos",
+    "pt" : "Caos"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, les maîtrises élémentaires sont fixées à 0", "20% Dommages infligés et Soins réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "NO_ELEMENT", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 8386,
+  "title" : {
+    "fr" : "Volonté directe",
+    "en" : "Direct Force of Will",
+    "es" : "Voluntad Directa",
+    "pt" : "Vontade Direta"
+  },
+  "descriptions" : {
+    "fr" : [ "En dehors du tour du porteur : -4 Volonté", "Pendant le tour du porteur : 3 Volonté", "En dehors du tour du porteur : -8 Volonté", "Pendant le tour du porteur : 6 Volonté", "En dehors du tour du porteur : -12 Volonté", "Pendant le tour du porteur : 9 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 7712,
+  "title" : {
+    "fr" : "Folie",
+    "en" : "Madness",
+    "es" : "Locura",
+    "pt" : "Loucura"
+  },
+  "descriptions" : {
+    "fr" : [ "6% Dommages infligés en diagonale", "12% Dommages infligés en diagonale", "18% Dommages infligés en diagonale" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 1478,
+  "title" : {
+    "fr" : "Insigne de Sorcier",
+    "en" : "Wizard Insignia",
+    "es" : "Insignia de bruja",
+    "pt" : "Insígnia de Mago"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6017,
+  "title" : {
+    "fr" : "Epines",
+    "en" : "Spines",
+    "es" : "Espinas",
+    "pt" : "Espinhos"
+  },
+  "descriptions" : {
+    "fr" : [ "Effectuez une Parade donne 1% Dommages infligés au prochain sort de Dommages", "Effectuez une Parade donne 2% Dommages infligés au prochain sort de Dommages", "Effectuez une Parade donne 3% Dommages infligés au prochain sort de Dommages" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_FOCUS_ONE_SPELL", "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 8520,
+  "title" : {
+    "fr" : "Tellurisme",
+    "en" : "Earthbound",
+    "es" : "Telurismo",
+    "pt" : "Telurismo"
+  },
+  "descriptions" : {
+    "fr" : [ "+4% Dommages infligés [IMAGE-EARTH]", "+8% Dommages infligés [IMAGE-EARTH]", "+12% Dommages infligés [IMAGE-EARTH]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 6042,
+  "title" : {
+    "fr" : "Stupéfaction",
+    "en" : "Stupefaction",
+    "es" : "Estupefacción",
+    "pt" : "Espanto"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 5% Coup critique (1 tour)", "➥ 5% du niveau en Maîtrise Critique (1 tour)", "En début de combat :", "➥ 10% Coup critique (1 tour)", "➥ 10% du niveau en Maîtrise Critique (1 tour)", "En début de combat :", "➥ 15% Coup critique (1 tour)", "➥ 15% du niveau en Maîtrise Critique (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "CRITICAL", "DMG", "DMG_CRITICAL", "OPTI_ROUND_1" ]
+}, {
+  "id" : 6819,
+  "title" : {
+    "fr" : "Contre-attaque",
+    "en" : "Counterattack",
+    "es" : "Contraataque",
+    "pt" : "Contra-Ataque"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état subit des dommages directs au contact, une fois par tour de l'attaquant :", "➥ Inflige des Dommages [IMAGE-LIGHT]", "➥ Dommage : 10% de votre niveau", "Lorsque le porteur de l'état subit des dommages directs au contact, une fois par tour de l'attaquant :", "➥ Inflige des Dommages [IMAGE-LIGHT]", "➥ Dommage : 20% de votre niveau", "Lorsque le porteur de l'état subit des dommages directs au contact, une fois par tour de l'attaquant :", "➥ Inflige des Dommages [IMAGE-LIGHT]", "➥ Dommage : 30% de votre niveau" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_INDIRECT" ]
+}, {
+  "id" : 7861,
+  "title" : {
+    "fr" : "Force vitale",
+    "en" : "Vital Strength",
+    "es" : "Fuerza Vital",
+    "pt" : "Força Vital"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour, si les PV sont supérieurs à 90% :", "➥ 1 PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA", "OPTI_ROUND_1" ]
+}, {
+  "id" : 8395,
+  "title" : {
+    "fr" : "Valeur ajoutée",
+    "en" : "Added Value",
+    "es" : "Valor Añadido",
+    "pt" : "Valor Adicionado"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque Dommage Indirect effectué (1 tour) (max 40%) :", "➥ -2% Dommages direct", "➥ 2% Dommages indirect", "À chaque Dommage Indirect effectué (1 tour) (max 40%) :", "➥ -4% Dommages direct", "➥ 4% Dommages indirect", "À chaque Dommage Indirect effectué (1 tour) (max 40%) :", "➥ -6% Dommages direct", "➥ 6% Dommages indirect" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_INDIRECT" ]
+}, {
+  "id" : 6814,
+  "title" : {
+    "fr" : "Influence du Wakfu",
+    "en" : "Wakfu Influence",
+    "es" : "Influjo del Wakfu",
+    "pt" : "Influência do Wakfu"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état commence son tour avec tous ses PW (ou toute sa BQ) :", "➥ 10% Coup critique (1 tour)", "Lorsque le porteur de l'état commence son tour avec tous ses PW (ou toute sa BQ) :", "➥ 20% Coup critique (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "CRITICAL", "OPTI_ROUND_1" ]
+}, {
+  "id" : 6927,
+  "title" : {
+    "fr" : "Précaution",
+    "en" : "Precaution",
+    "es" : "Precaución",
+    "pt" : "Precaução"
+  },
+  "descriptions" : {
+    "fr" : [ "En terminant son tour avec moins de 50% de PV :", "➥ Soin [IMAGE-NEUTRAL] : 5% des PV manquants", "En terminant son tour avec moins de 50% de PV :", "➥ Soin [IMAGE-NEUTRAL] : 10% des PV manquants", "En terminant son tour avec moins de 50% de PV :", "➥ Soin [IMAGE-NEUTRAL] : 15% des PV manquants" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_BERSERK", "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 5445,
+  "title" : {
+    "fr" : "Anatomie",
+    "en" : "Anatomy",
+    "es" : "Anatomía",
+    "pt" : "Anatomia"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat :", "➥ Convertit 50% de la Maîtrise Élémentaire en Maîtrise Dos (à taux de 1 vers 1.3)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "DMG_BACK" ]
+}, {
+  "id" : 1617,
+  "title" : {
+    "fr" : "Emblème du Pandawa",
+    "en" : "Pandawa Emblem",
+    "es" : "Emblema de pandawa",
+    "pt" : "Emblema de Pandawa"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5446,
+  "title" : {
+    "fr" : "Brutalité",
+    "en" : "Brutality",
+    "es" : "Brutalidad",
+    "pt" : "Brutalidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur a exactement 0 de Portée :", "➥ +20% Dommages infligés en mêlée et zone simultanément" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_MELEE", "DMG_AREA" ]
+}, {
+  "id" : 5448,
+  "title" : {
+    "fr" : "Force herculéenne",
+    "en" : "Herculean Strength",
+    "es" : "Fuerza Hercúlea",
+    "pt" : "Força Hercúlea"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a un nombre impair de PA :", "➥ 250% du niveau en Tacle et Esquive" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "DODGE", "TACKLE", "SUMMON" ]
+}, {
+  "id" : 7081,
+  "title" : {
+    "fr" : "Verrouillage",
+    "en" : "Locking",
+    "es" : "Bloqueo",
+    "pt" : "Trancamento"
+  },
+  "descriptions" : {
+    "fr" : [ "4% Dommages infligés aux cibles sans ligne de vue à 3 cases et plus du porteur de l'état", "8% Dommages infligés aux cibles sans ligne de vue à 3 cases et plus du porteur de l'état", "12% Dommages infligés aux cibles sans ligne de vue à 3 cases et plus du porteur de l'état" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 6926,
+  "title" : {
+    "fr" : "Revigoration",
+    "en" : "Reinvigoration",
+    "es" : "Revigorización",
+    "pt" : "Revigorada"
+  },
+  "descriptions" : {
+    "fr" : [ "-10% Soins réalisés", "Le porteur de l'état est soigné de 4% des soins réalisés sur ses alliés", "-10% Soins réalisés", "Le porteur de l'état est soigné de 8% des soins réalisés sur ses alliés", "-10% Soins réalisés", "Le porteur de l'état est soigné de 12% des soins réalisés sur ses alliés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 6005,
+  "title" : {
+    "fr" : "Vélocité",
+    "en" : "Swiftness",
+    "es" : "Velocidad",
+    "pt" : "Presteza"
+  },
+  "descriptions" : {
+    "fr" : [ "1 PM", "20% Dommages infligés", "1 PM", "10% Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PM", "SUMMON" ]
+}, {
+  "id" : 5076,
+  "title" : {
+    "fr" : "Précis (Précision chirurgicale)",
+    "en" : "Precise",
+    "es" : "Preciso",
+    "pt" : "Preciso"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 1 Portée ou moins :", "➥ 20% Soins réalisés", "➥ 15% Armure donnée et reçue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_HEALING", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 8374,
+  "title" : {
+    "fr" : "Par-delà la barrière",
+    "en" : "Beyond the Barrier",
+    "es" : "Más Allá del Parapeto",
+    "pt" : "Além da Barreira"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le sort coûte 4 PA ou plus :", "➥ 15% Dommages critique", "Si le sort coût 1 PW ou plus : ", "➥ 15% Dommages critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_CRITICAL" ]
+}, {
+  "id" : 7867,
+  "title" : {
+    "fr" : "Fuite",
+    "en" : "Flee",
+    "es" : "Huida",
+    "pt" : "Fuga"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir esquivé (avec pertes) :", "➥ 1 PM (1 max par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM", "SUPPORT", "SUPPORT_DODGE" ]
+}, {
+  "id" : 6033,
+  "title" : {
+    "fr" : "Clameur",
+    "en" : "Clamor",
+    "es" : "Clamor",
+    "pt" : "Clamor"
+  },
+  "descriptions" : {
+    "fr" : [ "-20 Volonté", "Réduit de 1 la prochaine perte de PM subie", "L'effet se réapplique à chaque tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ]
+}, {
+  "id" : 2932,
+  "title" : {
+    "fr" : "Costume d'Adale",
+    "en" : "Adal Costume",
+    "es" : "Traje de Adal",
+    "pt" : "Traje de Adal"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5986,
+  "title" : {
+    "fr" : "Dérobade",
+    "en" : "Escape",
+    "es" : "Escapatoria",
+    "pt" : "Evasão"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 5% Parade (1 tour)", "En début de combat :", "➥ 10% Parade (1 tour)", "En début de combat :", "➥ 15% Parade (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PARADE", "OPTI_ROUND_1" ]
+}, {
+  "id" : 5080,
+  "title" : {
+    "fr" : "Confiance",
+    "en" : "Trust",
+    "es" : "Confianza",
+    "pt" : "Confiança"
+  },
+  "descriptions" : {
+    "fr" : [ "30% Parade si le porteur n'a pas reçu de soin le tour précédent" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PARADE", "SUMMON" ]
+}, {
+  "id" : 6022,
+  "title" : {
+    "fr" : "Opiniâtreté",
+    "en" : "Obstinacy",
+    "es" : "Terquedad",
+    "pt" : "Insistência"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir subi une perte de 2 PA :", "➥ 5 Volonté (3 tours)", "Après avoir subi une perte de 2 PA :", "➥ 10 Volonté (3 tours)", "Après avoir subi une perte de 2 PA :", "➥ 15 Volonté (3 tours)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 6929,
+  "title" : {
+    "fr" : "Parade offensive",
+    "en" : "Offensive Block",
+    "es" : "Anticipación ofensiva",
+    "pt" : "Parada Ofensiva"
+  },
+  "descriptions" : {
+    "fr" : [ "En faisant une parade sur une attaque directe ennemie :", "➥ 2% dommages infligés (1 tour)", "➥ -10% Parade", "En faisant une parade sur une attaque directe ennemie :", "➥ 4% dommages infligés (1 tour)", "➥ -10% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 1973,
+  "title" : {
+    "fr" : "Costume de Wabbit",
+    "en" : "Wabbit Costume",
+    "es" : "Traje de Wabbit",
+    "pt" : "Traje de Wabbit"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6709,
+  "title" : {
+    "fr" : "Longévité",
+    "en" : "Longevity",
+    "es" : "Longevidad",
+    "pt" : "Longevidade"
+  },
+  "descriptions" : {
+    "fr" : [ "En subissant des Dommages de face et en mêlée, une fois par tour de table :", "➥ 10% des PV manquants en Armure", "➥ 40% Armure donnée (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6707,
+  "title" : {
+    "fr" : "Pilier",
+    "en" : "Pillar",
+    "es" : "Pilar",
+    "pt" : "Pilar"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 50% Parade ou plus :", "➥ Bonus sur le modificateur de PV : +30%", "➥ -50% Armure reçue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2931,
+  "title" : {
+    "fr" : "Costume de Passage",
+    "en" : "Passenthru Costume",
+    "es" : "Traje de Paso",
+    "pt" : "Insígnia de Passagem"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8385,
+  "title" : {
+    "fr" : "Mesure II",
+    "en" : "Measure II",
+    "es" : "Medida II",
+    "pt" : "Medida II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état à 50% Coup critique ou plus :", "➥ 20% Parade", "➥ 10 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "WILL", "PARADE" ]
+}, {
+  "id" : 8492,
+  "title" : {
+    "fr" : "Mesure III",
+    "en" : "Measure III",
+    "es" : "Medida III",
+    "pt" : "Medida III"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état à 50% Coup critique maximum :", "➥ 20% Dommages infligés en Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL", "DMG", "DMG_CRITICAL" ]
+}, {
+  "id" : 1284,
+  "title" : {
+    "fr" : "Makabrano Ksion",
+    "en" : "Makabraktion Ring",
+    "es" : "Makabranillo Ksión",
+    "pt" : "Anel da Makabração"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7073,
+  "title" : {
+    "fr" : "Pacte d'Anathar V",
+    "en" : "Anathar's Pact V",
+    "es" : "Pacto de Anathar V",
+    "pt" : "Pacto de Anathar V"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état commence son tour avec 80% de ses PV ou plus :", "➥ 10% Domages infligés", "➥ -50 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 3416,
+  "title" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6004,
+  "title" : {
+    "fr" : "Ecailles de Lune",
+    "en" : "Moon Scales",
+    "es" : "Fragmentos de Luna",
+    "pt" : "Escamas de Lua"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Armure reçue", "6% Armure reçue", "9% Armure reçue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6027,
+  "title" : {
+    "fr" : "Fureur",
+    "en" : "Fury",
+    "es" : "Furor",
+    "pt" : "Furor"
+  },
+  "descriptions" : {
+    "fr" : [ "-15% Dommages infligés", "En début de tour :", "➥ +5% Dommages infligés par entité touchée dans le tour précédent" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ],
+  "categories-useless" : [ "DMG", "DMG_AREA", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 6329,
+  "title" : {
+    "fr" : "Loup Solitaire",
+    "en" : "Lone Wolf",
+    "es" : "Lobo Solitario",
+    "pt" : "Lobo Solitário"
+  },
+  "descriptions" : {
+    "fr" : [ "Si aucun allié n'est entre 1 et 4 cass du porteur :", "➥ 2% Dommages infligés", "Si aucun allié n'est entre 1 et 4 cass du porteur :", "➥ 4% Dommages infligés", "Si aucun allié n'est entre 1 et 4 cass du porteur :", "➥ 6% Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL", "OPTI_BREACH" ]
+}, {
+  "id" : 5885,
+  "title" : {
+    "fr" : "Inversion",
+    "en" : "Inversion",
+    "es" : "Inversión",
+    "pt" : "Inversão"
+  },
+  "descriptions" : {
+    "fr" : [ "Inverse les Maîtrises Distance et Mêlée à l'application de l'état", "Les maîtrises négatives ne sont pas inversées" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8388,
+  "title" : {
+    "fr" : "Acribie",
+    "en" : "Scrupulosity",
+    "es" : "Acribia",
+    "pt" : "Acribia"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Dommages infligés aux cibles à 5 cases ou plus", "4% Dommages infligés aux cibles à 5 cases ou plus", "6% Dommages infligés aux cibles à 5 cases ou plus" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 8521,
+  "title" : {
+    "fr" : "Ventilation",
+    "en" : "Ventilation",
+    "es" : "Ventilación",
+    "pt" : "Ventilação"
+  },
+  "descriptions" : {
+    "fr" : [ "4% Dommages [IMAGE-WIND]", "8% Dommages [IMAGE-WIND]", "12% Dommages [IMAGE-WIND]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 8376,
+  "title" : {
+    "fr" : "Calibrage II",
+    "en" : "Calibration II",
+    "es" : "Calibrado II",
+    "pt" : "Calibragem II"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur a infligé des dommages en mêlée à un ennemi pendant son tour :", "➥ 10% Dommages infligés à distance pour le tour suivant (1 fois par tour, cumulable 5 fois)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_DIST" ]
+}, {
+  "id" : 7256,
+  "title" : {
+    "fr" : "Inflexibilité II",
+    "en" : "Inflexibility II",
+    "es" : "Inflexibilidad II",
+    "pt" : "Inflexibilidade II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si les Maîtrises Secondaires sont inférieures ou égales à 0 :", "➥ +15% de Maîtrises Élémentaires" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 751,
+  "title" : {
+    "fr" : "Enflammé",
+    "en" : "Flaming",
+    "es" : "Ardiente",
+    "pt" : "Flamejante"
+  },
+  "descriptions" : {
+    "fr" : [ "0.40 Tacle", "En début de tour, autour du lanceur (1 case) :", "Aux [IMAGE-ENNEMY] : Dommage [IMAGE-LIGHT]", "Si la cible meurt, autour de la cible (1 case) :", "Aux [IMAGE-ENNEMY] : Dommage [IMAGE-LIGHT]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 1354,
+  "title" : {
+    "fr" : "Aura de l'Amour",
+    "en" : "Love Aura",
+    "es" : "Aura del Amor",
+    "pt" : "Aura do Amor"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 2636,
+  "title" : {
+    "fr" : "Transfert Tellurique",
+    "en" : "Terrestrial Transfer",
+    "es" : "Transferencia Telúrica",
+    "pt" : "Transferência Telúrica"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6024,
+  "title" : {
+    "fr" : "Parade Berserk",
+    "en" : "Berserk Block",
+    "es" : "Anticipación Berserker",
+    "pt" : "Parada Berserk"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieurs à 50% :", "➥ 5% Parade", "Lorsque les PV sont inférieurs à 50% :", "➥ 10% Parade", "Lorsque les PV sont inférieurs à 50% :", "➥ 15% Parade" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "PARADE", "DMG", "DMG_BERSERK" ]
+}, {
+  "id" : 5985,
+  "title" : {
+    "fr" : "Embuscade",
+    "en" : "Ambush",
+    "es" : "Emboscada",
+    "pt" : "Emboscada"
+  },
+  "descriptions" : {
+    "fr" : [ "+2% Dommages infligés aux cibles au contact", "+4% Dommages infligés aux cibles au contact", "+6% Dommages infligés aux cibles au contact" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_MELEE" ]
+}, {
+  "id" : 5987,
+  "title" : {
+    "fr" : "Détermination",
+    "en" : "Determination",
+    "es" : "Determinación",
+    "pt" : "Determinação"
+  },
+  "descriptions" : {
+    "fr" : [ "-15% Dommages indirects reçus" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 7870,
+  "title" : {
+    "fr" : "Pétillance",
+    "en" : "Sparkle",
+    "es" : "Burbujeo",
+    "pt" : "Brilhantismo"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour, si le porteur ne possède pas d'Armure :", "➥ 20% Dommages infligés (1 tour)", "Sinon :", "➥ -10% Dommages infligés (1 tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 7078,
+  "title" : {
+    "fr" : "Temporisation",
+    "en" : "Delay",
+    "es" : "Temporización",
+    "pt" : "Temporização"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour, si aucun PW n'a été utilisé au tour précédent :", "➥ 4% Dommages infligés", "➥ 4% Soins réalisés", "En début de tour, si aucun PW n'a été utilisé au tour précédent :", "➥ 8% Dommages infligés", "➥ 8% Soins réalisés", "En début de tour, si aucun PW n'a été utilisé au tour précédent :", "➥ 12% Dommages infligés", "➥ 12% Soins réalisés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ ]
+}, {
+  "id" : 7863,
+  "title" : {
+    "fr" : "Influence paradoxale",
+    "en" : "Paradoxical Influence",
+    "es" : "Influjo Paradójico",
+    "pt" : "Influência Paradoxal"
+  },
+  "descriptions" : {
+    "fr" : [ "Si un coup non critique est effectué avec un sort élémentaire :", "➥ 5% Coup critique au tour suivant", "Si un coup non critique est effectué avec un sort élémentaire :", "➥ 10% Coup critique au tour suivant", "Si un coup non critique est effectué avec un sort élémentaire :", "➥ 15% Coup critique au tour suivant" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "USELESS" ]
+}, {
+  "id" : 2512,
+  "title" : {
+    "fr" : "Rage",
+    "en" : "Fury",
+    "es" : "Rabia",
+    "pt" : "Raiva"
+  },
+  "descriptions" : {
+    "fr" : [ "+X Maîtrise pour 1% de PV manquants", "Calcul : (0.001 * Niv.) + (0.01 * Niv.) + (0.1 * Niv.) (Chaque multiplication est arrondi) (si 0.5 alors arrondi au supérieur)", "Exemple pour Niv. 35 : +0.39 Maîtrise pour 1% de PV manquants" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8375,
+  "title" : {
+    "fr" : "Cuirasse singulière",
+    "en" : "Single Shared Armor",
+    "es" : "Cota Singular",
+    "pt" : "Couraça Singular"
+  },
+  "descriptions" : {
+    "fr" : [ "30% Armure donnée sur les cibles n'ayant pas d'Armure", "Sinon -100% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6931,
+  "title" : {
+    "fr" : "Neutralité",
+    "en" : "Neutrality",
+    "es" : "Neutralidad",
+    "pt" : "Neutralidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 8% Dommages ingligés", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 16% Dommages ingligés", "Au début du premier tour, si les maîtrises secondaires sont <= 0 :", "➥ 24% Dommages ingligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "NO_SECONDARY_MASTERY" ]
+}, {
+  "id" : 7856,
+  "title" : {
+    "fr" : "Profit",
+    "en" : "Profit",
+    "es" : "Provecho",
+    "pt" : "Proveito"
+  },
+  "descriptions" : {
+    "fr" : [ "Regagne 1 PA en retirant un PA ou un PM à un ennemi (1 max par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA" ]
+}, {
+  "id" : 5248,
+  "title" : {
+    "fr" : "Maniement : Bouclier",
+    "en" : "Wield type: Shield",
+    "es" : "Manejo: Escudo",
+    "pt" : "Manejo: Escudo"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a un Bouclier équipé :", "➥ 1 PM max", "➥ La Portée positive est fixée à 0" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM", "SUMMON" ]
+}, {
+  "id" : 6811,
+  "title" : {
+    "fr" : "Arme solide",
+    "en" : "Solid Weapon",
+    "es" : "Arma sólida",
+    "pt" : "Arma Sólida"
+  },
+  "descriptions" : {
+    "fr" : [ "En infligeant des dommages à un ennemi avec une arme :", "➥ Cet ennemi réduit ses dommages sur le porteur de l'état de -5% (1 tour, non-cumulable)", "➥ Le porteur de l'état doit posséder un bouclier équipé", "En infligeant des dommages à un ennemi avec une arme :", "➥ Cet ennemi réduit ses dommages sur le porteur de l'état de -10% (1 tour, non-cumulable)", "➥ Le porteur de l'état doit posséder un bouclier équipé" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 5253,
+  "title" : {
+    "fr" : "Wé",
+    "en" : "Yeah",
+    "es" : "Seh",
+    "pt" : "Nhé"
+  },
+  "descriptions" : {
+    "fr" : [ "si un sort à PW est utilisée (max 1) :", "➥ Tour pair : +2PA", "➥ Tour impair : -2PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA" ]
+}, {
+  "id" : 5982,
+  "title" : {
+    "fr" : "Ravage",
+    "en" : "Devastate",
+    "es" : "Estragos",
+    "pt" : "Assolação"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ Toutes les Maîtrises : 5% du niveau", "➥ Toutes les Résistances : 3", "En début de combat :", "➥ Toutes les Maîtrises : 10% du niveau", "➥ Toutes les Résistances : 6", "En début de combat :", "➥ Toutes les Maîtrises : 15% du niveau", "➥ Toutes les Résistances : 9" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "CHARAC", "RES", "ELEMENT", "SUMMON" ]
+}, {
+  "id" : 6039,
+  "title" : {
+    "fr" : "Influence lente",
+    "en" : "Slow Influence",
+    "es" : "Influjo lento",
+    "pt" : "Influência Lenta"
+  },
+  "descriptions" : {
+    "fr" : [ "1% Coup critique par tour (max 30)", "2% Coup critique par tour (max 30)", "3% Coup critique par tour (max 30)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "CHARAC", "CRITICAL", "OPTI_BREACH" ]
+}, {
+  "id" : 1619,
+  "title" : {
+    "fr" : "Emblème d'Osamodas",
+    "en" : "Osamodas Emblem",
+    "es" : "Emblema de osamodas",
+    "pt" : "Emblema de Osamodas"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 8387,
+  "title" : {
+    "fr" : "Volonté indirecte",
+    "en" : "Indirect Force of Will",
+    "es" : "Voluntad Indirecta",
+    "pt" : "Vontade Indireta"
+  },
+  "descriptions" : {
+    "fr" : [ "En dehors du tour du porteur : 3 Volonté", "Pendant le tour du porteur : -4 Volonté", "En dehors du tour du porteur : 6 Volonté", "Pendant le tour du porteur : -8 Volonté", "En dehors du tour du porteur : 9 Volonté", "Pendant le tour du porteur : -12 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 8380,
+  "title" : {
+    "fr" : "Aplomb naturel",
+    "en" : "Natural Poise",
+    "es" : "Aplomo Natural",
+    "pt" : "Aprumo Natural"
+  },
+  "descriptions" : {
+    "fr" : [ "50 Résistance Élémentaire si le porteur n'a pas d'Armure, sinon -100 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES" ]
+}, {
+  "id" : 6013,
+  "title" : {
+    "fr" : "Ravage secondaire",
+    "en" : "Secondary Devastation",
+    "es" : "Estragos secundarios",
+    "pt" : "Assolação Secundária"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de combat :", "➥ 3% Coup critique, 3% Parade, 3 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL", "WILL", "PARADE", "SUMMON" ]
+}, {
+  "id" : 5249,
+  "title" : {
+    "fr" : "Maniement : Dague",
+    "en" : "Wield type: Dagger",
+    "es" : "Manejo: Daga",
+    "pt" : "Manejo: Adaga"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a une Dague équipée :", "➥ 25% Dommages infligés sur les cibles touchées de face", "➥ 15% de côté", "➥ -30% de dos" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_FRONT", "OPTI_ROUND_1" ]
+}, {
+  "id" : 6731,
+  "title" : {
+    "fr" : "Dofus Turquoise",
+    "en" : "Turquoise Dofus",
+    "es" : "Dofus Turquesa",
+    "pt" : "Dofus Turquesa"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7717,
+  "title" : {
+    "fr" : "Folie vampirique",
+    "en" : "Vampiric Madness",
+    "es" : "Locura Vampírica",
+    "pt" : "Loucura Vampírica"
+  },
+  "descriptions" : {
+    "fr" : [ "-4% Soins reçus", "Lorsque le porteur inflige des dommages en diagonale :", "➥ Vole 4% des Dommages infligés", "-8% Soins reçus", "Lorsque le porteur inflige des dommages en diagonale :", "➥ Vole 8% des Dommages infligés", "-12% Soins reçus", "Lorsque le porteur inflige des dommages en diagonale :", "➥ Vole 12% des Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_STEAL_LIFE" ]
+}, {
+  "id" : 5449,
+  "title" : {
+    "fr" : "Concentration élémentaire",
+    "en" : "Elemental Concentration",
+    "es" : "Concentración Elemental",
+    "pt" : "Concentração Elementar"
+  },
+  "descriptions" : {
+    "fr" : [ "Augmente la Maîtrise Élémentaire la plus élevée du porteur de 20%, et diminue les autres de 30% au lancement du combat" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 6816,
+  "title" : {
+    "fr" : "Arme incurable (Arme empoisonnée)",
+    "en" : "Incurable Weapon",
+    "es" : "Arma incurable",
+    "pt" : "Arma Incurável"
+  },
+  "descriptions" : {
+    "fr" : [ "-20% Dommages infligés avec une Arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ -10% Soins reçus par coût en PA de l'arme sur l'ennemi et le porteur", "-15% Dommages infligés avec une Arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ -10% Soins reçus par coût en PA de l'arme sur l'ennemi et le porteur", "-10% Dommages infligés avec une Arme", "En infligeant des dommages à un ennemi avec une arme à deux mains :", "➥ -10% Soins reçus par coût en PA de l'arme sur l'ennemi et le porteur" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "SUPPORT", "SUPPORT_PENALTY" ]
+}, {
+  "id" : 6826,
+  "title" : {
+    "fr" : "Être sensible",
+    "en" : "Sensitivity",
+    "es" : "Ser sensible",
+    "pt" : "Sensibilidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Si deux alliés ou plus sont entre 1 et 4 cases du porteur :", "➥ 2% Dommages infligés", "Si deux alliés ou plus sont entre 1 et 4 cases du porteur :", "➥ 4% Dommages infligés", "Si deux alliés ou plus sont entre 1 et 4 cases du porteur :", "➥ 6% Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL" ]
+}, {
+  "id" : 8367,
+  "title" : {
+    "fr" : "Arrogance",
+    "en" : "Arrogance",
+    "es" : "Arrogancia",
+    "pt" : "Arrogância"
+  },
+  "descriptions" : {
+    "fr" : [ "-100 Résistance Élémentaire", "Lorsque le porteur inflige des Dommages en Mêlée :", "➥ Vole 25% des Dommages infligés" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_MELEE", "DMG_STEAL_LIFE" ]
+}, {
+  "id" : 6009,
+  "title" : {
+    "fr" : "Critique Berserk",
+    "en" : "Berserk Critical",
+    "es" : "Crítico Berserker",
+    "pt" : "Crítico Berserk"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont inférieurs à 50% :", "➥ 5% Coup critique", "Lorsque les PV sont inférieurs à 50% :", "➥ 10% Coup critique", "Lorsque les PV sont inférieurs à 50% :", "➥ 15% Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "CRITICAL" ]
+}, {
+  "id" : 1609,
+  "title" : {
+    "fr" : "Emblème du Cra",
+    "en" : "Cra Emblem",
+    "es" : "Emblema de ocra",
+    "pt" : "Emblema de Cra"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 1621,
+  "title" : {
+    "fr" : "Emblème du Sram",
+    "en" : "Sram Emblem",
+    "es" : "Emblema de sram",
+    "pt" : "Emblema de Sram"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5081,
+  "title" : {
+    "fr" : "Brasero",
+    "en" : "Brazier",
+    "es" : "Brasero",
+    "pt" : "Braseiro"
+  },
+  "descriptions" : {
+    "fr" : [ "+10% Dommages infligés lorsque le porteur respecte certaines conditions (varient chaque tour)", "➥ Tour 1 mêlée + monocible", "➥ Tour 2 distance + monocible", "➥ Tour 3 distance + zone", "➥ Tour 4 mêlée + zone" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_SINGLE", "DMG_AREA" ]
+}, {
+  "id" : 7881,
+  "title" : {
+    "fr" : "Volonté de fer",
+    "en" : "Iron Will",
+    "es" : "Voluntad de Hierro",
+    "pt" : "Força de Vontade"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état possède 3 Portée ou moins :", "➥ 20 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "WILL", "SUMMON" ]
+}, {
+  "id" : 5075,
+  "title" : {
+    "fr" : "Mesure",
+    "en" : "Measure",
+    "es" : "Medida",
+    "pt" : "Medida"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état à 40% Parade ou plus :", "➥ 10% Coup critique", "➥ 10% Dommages infligés en Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_CRITICAL", "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 6824,
+  "title" : {
+    "fr" : "Retour vital",
+    "en" : "Vital Return",
+    "es" : "Vuelta vital",
+    "pt" : "Volta Vital"
+  },
+  "descriptions" : {
+    "fr" : [ "En tuant un ennemi (2 fois par tour)", "➥ Soin [IMAGE-NEUTRAL] : 10% des PV manquants", "En tuant un ennemi (2 fois par tour)", "➥ Soin [IMAGE-NEUTRAL] : 20% des PV manquants" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "OPTI_BREACH" ]
+}, {
+  "id" : 7882,
+  "title" : {
+    "fr" : "Démesuré",
+    "en" : "Colossal",
+    "es" : "Desmesurado",
+    "pt" : "Desmesura"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état possède plus de Parade que de Coup critique :", "➥ La Parade est convertie en Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL", "SUMMON", "SUPPORT", "SUPPORT_PARADE" ]
+}, {
+  "id" : 6038,
+  "title" : {
+    "fr" : "Enveloppe rocheuse",
+    "en" : "Rocky Envelope",
+    "es" : "Envoltorio Rocoso",
+    "pt" : "Invólucro Rochoso"
+  },
+  "descriptions" : {
+    "fr" : [ "3% Armure donnée", "6% Armure donnée", "9% Armure donnée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUMMON", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 4960,
+  "title" : {
+    "fr" : "",
+    "en" : "",
+    "es" : "",
+    "pt" : ""
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6711,
+  "title" : {
+    "fr" : "Énergie ancestrale",
+    "en" : "Ancestral Energy",
+    "es" : "Energía Ancestral",
+    "pt" : "Energia Ancestral"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour, avec 6 PW ou plus (max 3) (perdu si moins de 6 PW au début du tour) :", "➥ 4% Dommages infligés", "➥ 15 Résistance Élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PW", "RES" ]
+}, {
+  "id" : 5074,
+  "title" : {
+    "fr" : "Constant (Constance)",
+    "en" : "Constant",
+    "es" : "Constante",
+    "pt" : "Constante"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 10% Coup critique ou moins :", "➥ 20% Dommages infligés", "➥ 50 Résistance critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "RES", "SUMMON", "DMG", "DMG_NO_CRITICAL" ]
+}, {
+  "id" : 6031,
+  "title" : {
+    "fr" : "Retour PM",
+    "en" : "MP Return",
+    "es" : "Devolución de PM",
+    "pt" : "Volta PM"
+  },
+  "descriptions" : {
+    "fr" : [ "Regagne 1 PM en tuant un ennemi (2 activations par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PM", "OPTI_BREACH" ]
+}, {
+  "id" : 8394,
+  "title" : {
+    "fr" : "Propagation",
+    "en" : "Propagation",
+    "es" : "Propagación",
+    "pt" : "Propagação"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état inflige des dommages directs, une fois par tour :", "➥ Inflige 10% du niveau en dommages lumière aux ennemis alignés avec la cible", "Lorsque le porteur de l'état inflige des dommages directs, une fois par tour :", "➥ Inflige 20% du niveau en dommages lumière aux ennemis alignés avec la cible", "Lorsque le porteur de l'état inflige des dommages directs, une fois par tour :", "➥ Inflige 30% du niveau en dommages lumière aux ennemis alignés avec la cible" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_AREA" ]
+}, {
+  "id" : 1620,
+  "title" : {
+    "fr" : "Emblème du Steamer",
+    "en" : "Foggernaut Emblem",
+    "es" : "Emblema de steamer",
+    "pt" : "Emblema de Steamer"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6828,
+  "title" : {
+    "fr" : "Altruisme",
+    "en" : "Altruism",
+    "es" : "Altruismo",
+    "pt" : "Altruísmo"
+  },
+  "descriptions" : {
+    "fr" : [ "2% Soins réalisés sur un alliée en ligne et à distance", "4% Soins réalisés sur un alliée en ligne et à distance", "6% Soins réalisés sur un alliée en ligne et à distance" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 5992,
+  "title" : {
+    "fr" : "Topologie",
+    "en" : "Topology",
+    "es" : "Topología",
+    "pt" : "Topologia"
+  },
+  "descriptions" : {
+    "fr" : [ "Au début du combat :", "➥ Toute l'esquive du porteur de l'état est convertie en Armure.", "➥ L'esquive convertie est perdue.", "Au début du combat :", "➥ Toute l'esquive du porteur de l'état est convertie en Armure avec un ratio de 1 pour 2.", "➥ L'esquive convertie est perdue.", "Au début du combat :", "➥ Toute l'esquive du porteur de l'état est convertie en Armure avec un ratio de 1 pour 3.", "➥ L'esquive convertie est perdue." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 6030,
+  "title" : {
+    "fr" : "Cyclothymie",
+    "en" : "Cyclothymia",
+    "es" : "Ciclotimia",
+    "pt" : "Ciclotimia"
+  },
+  "descriptions" : {
+    "fr" : [ "Tour pair : 10 Volonté", "Tour impair : -10 Volonté", "Tour pair : 20 Volonté", "Tour impair : -20 Volonté" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "WILL" ]
+}, {
+  "id" : 6813,
+  "title" : {
+    "fr" : "Retour enflammé",
+    "en" : "Flaming Return",
+    "es" : "Respuesta ardiente",
+    "pt" : "Retorno das Chamas"
+  },
+  "descriptions" : {
+    "fr" : [ "En tuant un ennemi (1 fois par tour) gagne 50% du niveau en :", "[STATE-751]", "En tuant un ennemi (1 fois par tour) gagne 100% du niveau en :", "[STATE-751]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_FLAMING", "OPTI_BREACH" ]
+}, {
+  "id" : 5994,
+  "title" : {
+    "fr" : "Frénésie",
+    "en" : "Frenzy",
+    "es" : "Frenesí",
+    "pt" : "Frenesi"
+  },
+  "descriptions" : {
+    "fr" : [ "-20% Dommages infligés", "En début de tour :", "➥ 10% Dommages infligés par ennemi touché dans le tour précédent" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "USELESS" ],
+  "categories-useless" : [ "DMG", "DMG_AREA", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 8132,
+  "title" : {
+    "fr" : "Apprêt",
+    "en" : "Embellishment",
+    "es" : "Adrezo",
+    "pt" : "Preparo"
+  },
+  "descriptions" : {
+    "fr" : [ "En fin de tour, par ennemi au corps-à-corps :", "1% Dommages infligés pour le tour suivant", "En fin de tour, par ennemi au corps-à-corps :", "2% Dommages infligés pour le tour suivant", "En fin de tour, par ennemi au corps-à-corps :", "3% Dommages infligés pour le tour suivant" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_MELEE" ]
+}, {
+  "id" : 6001,
+  "title" : {
+    "fr" : "Retour PA",
+    "en" : "AP Return",
+    "es" : "Devolución de PA",
+    "pt" : "Volta PA"
+  },
+  "descriptions" : {
+    "fr" : [ "Regagne 1 PA en tuant un ennemi (2 fois par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "PA", "OPTI_BREACH" ]
+}, {
+  "id" : 8251,
+  "title" : {
+    "fr" : "Dofus Ivoire",
+    "en" : "Ivory Dofus",
+    "es" : "Dofus Marfil",
+    "pt" : "Dofus Marfim"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5450,
+  "title" : {
+    "fr" : "Stasification",
+    "en" : "Stasification",
+    "es" : "Stasificación",
+    "pt" : "Estasificação"
+  },
+  "descriptions" : {
+    "fr" : [ "+2% Dommages infligés par tour (permanent) (max 20)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "OPTI_BREACH" ]
+}, {
+  "id" : 1618,
+  "title" : {
+    "fr" : "Emblème du Feca",
+    "en" : "Feca Emblem",
+    "es" : "Emblema de feca",
+    "pt" : "Emblema de Feca"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 1480,
+  "title" : {
+    "fr" : "Insigne de Jacko",
+    "en" : "Jacko Insignia",
+    "es" : "Insignia de Jacko",
+    "pt" : "Insígnia de Aboborino"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7862,
+  "title" : {
+    "fr" : "Influence vitale",
+    "en" : "Vital Influence",
+    "es" : "Influjo Vital",
+    "pt" : "Influência Vital"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont supérieurs à 90% :", "➥ 4% Coup critique", "Lorsque les PV sont supérieurs à 90% :", "➥ 8% Coup critique", "Lorsque les PV sont supérieurs à 90% :", "➥ 12% Coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "CRITICAL", "OPTI_ROUND_1" ]
+}, {
+  "id" : 2514,
+  "title" : {
+    "fr" : "Vivacité 90%",
+    "en" : "90% Vivacity",
+    "es" : "Vivacidad 90%",
+    "pt" : "90% de Vivacidade"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont supérieurs à 90% :", "➥ X Maîtrise Élémentaire", "Calcul : X = Niv." ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 1612,
+  "title" : {
+    "fr" : "Emblème d'Eniripsa",
+    "en" : "Eniripsa Emblem",
+    "es" : "Emblema de aniripsa",
+    "pt" : "Emblema de Eniripsa"
+  },
+  "descriptions" : {
+    "fr" : [ ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 6011,
+  "title" : {
+    "fr" : "Ruine cyclique",
+    "en" : "Cyclical Ruin",
+    "es" : "Ruina cíclica",
+    "pt" : "Ruína Cíclica"
+  },
+  "descriptions" : {
+    "fr" : [ "20% Dommages indirects dans les tours de table pairs" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_FLAMING", "DMG_INDIRECT" ]
+}, {
+  "id" : 6016,
+  "title" : {
+    "fr" : "Embuscade écartée",
+    "en" : "Distant Ambush",
+    "es" : "Emboscada alejada",
+    "pt" : "Emboscada Afastada"
+  },
+  "descriptions" : {
+    "fr" : [ "4% Dommages infligés aux cibles à 2 cases (1 case entre le porteur de l'état et sa cible)", "8% Dommages infligés aux cibles à 2 cases (1 case entre le porteur de l'état et sa cible)", "12% Dommages infligés aux cibles à 2 cases (1 case entre le porteur de l'état et sa cible)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "DMG", "DMG_MELEE" ]
+}, {
+  "id" : 7876,
+  "title" : {
+    "fr" : "Constant II (Constance)",
+    "en" : "Constant II",
+    "es" : "Constante II",
+    "pt" : "Constante II"
+  },
+  "descriptions" : {
+    "fr" : [ "Au lancement du combat, si le porteur de l'état a 10% Coup critique ou moins :", "➥ 40% Dommages indirects" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "SUMMON", "DMG", "DMG_NO_CRITICAL", "DMG_INDIRECT" ]
+}, {
+  "id" : 6637,
+  "title" : {
+    "fr" : "Retrait de PW",
+    "en" : "WP Removal",
+    "es" : "Retirada de PW",
+    "pt" : "Retirada de PW"
+  },
+  "descriptions" : {
+    "fr" : [ "Retire 1 PW (1 max par tour)" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5983,
+  "title" : {
+    "fr" : "Carnage",
+    "en" : "Carnage",
+    "es" : "Masacre",
+    "pt" : "Carnificina"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque les PV sont supérieurs à 90% :", "➥ 15% du niveau en Maîtrise élémentaire", "Lorsque les PV sont supérieurs à 90% :", "➥ 30% du niveau en Maîtrise élémentaire", "Lorsque les PV sont supérieurs à 90% :", "➥ 45% du niveau en Maîtrise élémentaire" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "CHARAC", "ELEMENT" ]
+}, {
+  "id" : 6019,
+  "title" : {
+    "fr" : "Barrière Distance",
+    "en" : "Distance Barrier",
+    "es" : "Barrera a Distancia",
+    "pt" : "Barreira a Distância"
+  },
+  "descriptions" : {
+    "fr" : [ "Réduit les Dommages Distance subit de 50% du niveau, 2 fois par tour", "Réduit les Dommages Distance subit de 50% du niveau, 4 fois par tour", "Réduit les Dommages Distance subit de 50% du niveau, 6 fois par tour" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 1,
+  "categories" : [ "SUPPORT", "SUPPORT_REDUCE_DMG" ]
+}, {
+  "id" : 5079,
+  "title" : {
+    "fr" : "Alternance",
+    "en" : "Alternation",
+    "es" : "Alternancia",
+    "pt" : "Alternância"
+  },
+  "descriptions" : {
+    "fr" : [ "Si le porteur n'a utilisé qu'un élément pour occasionner des dégâts durant son tour, il gagne +20% à sa Maîtrise Élémentaire dans ses autres éléments" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "ELEMENT", "DMG", "DMG_MULTI_ELEMENT", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 8493,
+  "title" : {
+    "fr" : "Balance critique",
+    "en" : "Critical Scale",
+    "es" : "Balanza Crítica",
+    "pt" : "Equilíbrio Crítico"
+  },
+  "descriptions" : {
+    "fr" : [ "À chaque sort non critique lancé :", "➥ 2% Coup critique", "➥ Le bonus est perdu au prochain coup critique" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "CHARAC", "CRITICAL" ]
+}, {
+  "id" : 5452,
+  "title" : {
+    "fr" : "Aura de flammes",
+    "en" : "Flame Aura",
+    "es" : "Aura de Llamas",
+    "pt" : "Aura de Chamas"
+  },
+  "descriptions" : {
+    "fr" : [ "Si aucun ennemi est au contact du personnage au début de son tour, il gagne 100 % de son niveau en Enflammé.", "Ajoute également 15 niveaux d’enflammé pour chaque sort reçu en mêlée", "[STATE-751]" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_FLAMING" ]
+}, {
+  "id" : 6815,
+  "title" : {
+    "fr" : "Wakfu Berserk",
+    "en" : "Berserk Wakfu",
+    "es" : "Wakfu Berserker",
+    "pt" : "Wakfu Berserk"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque le porteur de l'état commence son tour avec 50% ou moins de ses PW (ou de sa BQ) :", "➥ 3% Dommages critiques infligés (1 tour)", "➥ 100% du niveau en Armure", "Lorsque le porteur de l'état commence son tour avec 50% ou moins de ses PW (ou de sa BQ) :", "➥ 6% Dommages critiques infligés (1 tour)", "➥ 200% du niveau en Armure", "Lorsque le porteur de l'état commence son tour avec 50% ou moins de ses PW (ou de sa BQ) :", "➥ 9% Dommages critiques infligés (1 tour)", "➥ 300% du niveau en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 3,
+  "categories" : [ "DMG", "DMG_CRITICAL", "OPTI_BREACH", "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 7853,
+  "title" : {
+    "fr" : "Carapace sanguine",
+    "en" : "Blood Carapace",
+    "es" : "Caparazón Sanguinario",
+    "pt" : "Carapaça Sanguínea"
+  },
+  "descriptions" : {
+    "fr" : [ "En début de tour :", "➥ Convertit 10% des PV courants en Armure", "En début de tour :", "➥ Convertit 20% des PV courants en Armure", "En début de tour :", "➥ Convertit 30% des PV courants en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR" ]
+}, {
+  "id" : 2574,
+  "title" : {
+    "fr" : "Requinquage 25%",
+    "en" : "Perk Up 25%",
+    "es" : "Recuperación 25%",
+    "pt" : "Estimular 25%"
+  },
+  "descriptions" : {
+    "fr" : [ "Lorsque PV inférieurs à 25%, en début de tour :", "➥ Soin [IMAGE-NEUTRAL] : 160" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 7069,
+  "title" : {
+    "fr" : "Pacte d'Anathar I",
+    "en" : "Anathar's Pact I",
+    "es" : "Pacto de Anathar I",
+    "pt" : "Pacto de Anathar I"
+  },
+  "descriptions" : {
+    "fr" : [ "Tour impair : +5% Dommages Distance", "Tour pair : +5 Dommages Mêlée" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+}, {
+  "id" : 5250,
+  "title" : {
+    "fr" : "Excès",
+    "en" : "Excess",
+    "es" : "Exceso",
+    "pt" : "Excesso"
+  },
+  "descriptions" : {
+    "fr" : [ "-10% Dommages infligés", "Tous les 10 sorts lancés, le porteur de l'état gagne 100% Dommages infligés pour le prochain sort", "➥ Les sorts lancés doivent coûter au moins 1 PA" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_FOCUS_ONE_SPELL" ]
+}, {
+  "id" : 7719,
+  "title" : {
+    "fr" : "Accumulation",
+    "en" : "Accumulation",
+    "es" : "Acumulación",
+    "pt" : "Acumulação"
+  },
+  "descriptions" : {
+    "fr" : [ "-20% Soins réalisés", "Chaque tour passé sans soigner :", "➥ 5% Soins réalisés", "➥ Cumulable jusqu'à 40%", "-20% Soins réalisés", "Chaque tour passé sans soigner :", "➥ 10% Soins réalisés", "➥ Cumulable jusqu'à 40%", "-20% Soins réalisés", "Chaque tour passé sans soigner :", "➥ 15% Soins réalisés", "➥ Cumulable jusqu'à 40%" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "SUPPORT", "SUPPORT_HEALING" ]
+}, {
+  "id" : 7868,
+  "title" : {
+    "fr" : "Interposition",
+    "en" : "Interposition",
+    "es" : "Interposición",
+    "pt" : "Interposição"
+  },
+  "descriptions" : {
+    "fr" : [ "Après avoir taclé un ennemi :", "➥ 50% du niveau en Armure", "Après avoir taclé un ennemi :", "➥ 100% du niveau en Armure", "Après avoir taclé un ennemi :", "➥ 150% du niveau en Armure" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "SUPPORT", "SUPPORT_ARMOR", "SUPPORT_TACKLE" ]
+}, {
+  "id" : 8505,
+  "title" : {
+    "fr" : "Tellurisme secondaire",
+    "en" : "Secondary Earthbound",
+    "es" : "Telurismo Secundario",
+    "pt" : "Telurismo Secundário"
+  },
+  "descriptions" : {
+    "fr" : [ "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-WIND]", "➥ 2% Dommages [IMAGE-EARTH]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Terre", "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-WIND]", "➥ 4% Dommages [IMAGE-EARTH]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Terre", "En lançant un sort [IMAGE-FIRE][IMAGE-WATER][IMAGE-WIND]", "➥ 6% Dommages [IMAGE-EARTH]", "➥ Cumulable (max 30)", "➥ L'effet est consommée aux prochain Dommage directs Terre" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 4,
+  "categories" : [ "DMG", "DMG_GENERAL", "DMG_MONO_ELEMENT" ]
+}, {
+  "id" : 5216,
+  "title" : {
+    "fr" : "Directives",
+    "en" : "Directives",
+    "es" : "Directivas",
+    "pt" : "Diretivas"
+  },
+  "descriptions" : {
+    "fr" : [ "15% Dommages infligés des sorts de zone sur les cibles alignées avec le porteur de l'état" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ "DMG", "DMG_AREA" ]
+}, {
+  "id" : 6829,
+  "title" : {
+    "fr" : "Manie",
+    "en" : "Mania",
+    "es" : "Manía",
+    "pt" : "Mania"
+  },
+  "descriptions" : {
+    "fr" : [ "Les Dommages en Mêlée retirent 50% du niveau en Armure sur la cible", "-3% Armure reçue", "Les Dommages en Mêlée retirent 100% du niveau en Armure sur la cible", "-6% Armure reçue", "Les Dommages en Mêlée retirent 150% du niveau en Armure sur la cible", "-9% Armure reçue" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : 2,
+  "categories" : [ "DMG", "DMG_ARMOR" ]
+}, {
+  "id" : 6034,
+  "title" : {
+    "fr" : "Focalisation",
+    "en" : "Focalization",
+    "es" : "Focalización",
+    "pt" : "Focalização"
+  },
+  "descriptions" : {
+    "fr" : [ "-15% Dommages infligés", "En début de tour :", "➥ 25% Dommages infligés si un seul ennemi a été touché au tour précédent" ],
+    "en" : [ ],
+    "es" : [ ],
+    "pt" : [ ]
+  },
+  "descriptionCountPerLevel" : null,
+  "categories" : [ ]
+} ]

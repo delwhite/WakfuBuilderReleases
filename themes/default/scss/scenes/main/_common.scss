@@ -1,0 +1,208 @@
+@use '../../variables' as *;
+//Bug couleur sans cette ajout
+* {
+}
+
+.confirm-button {
+    -fx-background-color: #4c9646;
+    &:hover {
+        -fx-background-color: #5ca656;
+    }
+}
+.cancel-button {
+    -fx-background-color: #8C8C8C;
+    &:hover {
+        -fx-background-color: #aCaCaC;
+    }
+}
+.confirm-delete {
+    -fx-background-color: #ddd;
+    -fx-padding: 15px;
+    > HBox {
+        -fx-background-color: #ddd;
+    }
+    .label {
+        -fx-text-fill: #000;
+    }
+    .confirm-button {
+        -fx-background-color: #cc0033;
+        &:hover {
+            -fx-background-color: #ee0033;
+        }
+    }
+}
+
+.warning-not-save {
+    -fx-text-fill: #880033;
+    -fx-border-color: #880033;
+    -fx-background-color: rgba(204, 0, 51, 0.3);
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-pref-width: 40;
+    -fx-pref-height: 40;
+    -fx-cursor: hand;
+}
+
+.item-image {
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 11;
+    -fx-padding: 5;
+    -fx-background-color: rgba(65, 65, 65, 0.76); // Couleur de fond par défaut
+    -fx-border-color: rgba(75, 75, 75, 0.85);
+    &:hover {
+        -fx-background-color: rgba(70, 70, 70, 0.81);
+    }
+}
+
+.rarity-COMMON {
+    .item-name {
+        -fx-text-fill: $rarity_common_color;   
+    }
+    .item-image {
+        -fx-background-color: $rarity_common_background_color;
+        -fx-border-color: $rarity_common_color;
+    }
+}
+.rarity-UNUSUAL {
+    .item-name {
+        -fx-text-fill: $rarity_unusual_color; 
+    }
+    .item-image {
+        -fx-background-color: $rarity_unusual_background_color;
+        -fx-border-color: $rarity_unusual_color;
+    }
+}
+.rarity-RARE {
+    .item-name {
+        -fx-text-fill: $rarity_rare_color;
+    }
+    .item-image {
+        -fx-background-color: $rarity_rare_background_color;
+        -fx-border-color: $rarity_rare_color;
+    }
+}
+.rarity-MYTHICAL {
+    .item-name {
+        -fx-text-fill: $rarity_mythical_color;  
+    }
+    .item-image {
+        -fx-background-color: $rarity_mythical_background_color;
+        -fx-border-color: $rarity_mythical_color;
+    }
+}
+.rarity-LEGENDARY {
+    .item-name {
+        -fx-text-fill: $rarity_legendary_color; 
+    }
+    .item-image {
+        -fx-background-color: $rarity_legendary_background_color;
+        -fx-border-color: $rarity_legendary_color;
+    }
+}
+.rarity-RELIC {
+    .item-name {
+        -fx-text-fill: $rarity_relic_color;  
+    }
+    .item-image {
+        -fx-background-color: $rarity_relic_background_color;
+        -fx-border-color: $rarity_relic_color;
+    }
+}
+.rarity-MEMORY {
+    .item-name {
+        -fx-text-fill: $rarity_memory_color; 
+    }
+    .item-image {
+        -fx-background-color: $rarity_memory_background_color;
+        -fx-border-color: $rarity_memory_color;
+    }
+}
+.rarity-EPIC {
+    .item-name {
+        -fx-text-fill: $rarity_epic_color;  
+    }
+    .item-image {
+        -fx-background-color: $rarity_epic_background_color;
+        -fx-border-color: $rarity_epic_color;
+    }
+}
+
+
+.item-cell {
+    -fx-pref-width: 295;//261 ou 314
+    -fx-background-radius: 6;
+    -fx-background-color: $primary_background_color;
+}
+
+.state-title {
+    -fx-font-size: $font_size_large;
+    -fx-font-weight: bold;
+    -fx-underline: true;
+}
+
+.item-descs {
+    -fx-pref-width: 295;
+    -fx-max-width: 295;
+    .item-desc, .item-desc-alt {
+        -fx-pref-width: 295;
+        -fx-max-width: 295;
+        -fx-padding: 2 3 2 3;
+        .image-desc {
+            -fx-min-width: 25;
+        }
+        &.positiveRow *, .positiveValue * {
+            -fx-text-fill: #4c9646;
+        }
+        &.negativeRow *, .negativeValue * {
+            -fx-text-fill: #99514f;
+        }
+        .image-desc, .spacer-value, .positiveValue, .negativeValue {
+            -fx-background-color: transparent;
+        }
+    }
+    .item-desc {
+        -fx-background-color: $primary_field_background_color;
+/*        &.positiveRow {
+            -fx-background-color: #4c9646;
+        }
+        &.negativeRow {
+            -fx-background-color: #A01E27;
+        }*/
+    }
+    .item-desc-alt {
+        -fx-background-color: $primary_field_background_color_hover;
+/*        &.positiveRow {
+            -fx-background-color: #5da757;
+        }
+        &.negativeRow {
+            -fx-background-color: #B71B28;
+        }*/
+    }
+}
+
+.use-and-crit-descs {
+    -fx-background-color: $primary_field_background_color_hover;
+    -fx-background-radius: 5;
+    -fx-padding: 0;
+    > .label {
+        -fx-font-weight: bold;
+        -fx-text-fill: $primary_field_text_color;
+        -fx-font-size: $font_size_large; 
+    }
+    *, .item-descs, .flowpane, .hbox, .vbox, .item-desc, .item-desc-alt {
+        -fx-background-color: transparent;
+    }
+}
+
+.character-classes {
+    .image-checkbox {
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+        &.selected {
+            -fx-background-color: transparent;
+            -fx-border-color: transparent;
+        }
+    }
+}
