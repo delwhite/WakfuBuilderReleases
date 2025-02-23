@@ -1,5 +1,7 @@
 # WakfuBuilder - FR
 
+WAKFU est un MMORPG édité par Ankama. "WakfuBuilder" est un logiciel non-officiel sans aucun lien avec Ankama.
+
 ## Description
 **WakfuBuilder** est un programme conçu pour crée des builds avec de nombreuses options de recherche et personnalisation pour Wakfu. 
 
