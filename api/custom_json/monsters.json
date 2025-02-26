@@ -1,2348 +1,3281 @@
 [ 
-{
-    "id" : 88,
-    "imageId": 101500088,
-    "title" : {
-        "fr" : "Piou bleu",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 22,
-    "levelMax": 30,
-    "isArchi": false,
-    "isCatchable": false,
-    "locations": [
-        "ASTRUB_MOUNTAINS"
-    ],
-    "loots": [
-        { "itemId": 7034, "pourcent": 4 },
-        { "itemId": 2298, "pourcent": 0.8 },
-        { "itemId": 2294, "pourcent": 0.8 },
-        { "itemId": 9814, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4086,
-    "imageId": 100204086,
-    "title" : {
-        "fr" : "Bouchtrou l'Esseulé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 23,
-    "levelMax": 28,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ASTRUB_TAINELA", "ASTRUB_PLAINS"
-    ],
-    "loots": [
-        { "itemId": 10265, "pourcent": 2 },
-        { "itemId": 10280, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4101,
-    "imageId": 100104101,
-    "title" : {
-        "fr" : "Griffu l'acéré",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 23,
-    "levelMax": 28,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ASTRUB_FIELDS"
-    ],
-    "loots": [
-        { "itemId": 15740, "pourcent": 2 },
-        { "itemId": 15739, "pourcent": 1 }
-    ]
-}, {
-    "id" : 4097,
-    "imageId": 101404097,
-    "title" : {
-        "fr" : "Lartifice Explosive",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 23,
-    "levelMax": 28,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ASTRUB_SEWERS"
-    ],
-    "loots": [
-        { "itemId": 14707, "pourcent": 2 },
-        { "itemId": 10278, "pourcent": 1 }
-    ]
-}, {
-    "id" : 4098,
-    "imageId": 182804098,
-    "title" : {
-        "fr" : "Abribus le Protecteur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 38,
-    "levelMax": 43,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ASTRUB_FOREST"
-    ],
-    "loots": [
-        { "itemId": 4224, "pourcent": 2 },
-        { "itemId": 2395, "pourcent": 2 },
-        { "itemId": 20666, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4100,
-    "imageId": 101504100,
-    "title" : {
-        "fr" : "Pewpew l’Artilleur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 38,
-    "levelMax": 43,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ASTRUB_MOUNTAINS"
-    ],
-    "loots": [
-        { "itemId": 15574, "pourcent": 2 },
-        { "itemId": 15634, "pourcent": 2 },
-        { "itemId": 20667, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1636,
-    "imageId": 101601636,
-    "title" : {
-        "fr" : "Pissdane l'Insipide",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 45,
-    "levelMax": 45,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Donjon",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_DUNGEON_CHAMPS_POURCHAN"
-    ],
-    "loots": [
-        { "itemId": 11017, "pourcent": 0.8 },
-        { "itemId": 11018, "pourcent": 0.1 },
-        { "itemId": 23708, "pourcent": 0.8 },
-        { "itemId": 23707, "pourcent": 0.1 }
-    ]
-}, {
-    "id" : 4368,
-    "imageId": 129004368,
-    "title" : {
-        "fr" : "Craqnoix le Gêneur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 53,
-    "levelMax": 58,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_EMELKA_FOREST", "AMAKNA_MINE_GALLERIES"
-    ],
-    "loots": [
-        { "itemId": 15153, "pourcent": 2 },
-        { "itemId": 15152, "pourcent": 2 },
-        { "itemId": 24186, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1632,
-    "imageId": 121801632,
-    "title" : {
-        "fr" : "Moumoute la Postiche",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 53,
-    "levelMax": 58,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_SINGING_FIELDS"
-    ],
-    "loots": [
-        { "itemId": 25132, "pourcent": 2 },
-        { "itemId": 25133, "pourcent": 2 },
-        { "itemId": 24185, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 5005,
-    "imageId": 101600401,
-    "title" : {
-        "fr" : "Rosée la Matinale",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 53,
-    "levelMax": 58,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "1H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_SINGING_FIELDS"
-    ],
-    "loots": [
-        { "itemId": 9359, "pourcent": 2 },
-        { "itemId": 17659, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : -1,
-    "imageId": -1,
-    "title" : {
-        "fr" : "Vieux Binson & Viandredi",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 65,
-    "levelMax": 65,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Donjon",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_DUNGEON_KOKOKOLANTHA"
-    ],
-    "loots": [
-        { "itemId": 25309, "pourcent": -1 }
-    ]
-}, {
-    "id" : 4371,
-    "imageId": 158104371,
-    "title" : {
-        "fr" : "Bouflaquette le Chevelu",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 68,
-    "levelMax": 73,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WILD_DOMAIN"
-    ],
-    "loots": [
-        { "itemId": 15579, "pourcent": 2 },
-        { "itemId": 15578, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4752,
-    "imageId": 177804154,
-    "title" : {
-        "fr" : "Cwalbinos le Blafard",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 68,
-    "levelMax": 73,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_DUNE_KANE"
-    ],
-    "loots": [
-        { "itemId": 25245, "pourcent": 2 },
-        { "itemId": 25246, "pourcent": 2 },
-        { "itemId": 24201, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4737,
-    "imageId": 135502116,
-    "title" : {
-        "fr" : "Kokoblong le Vertical",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 68,
-    "levelMax": 73,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_DUNE_KANE"
-    ],
-    "loots": [
-        { "itemId": 25287, "pourcent": 2 },
-        { "itemId": 25288, "pourcent": 2 },
-        { "itemId": 26609, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4255,
-    "imageId": 188104255,
-    "title" : {
-        "fr" : "Kraken",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 68,
-    "levelMax": 73,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_SAVAGE_BEACH_PART_1", "ZINIT_SAVAGE_BEACH_PART_2"
-    ],
-    "loots": [
-        { "itemId": 21149, "pourcent": 2 },
-        { "itemId": 21148, "pourcent": 2 },
-        { "itemId": 21150, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4267,
-    "imageId": 135902117,
-    "title" : {
-        "fr" : "Requinoa",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 68,
-    "levelMax": 73,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_SAVAGE_BEACH_PART_1", "ZINIT_SAVAGE_BEACH_PART_2"
-    ],
-    "loots": [
-        { "itemId": 21173, "pourcent": 2 },
-        { "itemId": 21174, "pourcent": 2 },
-        { "itemId": 21692, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 5109,
-    "imageId": 1103805109,
-    "title" : {
-        "fr" : "Abrakne Kadabrakne la Magicienne",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SADIDA_KINGDOM_CLOUDED_HILL"
-    ],
-    "loots": [
-        { "itemId": 27512, "pourcent": 2 },
-        { "itemId": 27513, "pourcent": 2 },
-        { "itemId": 27353, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1639,
-    "imageId": 120001277,
-    "title" : {
-        "fr" : "Boorboopoopoo",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BONTA_MINE_GALLERIES"
-    ],
-    "loots": [
-        { "itemId": 25329, "pourcent": 0.666 },
-        { "itemId": 25330, "pourcent": 0.666 },
-        { "itemId": 26488, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 5127,
-    "imageId": 105502130,
-    "title" : {
-        "fr" : "Muligane le Défaussé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SADIDA_KINGDOM_MULOS_CLEARENCE"
-    ],
-    "loots": [
-        { "itemId": 14732, "pourcent": 2 },
-        { "itemId": 12358, "pourcent": 2 },
-        { "itemId": 27353, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4370,
-    "imageId": 173804370,
-    "title" : {
-        "fr" : "Orrokimarou le Rampant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "KELBA_PEAKS"
-    ],
-    "loots": [
-        { "itemId": 19356, "pourcent": 2 },
-        { "itemId": 19378, "pourcent": 2 },
-        { "itemId": 19346, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4481,
-    "imageId": 107704481,
-    "title" : {
-        "fr" : "Ratafia le Titubant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "MONK_ISLAND"
-    ],
-    "loots": [
-        { "itemId": 15407, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4765,
-    "imageId": 100701645,
-    "title" : {
-        "fr" : "Sangria le Fruité",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BONTA_CANIA_PLAINS"
-    ],
-    "loots": [
-        { "itemId": 25413, "pourcent": 2 },
-        { "itemId": 25414, "pourcent": 2 }
-    ]
-}, {
-    "id" : 3701,
-    "imageId": 120201407,
-    "title" : {
-        "fr" : "Smisse Tigri",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "KELBA_LANDS"
-    ],
-    "loots": [
-        { "itemId": 19364, "pourcent": 2 },
-        { "itemId": 19365, "pourcent": 2 },
-        { "itemId": 19366, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1631,
-    "imageId": 128801631,
-    "title" : {
-        "fr" : "Truduk le Rondouillard",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 83,
-    "levelMax": 88,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BONTA_KARA"
-    ],
-    "loots": [
-        { "itemId": 25372, "pourcent": 2 },
-        { "itemId": 25371, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4388,
-    "imageId": 138604388,
-    "title" : {
-        "fr" : "Alf Iguem",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 89,
-    "levelMax": 93,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "MONK_ISLAND"
-    ],
-    "loots": [
-        { "itemId": 12602, "pourcent": 2 },
-        { "itemId": 12605, "pourcent": 2 }
-    ]
-}, {
-    "id" : 1750,
-    "imageId": 104701750,
-    "title" : {
-        "fr" : "Chafalfer l'Optimiste",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 95,
-    "levelMax": 95,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Donjon",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BRAKMAR_DUNGEON_MORBAX_NECROHAIR"
-    ],
-    "loots": [
-        { "itemId": 25455, "pourcent": 2 },
-        { "itemId": 25456, "pourcent": 2 },
-        { "itemId": 26562, "pourcent": 2 }
-    ]
-}, {
-    "id" : 5019,
-    "imageId": 104701707,
-    "title" : {
-        "fr" : "Chaférimé le Dépassé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 98,
-    "levelMax": 103,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BRAKMAR_SIDIMOTE_LANDS", "BRAKMAR_MINE_GALLERIES"
-    ],
-    "loots": [
-        { "itemId": 25455, "pourcent": 2 },
-        { "itemId": 25456, "pourcent": 2 },
-        { "itemId": 15478, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4381,
-    "imageId": 150704381,
-    "title" : {
-        "fr" : "Glaglaviot le Raclé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 98,
-    "levelMax": 103,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SBERG_ICEBERG"
-    ],
-    "loots": [
-        { "itemId": 26512, "pourcent": 2 },
-        { "itemId": 26513, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4393,
-    "imageId": 177104393,
-    "title" : {
-        "fr" : "La Dame Blanche",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 98,
-    "levelMax": 103,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "KATREPAT"
-    ],
-    "loots": [
-        { "itemId": 12863, "pourcent": 2 },
-        { "itemId": 19496, "pourcent": 2 },
-        { "itemId": 19519, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1749,
-    "imageId": 128301738,
-    "title" : {
-        "fr" : "Scaramel le Fondant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 98,
-    "levelMax": 103,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BRAKMAR_PABONG_FIELDS"
-    ],
-    "loots": [
-        { "itemId": 25497, "pourcent": 2 },
-        { "itemId": 25498, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4280,
-    "imageId": 188604280,
-    "title" : {
-        "fr" : "Slek Sy",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 98,
-    "levelMax": 103,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_SLEK_CAVE"
-    ],
-    "loots": [
-        { "itemId": 21248, "pourcent": 2 },
-        { "itemId": 21249, "pourcent": 2 },
-        { "itemId": 21693, "pourcent": 0.8 },
-        { "itemId": 12804, "pourcent": 0.3 }
-    ]
-}, {
-    "id" : 5010,
-    "imageId": 120504520,
-    "title" : {
-        "fr" : "Chapoto l'Amical",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 113,
-    "levelMax": 118,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_RIKTUS_PLAINS"
-    ],
-    "loots": [
-        { "itemId": 26482, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 2489,
-    "imageId": 145102076,
-    "title" : {
-        "fr" : "Chuchoteur Chachatophile",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 113,
-    "levelMax": 118,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
-    ],
-    "loots": [
-        { "itemId": 14439, "pourcent": 2 },
-        { "itemId": 14650, "pourcent": 2 }
-    ]
-}, {
-    "id" : 2384,
-    "imageId": 151002384,
-    "title" : {
-        "fr" : "Fhenris le Mulmouth Solitaire",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 113,
-    "levelMax": 118,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SBERG_BURIED_VILLAGE"
-    ],
-    "loots": [
-        { "itemId": 23264, "pourcent": 2 },
-        { "itemId": 23265, "pourcent": 2 },
-        { "itemId": 17657, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4390,
-    "imageId": 126004390,
-    "title" : {
-        "fr" : "Prince Gelu",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 113,
-    "levelMax": 118,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BILBYZA_GELAX_COAST"
-    ],
-    "loots": [
-        { "itemId": 23285, "pourcent": 2 },
-        { "itemId": 23287, "pourcent": 2 },
-        { "itemId": 26486, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 1633,
-    "imageId": 122601633,
-    "title" : {
-        "fr" : "FlacFlic le Ponctuel",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 123,
-    "levelMax": 128,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_MOUNTAINS_FLACKEUX"
-    ],
-    "loots": [
-        { "itemId": 25595, "pourcent": 2 },
-        { "itemId": 25597, "pourcent": 2 },
-        { "itemId": 26579, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4889,
-    "imageId": 177804172,
-    "title" : {
-        "fr" : "Léviathon",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 125,
-    "levelMax": 125,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Donjon",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_DUNGEON_PICHIN"
-    ],
-    "loots": [
-        { "itemId": 25694, "pourcent": 1.6 },
-        { "itemId": 25691, "pourcent": 1.6 },
-        { "itemId": 26563, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4480,
-    "imageId": 104702383,
-    "title" : {
-        "fr" : "Image du Comte Harebourg",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 128,
-    "levelMax": 133,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SBERG_HAREBOURG_CASTLE"
-    ],
-    "loots": [
-        { "itemId": 16139, "pourcent": 2 },
-        { "itemId": 23162, "pourcent": 2 },
-        { "itemId": 16146, "pourcent": 1 }
-    ]
-}, {
-    "id" : 4235,
-    "imageId": 187704235,
-    "title" : {
-        "fr" : "Keskon Smare",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 128,
-    "levelMax": 133,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_BASE_FLANK_SMARES"
-    ],
-    "loots": [
-        { "itemId": 20971, "pourcent": 2 },
-        { "itemId": 20972, "pourcent": 2 },
-        { "itemId": 20995, "pourcent": 0.8 }
-    ]
-}, {
-    "id" : 4391,
-    "imageId": 127804391,
-    "title" : {
-        "fr" : "Mihmosa le Fleuri",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 128,
-    "levelMax": 133,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_SHTULHU_TERRITORY"
-    ],
-    "loots": [
-        { "itemId": 24142, "pourcent": 2 },
-        { "itemId": 7574, "pourcent": 2 }
-    ]
-}, {
-    "id" : 1638,
-    "imageId": 131501638,
-    "title" : {
-        "fr" : "Pichakoté le Dégoûtant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 128,
-    "levelMax": 133,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_MINES_GALLERIES"
-    ],
-    "loots": [
-        { "itemId": 25663, "pourcent": 2 },
-        { "itemId": 25661, "pourcent": 2 }
-    ]
-}, {
-    "id" : 2992,
-    "imageId": 161502992,
-    "title" : {
-        "fr" : "Troolgrodyte",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 128,
-    "levelMax": 133,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SAHARACH"
-    ],
-    "loots": [
-        { "itemId": 18386, "pourcent": 2 },
-        { "itemId": 24807, "pourcent": 2 }
-    ]
-}, {
-    "id" : 4998,
-    "imageId": 104800398,
-    "title" : {
-        "fr" : "Abrasif le Décapant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 134,
-    "levelMax": 138,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BONTA_TONKULT_FOREST"
-    ],
-    "loots": [
-        { "itemId": 25727, "pourcent": 1.8 },
-        { "itemId": 25729, "pourcent": 1.8 },
-        { "itemId": 26581, "pourcent": 0.72 }
-    ]
-}, {
-    "id" : 4372,
-    "imageId": 161104372,
-    "title" : {
-        "fr" : "Cêpomwé l'Innocent",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SAHARACH_FUNGOPHY"
-    ],
-    "loots": [
-        { "itemId": 24144, "pourcent": 1.8 },
-        { "itemId": 18387, "pourcent": 0.9 }
-    ]
-}, {
-    "id" : 4269,
-    "imageId": 187404269,
-    "title" : {
-        "fr" : "Gris XIII",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "2H30",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_BASE_FLANK_PHORREURS"
-    ],
-    "loots": [
-        { "itemId": 21546, "pourcent": 1.8 },
-        { "itemId": 21545, "pourcent": 1.8 },
-        { "itemId": 21547, "pourcent": 0.72 }
-    ]
-}, {
-    "id" : 5532,
-    "imageId": 154802563,
-    "title" : {
-        "fr" : "Jafaw le génie",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Wabbit",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WABBIT_ISLAND_WABBIT_TERRITORY"
-    ],
-    "loots": [
-        { "itemId": 22948, "pourcent": 1.8 },
-        { "itemId": 17269, "pourcent": 1.8 },
-        { "itemId": 18645, "pourcent": 0.36 }
-    ]
-}, {
-    "id" : 2630,
-    "imageId": 154502554,
-    "title" : {
-        "fr" : "Lenaldix",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Lenald",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WABBIT_ISLAND_LENALD_TERRITORY"
-    ],
-    "loots": [
-        { "itemId": 18633, "pourcent": 1.8 },
-        { "itemId": 18635, "pourcent": 1.8 },
-        { "itemId": 18641, "pourcent": 0.72 }
-    ]
-}, {
-    "id" : 5473,
-    "imageId": 1111705473,
-    "title" : {
-        "fr" : "Ougiptien le maudit",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Légumutant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WABBIT_ISLAND_DEVASTATED_FIELDS"
-    ],
-    "loots": [
-        { "itemId": 31328, "pourcent": 1.8 },
-        { "itemId": 31330, "pourcent": 1.8 },
-        { "itemId": 31067, "pourcent": 0.72 }
-    ]
-}, {
-    "id" : 2743,
-    "imageId": 155202572,
-    "title" : {
-        "fr" : "Zombowabbit le putréfié",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 143,
-    "levelMax": 148,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Zwombbit",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WABBIT_ISLAND_MORBID_SUBTERRANEANS"
-    ],
-    "loots": [
-        { "itemId": 17214, "pourcent": 1.8 },
-        { "itemId": 31317, "pourcent": 1.8 },
-        { "itemId": 17357, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 5480,
-    "imageId": 1111905480,
-    "title" : {
-        "fr" : "Archéobombyx l'épicé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 158,
-    "levelMax": 163,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Sabléoptère",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "WABBIT_ISLAND_SAND_CAWOTTE"
-    ],
-    "loots": [
-        { "itemId": 31236, "pourcent": 1.6 },
-        { "itemId": 31234, "pourcent": 1.6 },
-        { "itemId": 31242, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 4782,
-    "imageId": 137201736,
-    "title" : {
-        "fr" : "Blopale le Scintillant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 158,
-    "levelMax": 163,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BRAKMAR_MACHEVILLE"
-    ],
-    "loots": [
-        { "itemId": 29974, "pourcent": 1.6 },
-        { "itemId": 29976, "pourcent": 1.6 },
-        { "itemId": 26484, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 3098,
-    "imageId": 163403098,
-    "title" : {
-        "fr" : "Disciple de Raval",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 158,
-    "levelMax": 163,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SRAMBAD"
-    ],
-    "loots": [
-        { "itemId": 18541, "pourcent": 1.6 },
-        { "itemId": 18559, "pourcent": 0.8 },
-        { "itemId": 18694, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 3175,
-    "imageId": 163403101,
-    "title" : {
-        "fr" : "Sir Urh le Renfermé",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 158,
-    "levelMax": 163,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ENUTROSOR"
-    ],
-    "loots": [
-        { "itemId": 22628, "pourcent": 1.6 },
-        { "itemId": 22629, "pourcent": 1.6 },
-        { "itemId": 18699, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 5039,
-    "imageId": 1102905039,
-    "title" : {
-        "fr" : "Zarbi l’Inhabituel",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 158,
-    "levelMax": 163,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "PANDALOUSIE_VALLEY_SALTY_MARSH"
-    ],
-    "loots": [
-        { "itemId": 26751, "pourcent": 1.6 },
-        { "itemId": 26749, "pourcent": 1.6 },
-        { "itemId": 27024, "pourcent": 0.64 }
-    ]
-}, {
-    "id" : 5015,
-    "imageId": 129401464,
-    "title" : {
-        "fr" : "Capuchino l’Energisant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BONTA_MINE_TREFOUNDS"
-    ],
-    "loots": [
-        { "itemId": 29883, "pourcent": 1.4 },
-        { "itemId": 30337, "pourcent": 1.4 },
-        { "itemId": 30335, "pourcent": 1.4 }
-    ]
-}, {
-    "id" : 4358,
-    "imageId": 169204358,
-    "title" : {
-        "fr" : "L’Oiseau du temps",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "XELORIUM_PRESENT"
-    ],
-    "loots": [
-        { "itemId": 22393, "pourcent": 1.4 },
-        { "itemId": 22392, "pourcent": 0.7 },
-        { "itemId": 19143, "pourcent": 0.28 },
-        { "itemId": 22567, "pourcent": 0.5 },
-        { "itemId": 22568, "pourcent": 0.5 },
-        { "itemId": 22569, "pourcent": 0.5 },
-        { "itemId": 22570, "pourcent": 0.5 },
-        { "itemId": 22571, "pourcent": 0.5 },
-        { "itemId": 22572, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 4853,
-    "imageId": 134602127,
-    "title" : {
-        "fr" : "Papapoutre le Rigide",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "BRAKMAR_MINE_TREFOUNDS"
-    ],
-    "loots": [
-        { "itemId": 25803, "pourcent": 1.4 },
-        { "itemId": 25805, "pourcent": 1.4 },
-        { "itemId": 29885, "pourcent": 1.4 }
-    ]
-}, {
-    "id" : 4357,
-    "imageId": 169304357,
-    "title" : {
-        "fr" : "Rib’Eri le Routourneur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "XELORIUM_PASSED"
-    ],
-    "loots": [
-        { "itemId": 22362, "pourcent": 1.4 },
-        { "itemId": 22361, "pourcent": 1.4 },
-        { "itemId": 19063, "pourcent": 0.56 },
-        { "itemId": 22567, "pourcent": 0.5 },
-        { "itemId": 22568, "pourcent": 0.5 },
-        { "itemId": 22569, "pourcent": 0.5 },
-        { "itemId": 22570, "pourcent": 0.5 },
-        { "itemId": 22571, "pourcent": 0.5 },
-        { "itemId": 22572, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 5012,
-    "imageId": 120501170,
-    "title" : {
-        "fr" : "Rictus l’Expressif",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "AMAKNA_MINE_TREFOUNDS"
-    ],
-    "loots": [
-        { "itemId": 26007, "pourcent": 1.4 },
-        { "itemId": 29880, "pourcent": 1.4 },
-        { "itemId": 26490, "pourcent": 1.4 },
-        { "itemId": 26001, "pourcent": 0.56 }
-    ]
-}, {
-    "id" : 5017,
-    "imageId": 197905017,
-    "title" : {
-        "fr" : "Rouflaket le Gentleman",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SUFOKIA_MINES_TREFOUNDS"
-    ],
-    "loots": [
-        { "itemId": 25935, "pourcent": 1.4 },
-        { "itemId": 25937, "pourcent": 1.4 },
-        { "itemId": 29887, "pourcent": 1.4 },
-        { "itemId": 26599, "pourcent": 0.56 }
-    ]
-}, {
-    "id" : 4304,
-    "imageId": 187204304,
-    "title" : {
-        "fr" : "Soeur Soudeuse la Fondue",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 173,
-    "levelMax": 178,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_TOP_FLANK_SBIRE_KALI"
-    ],
-    "loots": [
-        { "itemId": 21202, "pourcent": 1.4 },
-        { "itemId": 21203, "pourcent": 1.4 },
-        { "itemId": 22567, "pourcent": 0.5 },
-        { "itemId": 22568, "pourcent": 0.5 },
-        { "itemId": 22569, "pourcent": 0.5 },
-        { "itemId": 22570, "pourcent": 0.5 },
-        { "itemId": 22571, "pourcent": 0.5 },
-        { "itemId": 22572, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 5045,
-    "imageId": 1103005045,
-    "title" : {
-        "fr" : "Pandémik le Malade",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 188,
-    "levelMax": 193,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "PANDALOUSIE_VALLEY_PANDISSIDAN_VILLAGE"
-    ],
-    "loots": [
-        { "itemId": 26815, "pourcent": 1.2 },
-        { "itemId": 26817, "pourcent": 1.2 },
-        { "itemId": 27028, "pourcent": 0.48 }
-    ]
-}, {
-    "id" : 5133,
-    "imageId": 1103905133,
-    "title" : {
-        "fr" : "Pic-à-choux l’électrique",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 188,
-    "levelMax": 193,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SADIDA_KINGDOM_GERBOUILLES_GALLERIES"
-    ],
-    "loots": [
-        { "itemId": 27443, "pourcent": 1.2 },
-        { "itemId": 27445, "pourcent": 1.2 },
-        { "itemId": 27355, "pourcent": 0.48 }
-    ]
-}, {
-    "id" : 5102,
-    "imageId": 1103305102,
-    "title" : {
-        "fr" : "Tanukouï-San",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 200,
-    "levelMax": 200,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Soiffard",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "PANDALOUSIE_VALLEY_CEMETERY"
-    ],
-    "loots": [
-        { "itemId": 27293, "pourcent": 2 },
-        { "itemId": 27297, "pourcent": 2 }
-    ]
-}, {
-    "id" : 5139,
-    "imageId": 1104005139,
-    "title" : {
-        "fr" : "Archibourg l’Archimonstre Hibourg",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SADIDA_KINGDOM_DEFORESTED_FOREST"
-    ],
-    "loots": [
-        { "itemId": 27371, "pourcent": 1 },
-        { "itemId": 27373, "pourcent": 1 },
-        { "itemId": 27357, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5051,
-    "imageId": 1103105051,
-    "title" : {
-        "fr" : "Fléomérique le Poète",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "PANDALOUSIE_VALLEY_BURNED_FOREST"
-    ],
-    "loots": [
-        { "itemId": 26888, "pourcent": 1 },
-        { "itemId": 26886, "pourcent": 1 },
-        { "itemId": 27032, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5058,
-    "imageId": 1103205058,
-    "title" : {
-        "fr" : "Fléorripilant le Fantôme Fléopard",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "PANDALOUSIE_VALLEY_CEMETERY"
-    ],
-    "loots": [
-        { "itemId": 26955, "pourcent": 1 },
-        { "itemId": 26957, "pourcent": 1 },
-        { "itemId": 27036, "pourcent": 0.2 }
-    ]
-}, {
-    "id" : 4261,
-    "imageId": 189004261,
-    "title" : {
-        "fr" : "Fréonctueux le Gaz pas chaud",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_SUMMIT_ETHERNELS"
-    ],
-    "loots": [
-        { "itemId": 21789, "pourcent": 1 },
-        { "itemId": 21802, "pourcent": 1 },
-        { "itemId": 21784, "pourcent": 0.4 },
-        { "itemId": 22544, "pourcent": 0.5 },
-        { "itemId": 22541, "pourcent": 0.5 },
-        { "itemId": 22550, "pourcent": 0.5 },
-        { "itemId": 22547, "pourcent": 0.5 },
-        { "itemId": 22545, "pourcent": 0.5 },
-        { "itemId": 22549, "pourcent": 0.5 },
-        { "itemId": 22540, "pourcent": 0.5 },
-        { "itemId": 22543, "pourcent": 0.5 },
-        { "itemId": 22546, "pourcent": 0.5 },
-        { "itemId": 22539, "pourcent": 0.5 },
-        { "itemId": 22542, "pourcent": 0.5 },
-        { "itemId": 22537, "pourcent": 0.5 },
-        { "itemId": 22548, "pourcent": 0.5 },
-        { "itemId": 22538, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 4220,
-    "imageId": 186704218,
-    "title" : {
-        "fr" : "Minibuliette",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_SUMMIT_DRAGOEFS"
-    ],
-    "loots": [
-        { "itemId": 20955, "pourcent": 1 },
-        { "itemId": 20954, "pourcent": 1 },
-        { "itemId": 20956, "pourcent": 0.4 },
-        { "itemId": 22544, "pourcent": 0.5 },
-        { "itemId": 22541, "pourcent": 0.5 },
-        { "itemId": 22550, "pourcent": 0.5 },
-        { "itemId": 22547, "pourcent": 0.5 },
-        { "itemId": 22545, "pourcent": 0.5 },
-        { "itemId": 22549, "pourcent": 0.5 },
-        { "itemId": 22540, "pourcent": 0.5 },
-        { "itemId": 22543, "pourcent": 0.5 },
-        { "itemId": 22546, "pourcent": 0.5 },
-        { "itemId": 22539, "pourcent": 0.5 },
-        { "itemId": 22542, "pourcent": 0.5 },
-        { "itemId": 22537, "pourcent": 0.5 },
-        { "itemId": 22548, "pourcent": 0.5 },
-        { "itemId": 22538, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 4330,
-    "imageId": 190004330,
-    "title" : {
-        "fr" : "Sar’houmane le Prêtre de la flamme",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_DORMOR_CAVE"
-    ],
-    "loots": [
-        { "itemId": 21869, "pourcent": 1 },
-        { "itemId": 21884, "pourcent": 1 },
-        { "itemId": 21701, "pourcent": 0.4 },
-        { "itemId": 22544, "pourcent": 0.5 },
-        { "itemId": 22541, "pourcent": 0.5 },
-        { "itemId": 22550, "pourcent": 0.5 },
-        { "itemId": 22547, "pourcent": 0.5 },
-        { "itemId": 22545, "pourcent": 0.5 },
-        { "itemId": 22549, "pourcent": 0.5 },
-        { "itemId": 22540, "pourcent": 0.5 },
-        { "itemId": 22543, "pourcent": 0.5 },
-        { "itemId": 22546, "pourcent": 0.5 },
-        { "itemId": 22539, "pourcent": 0.5 },
-        { "itemId": 22542, "pourcent": 0.5 },
-        { "itemId": 22537, "pourcent": 0.5 },
-        { "itemId": 22548, "pourcent": 0.5 },
-        { "itemId": 22538, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 4329,
-    "imageId": 186604329,
-    "title" : {
-        "fr" : "Uhu le Mielleux",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 203,
-    "levelMax": 208,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "4H",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "ZINIT_TOP_FLANK_BLEROX"
-    ],
-    "loots": [
-        { "itemId": 21700, "pourcent": 1 },
-        { "itemId": 21703, "pourcent": 1 },
-        { "itemId": 21867, "pourcent": 0.4 },
-        { "itemId": 22544, "pourcent": 0.5 },
-        { "itemId": 22541, "pourcent": 0.5 },
-        { "itemId": 22550, "pourcent": 0.5 },
-        { "itemId": 22547, "pourcent": 0.5 },
-        { "itemId": 22545, "pourcent": 0.5 },
-        { "itemId": 22549, "pourcent": 0.5 },
-        { "itemId": 22540, "pourcent": 0.5 },
-        { "itemId": 22543, "pourcent": 0.5 },
-        { "itemId": 22546, "pourcent": 0.5 },
-        { "itemId": 22539, "pourcent": 0.5 },
-        { "itemId": 22542, "pourcent": 0.5 },
-        { "itemId": 22537, "pourcent": 0.5 },
-        { "itemId": 22548, "pourcent": 0.5 },
-        { "itemId": 22538, "pourcent": 0.5 }
-    ]
-}, {
-    "id" : 5172,
-    "imageId": 1105905172,
-    "title" : {
-        "fr" : "Vandaltonien le malvoyant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Vandaliéné",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "OSAMOSA_DORSAL_FOREST"
-    ],
-    "loots": [
-        { "itemId": 27754, "pourcent": 1 },
-        { "itemId": 27756, "pourcent": 1 },
-        { "itemId": 27815, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5249,
-    "imageId": 1106805249,
-    "title" : {
-        "fr" : "Lacrymorse le Larmoyant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Mansot",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS"
-    ],
-    "loots": [
-        { "itemId": 28261, "pourcent": 1 },
-        { "itemId": 28259, "pourcent": 1 },
-        { "itemId": 28328, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5190,
-    "imageId": 1106205190,
-    "title" : {
-        "fr" : "Imbuffle l'égocentrique",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Toundrasoir",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "OSAMOSA_GLACIAL_WING"
-    ],
-    "loots": [
-        { "itemId": 27696, "pourcent": 1 },
-        { "itemId": 27698, "pourcent": 1 },
-        { "itemId": 27814, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5178,
-    "imageId": 1106005178,
-    "title" : {
-        "fr" : "Scorpitre le blagueur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Cagnardeur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "OSAMOSA_ARID_WING"
-    ],
-    "loots": [
-        { "itemId": 27582, "pourcent": 1 },
-        { "itemId": 27580, "pourcent": 1 },
-        { "itemId": 27812, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5184,
-    "imageId": 1106105184,
-    "title" : {
-        "fr" : "Pinsoumis le rebelle",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Crustargneux",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "OSAMOSA_CAUDAL_SHORE"
-    ],
-    "loots": [
-        { "itemId": 27638, "pourcent": 1 },
-        { "itemId": 27640, "pourcent": 1 },
-        { "itemId": 27813, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5243,
-    "imageId": 1106705243,
-    "title" : {
-        "fr" : "Scoubidours le Morfalours",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Plantigarde",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "CHUCHOKU_KINGDOM_TUNDRA"
-    ],
-    "loots": [
-        { "itemId": 28196, "pourcent": 1 },
-        { "itemId": 28198, "pourcent": 1 },
-        { "itemId": 28325, "pourcent": 0.1 }
-    ]
-}, {
-    "id" : 5237,
-    "imageId": 1106605237,
-    "title" : {
-        "fr" : "Torturpide le vil",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 218,
-    "levelMax": 223,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Carapatte",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "CHUCHOKU_INNER_GRAMPAR"
-    ],
-    "loots": [
-        { "itemId": 28133, "pourcent": 1 },
-        { "itemId": 28135, "pourcent": 1 },
-        { "itemId": 28322, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5291,
-    "imageId": 1107705291,
-    "title" : {
-        "fr" : "Archibald l'Effroyable",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Démhorrible",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_HORROR_CITADEL"
-    ],
-    "loots": [
-        { "itemId": 29173, "pourcent": 1 },
-        { "itemId": 29175, "pourcent": 1 },
-        { "itemId": 29181, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5285,
-    "imageId": 1107505285,
-    "title" : {
-        "fr" : "Ar'Manthe la Religieuse",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Vidéant",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_VACUUM_SPIRAL"
-    ],
-    "loots": [
-        { "itemId": 29111, "pourcent": 1 },
-        { "itemId": 29113, "pourcent": 1 },
-        { "itemId": 29119, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5279,
-    "imageId": 1107305279,
-    "title" : {
-        "fr" : "Viil l'Incorruptible",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Phytomorphe",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_DESPAIR_KINGDOM"
-    ],
-    "loots": [
-        { "itemId": 29049, "pourcent": 1 },
-        { "itemId": 29051, "pourcent": 1 },
-        { "itemId": 29057, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5303,
-    "imageId": 1108105303,
-    "title" : {
-        "fr" : "Constant l'Éternel",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Ravageur",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_DEATH_ROAD"
-    ],
-    "loots": [
-        { "itemId": 29297, "pourcent": 1 },
-        { "itemId": 29589, "pourcent": 0.5 },
-        { "itemId": 29305, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5297,
-    "imageId": 1107905297,
-    "title" : {
-        "fr" : "~`hd#@! l'Incompris",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Égaré",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "SHUKRUTE_DEMENTIA"
-    ],
-    "loots": [
-        { "itemId": 29235, "pourcent": 1 },
-        { "itemId": 29237, "pourcent": 1 },
-        { "itemId": 29243, "pourcent": 0.4 }
-    ]
-}, {
-    "id" : 5402,
-    "imageId": 1110605402,
-    "title" : {
-        "fr" : "Stork l'Ingénieux",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Poisseux Abyssaux/Steamers",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "EREBORIA_PRISON"
-    ],
-    "loots": [
-        { "itemId": 30277, "pourcent": 1 },
-        { "itemId": 30284, "pourcent": 1 },
-        { "itemId": 30275, "pourcent": 0.2 }
-    ]
-}, {
-    "id" : 5396,
-    "imageId": 1110405396,
-    "title" : {
-        "fr" : "Cire Momoriss",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "level": 233,
-    "levelMax": 238,
-    "isArchi": true,
-    "isCatchable": false,
-    "respawn" : {
-        "fr" : "Challenge Poisseux Abyssaux/Steamers",
-        "en" : "",
-        "es" : "",
-        "pt" : ""
-    },
-    "locations": [
-        "EREBORIA_PRISON"
-    ],
-    "loots": [
-        { "itemId": 30150, "pourcent": 1 },
-        { "itemId": 30148, "pourcent": 1 },
-        { "itemId": 30146, "pourcent": 0.4 }
-    ]
-}
+    {
+        "id": 88,
+        "imageId": 101500088,
+        "title": {
+            "fr": "Piou bleu",
+            "en": "Blue Piou",
+            "es": "Piou azul",
+            "pt": "Piou azul"
+        },
+        "level": 22,
+        "levelMax": 30,
+        "isArchi": false,
+        "isCatchable": false,
+        "locations": [
+            "ASTRUB_MOUNTAINS"
+        ],
+        "loots": [
+            {
+                "itemId": 7034,
+                "pourcent": 4
+            },
+            {
+                "itemId": 2298,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 2294,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 9814,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4086,
+        "imageId": 100204086,
+        "title": {
+            "fr": "Bouchtrou l'Esseulé",
+            "en": "Bouchtrou the Lonely",
+            "es": "Bouchtrou el Solitario",
+            "pt": "Bouchtrou o Solitário"
+        },
+        "level": 23,
+        "levelMax": 28,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "ASTRUB_TAINELA", "ASTRUB_PLAINS"
+        ],
+        "loots": [
+            {
+                "itemId": 10265,
+                "pourcent": 2
+            },
+            {
+                "itemId": 10280,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4101,
+        "imageId": 100104101,
+        "title": {
+            "fr": "Griffu l'acéré",
+            "en": "Griffu the Sharpened",
+            "es": "Griffu el Afilado",
+            "pt": "Griffu o Afiado"
+        },
+        "level": 23,
+        "levelMax": 28,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "ASTRUB_FIELDS"
+        ],
+        "loots": [
+            {
+                "itemId": 15740,
+                "pourcent": 2
+            },
+            {
+                "itemId": 15739,
+                "pourcent": 1
+            }
+        ]
+    }, {
+        "id": 4097,
+        "imageId": 101404097,
+        "title": {
+            "fr": "Lartifice Explosive",
+            "en": "Explosive Artifice",
+            "es": "Artefacto Explosivo",
+            "pt": "Artefato Explosivo"
+        },
+        "level": 23,
+        "levelMax": 28,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "ASTRUB_SEWERS"
+        ],
+        "loots": [
+            {
+                "itemId": 14707,
+                "pourcent": 2
+            },
+            {
+                "itemId": 10278,
+                "pourcent": 1
+            }
+        ]
+    }, {
+        "id": 4098,
+        "imageId": 182804098,
+        "title": {
+            "fr": "Abribus le Protecteur",
+            "en": "Abribus the Protector",
+            "es": "Abribus el Protector",
+            "pt": "Abribus o Protetor"
+        },
+        "level": 38,
+        "levelMax": 43,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "ASTRUB_FOREST"
+        ],
+        "loots": [
+            {
+                "itemId": 4224,
+                "pourcent": 2
+            },
+            {
+                "itemId": 2395,
+                "pourcent": 2
+            },
+            {
+                "itemId": 20666,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4100,
+        "imageId": 101504100,
+        "title": {
+            "fr": "Pewpew l’Artilleur",
+            "en": "Pewpew the Gunner",
+            "es": "Pewpew el Artillero",
+            "pt": "Pewpew o Artilheiro"
+        },
+        "level": 38,
+        "levelMax": 43,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "ASTRUB_MOUNTAINS"
+        ],
+        "loots": [
+            {
+                "itemId": 15574,
+                "pourcent": 2
+            },
+            {
+                "itemId": 15634,
+                "pourcent": 2
+            },
+            {
+                "itemId": 20667,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1636,
+        "imageId": 101601636,
+        "title": {
+            "fr": "Pissdane l'Insipide",
+            "en": "Pissdane the Bland",
+            "es": "Pissdane el Insípido",
+            "pt": "Pissdane o Insípido"
+        },
+        "level": 45,
+        "levelMax": 45,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Donjon",
+            "en": "Dungeon",
+            "es": "Mazmorras",
+            "pt": "Masmorra"
+        },
+        "locations": [
+            "AMAKNA_DUNGEON_CHAMPS_POURCHAN"
+        ],
+        "loots": [
+            {
+                "itemId": 11017,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 11018,
+                "pourcent": 0.1
+            },
+            {
+                "itemId": 23708,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 23707,
+                "pourcent": 0.1
+            }
+        ]
+    }, {
+        "id": 4368,
+        "imageId": 129004368,
+        "title": {
+            "fr": "Craqnoix le Gêneur",
+            "en": "Craqnoix the Annoying",
+            "es": "Craqnoix el Molesto",
+            "pt": "Craqnoix o Irritante"
+        },
+        "level": 53,
+        "levelMax": 58,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "AMAKNA_EMELKA_FOREST", "AMAKNA_MINE_GALLERIES"
+        ],
+        "loots": [
+            {
+                "itemId": 15153,
+                "pourcent": 2
+            },
+            {
+                "itemId": 15152,
+                "pourcent": 2
+            },
+            {
+                "itemId": 24186,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1632,
+        "imageId": 121801632,
+        "title": {
+            "fr": "Moumoute la Postiche",
+            "en": "Moumoute the Wig",
+            "es": "Moumoute la Peluca",
+            "pt": "Moumoute a Peruca"
+        },
+        "level": 53,
+        "levelMax": 58,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ],
+        "loots": [
+            {
+                "itemId": 25132,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25133,
+                "pourcent": 2
+            },
+            {
+                "itemId": 24185,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 5005,
+        "imageId": 101600401,
+        "title": {
+            "fr": "Rosée la Matinale",
+            "en": "Dew the Morning",
+            "es": "Rocío la Matutina",
+            "pt": "Orvalho o Matutino"
+        },
+        "level": 53,
+        "levelMax": 58,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "1H",
+            "en": "1H",
+            "es": "1H",
+            "pt": "1H"
+        },
+        "locations": [
+            "AMAKNA_SINGING_FIELDS"
+        ],
+        "loots": [
+            {
+                "itemId": 9359,
+                "pourcent": 2
+            },
+            {
+                "itemId": 17659,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": -1,
+        "imageId": -1,
+        "title": {
+            "fr": "Vieux Binson & Viandredi",
+            "en": "Old Binson & Viandredi",
+            "es": "Viejo Binson & Viandredi",
+            "pt": "Velho Binson & Viandredi"
+        },
+        "level": 65,
+        "levelMax": 65,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Donjon",
+            "en": "Dungeon",
+            "es": "Mazmorras",
+            "pt": "Masmorra"
+        },
+        "locations": [
+            "SUFOKIA_DUNGEON_KOKOKOLANTHA"
+        ],
+        "loots": [
+            {
+                "itemId": 25309,
+                "pourcent": -1
+            }
+        ]
+    }, {
+        "id": 4371,
+        "imageId": 158104371,
+        "title": {
+            "fr": "Bouflaquette le Chevelu",
+            "en": "Bouflaquette the Hairy",
+            "es": "Bouflaquette el Peludo",
+            "pt": "Bouflaquette o Peludo"
+        },
+        "level": 68,
+        "levelMax": 73,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "WILD_DOMAIN"
+        ],
+        "loots": [
+            {
+                "itemId": 15579,
+                "pourcent": 2
+            },
+            {
+                "itemId": 15578,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4752,
+        "imageId": 177804154,
+        "title": {
+            "fr": "Cwalbinos le Blafard",
+            "en": "Cwalbinos the Pale",
+            "es": "Cwalbinos el Pálido",
+            "pt": "Cwalbinos o Pálido"
+        },
+        "level": 68,
+        "levelMax": 73,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SUFOKIA_DUNE_KANE"
+        ],
+        "loots": [
+            {
+                "itemId": 25245,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25246,
+                "pourcent": 2
+            },
+            {
+                "itemId": 24201,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4737,
+        "imageId": 135502116,
+        "title": {
+            "fr": "Kokoblong le Vertical",
+            "en": "Kokoblong the Vertical",
+            "es": "Kokoblong el Vertical",
+            "pt": "Kokoblong o Vertical"
+        },
+        "level": 68,
+        "levelMax": 73,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SUFOKIA_DUNE_KANE"
+        ],
+        "loots": [
+            {
+                "itemId": 25287,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25288,
+                "pourcent": 2
+            },
+            {
+                "itemId": 26609,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4255,
+        "imageId": 188104255,
+        "title": {
+            "fr": "Kraken",
+            "en": "Kraken",
+            "es": "Kraken",
+            "pt": "Kraken"
+        },
+        "level": 68,
+        "levelMax": 73,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "ZINIT_SAVAGE_BEACH_PART_1", "ZINIT_SAVAGE_BEACH_PART_2"
+        ],
+        "loots": [
+            {
+                "itemId": 21149,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21148,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21150,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4267,
+        "imageId": 135902117,
+        "title": {
+            "fr": "Requinoa",
+            "en": "Requinoa",
+            "es": "Requinoa",
+            "pt": "Requinoa"
+        },
+        "level": 68,
+        "levelMax": 73,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "ZINIT_SAVAGE_BEACH_PART_1", "ZINIT_SAVAGE_BEACH_PART_2"
+        ],
+        "loots": [
+            {
+                "itemId": 21173,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21174,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21692,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 5109,
+        "imageId": 1103805109,
+        "title": {
+            "fr": "Abrakne Kadabrakne la Magicienne",
+            "en": "Abrakne Kadabrakne the Sorceress",
+            "es": "Abrakne Kadabrakne la Hechicera",
+            "pt": "Abrakne Kadabrakne a Feiticeira"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SADIDA_KINGDOM_CLOUDED_HILL"
+        ],
+        "loots": [
+            {
+                "itemId": 27512,
+                "pourcent": 2
+            },
+            {
+                "itemId": 27513,
+                "pourcent": 2
+            },
+            {
+                "itemId": 27353,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1639,
+        "imageId": 120001277,
+        "title": {
+            "fr": "Boorboopoopoo",
+            "en": "Boorboopoopoo",
+            "es": "Boorboopoopoo",
+            "pt": "Boorboopoopoo"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BONTA_MINE_GALLERIES"
+        ],
+        "loots": [
+            {
+                "itemId": 25329,
+                "pourcent": 0.666
+            },
+            {
+                "itemId": 25330,
+                "pourcent": 0.666
+            },
+            {
+                "itemId": 26488,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 5127,
+        "imageId": 105502130,
+        "title": {
+            "fr": "Muligane le Défaussé",
+            "en": "Muligane the Castaway",
+            "es": "Muligane el Descartado",
+            "pt": "Muligane o Rejeitado"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SADIDA_KINGDOM_MULOS_CLEARENCE"
+        ],
+        "loots": [
+            {
+                "itemId": 14732,
+                "pourcent": 2
+            },
+            {
+                "itemId": 12358,
+                "pourcent": 2
+            },
+            {
+                "itemId": 27353,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4370,
+        "imageId": 173804370,
+        "title": {
+            "fr": "Orrokimarou le Rampant",
+            "en": "Orrokimarou the Creeper",
+            "es": "Orrokimarou el Reptante",
+            "pt": "Orrokimarou o Rastejante"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "KELBA_PEAKS"
+        ],
+        "loots": [
+            {
+                "itemId": 19356,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19378,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19346,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4481,
+        "imageId": 107704481,
+        "title": {
+            "fr": "Ratafia le Titubant",
+            "en": "Ratafia the Stumbling",
+            "es": "Ratafia el Tropezante",
+            "pt": "Ratafia o Bamboleante"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "MONK_ISLAND"
+        ],
+        "loots": [
+            {
+                "itemId": 15407,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4765,
+        "imageId": 100701645,
+        "title": {
+            "fr": "Sangria le Fruit\u00e9",
+            "en": "Sangria the Fruity",
+            "es": "Sangria el Frutal",
+            "pt": "Sangria o Frutado"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BONTA_CANIA_PLAINS"
+        ],
+        "loots": [
+            {
+                "itemId": 25413,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25414,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 3701,
+        "imageId": 120201407,
+        "title": {
+            "fr": "Smisse Tigri",
+            "en": "Smisse Tigri",
+            "es": "Smisse Tigri",
+            "pt": "Smisse Tigri"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "KELBA_LANDS"
+        ],
+        "loots": [
+            {
+                "itemId": 19364,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19365,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19366,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1631,
+        "imageId": 128801631,
+        "title": {
+            "fr": "Truduk le Rondouillard",
+            "en": "Truduk the Roundabout",
+            "es": "Truduk el Redondo",
+            "pt": "Truduk o Redondo"
+        },
+        "level": 83,
+        "levelMax": 88,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BONTA_KARA"
+        ],
+        "loots": [
+            {
+                "itemId": 25372,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25371,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4388,
+        "imageId": 138604388,
+        "title": {
+            "fr": "Alf Iguem",
+            "en": "Alf Iguem",
+            "es": "Alf Iguem",
+            "pt": "Alf Iguem"
+        },
+        "level": 89,
+        "levelMax": 93,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "MONK_ISLAND"
+        ],
+        "loots": [
+            {
+                "itemId": 12602,
+                "pourcent": 2
+            },
+            {
+                "itemId": 12605,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 1750,
+        "imageId": 104701750,
+        "title": {
+            "fr": "Chafalfer l'Optimiste",
+            "en": "Chafalfer the Optimist",
+            "es": "Chafalfer el Optimista",
+            "pt": "Chafalfer o Optimista"
+        },
+        "level": 95,
+        "levelMax": 95,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Donjon",
+            "en": "Dungeon",
+            "es": "Mazmorras",
+            "pt": "Masmorra"
+        },
+        "locations": [
+            "BRAKMAR_DUNGEON_MORBAX_NECROHAIR"
+        ],
+        "loots": [
+            {
+                "itemId": 25455,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25456,
+                "pourcent": 2
+            },
+            {
+                "itemId": 26562,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 5019,
+        "imageId": 104701707,
+        "title": {
+            "fr": "Chaférymée le Dépassé",
+            "en": "Chaférymée the Overwhelmed",
+            "es": "Chaférymée el Superado",
+            "pt": "Chaférymée o Sobrecarregado"
+        },
+        "level": 98,
+        "levelMax": 103,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BRAKMAR_SIDIMOTE_LANDS", "BRAKMAR_MINE_GALLERIES"
+        ],
+        "loots": [
+            {
+                "itemId": 25455,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25456,
+                "pourcent": 2
+            },
+            {
+                "itemId": 15478,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4381,
+        "imageId": 150704381,
+        "title": {
+            "fr": "Glaglaviot le Raclé",
+            "en": "Glaglaviot the Scraped",
+            "es": "Glaglaviot el Raspado",
+            "pt": "Glaglaviot o Raspado"
+        },
+        "level": 98,
+        "levelMax": 103,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SBERG_ICEBERG"
+        ],
+        "loots": [
+            {
+                "itemId": 26512,
+                "pourcent": 2
+            },
+            {
+                "itemId": 26513,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4393,
+        "imageId": 177104393,
+        "title": {
+            "fr": "La Dame Blanche",
+            "en": "The White Lady",
+            "es": "La Dama Blanca",
+            "pt": "A Senhora Branca"
+        },
+        "level": 98,
+        "levelMax": 103,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "KATREPAT"
+        ],
+        "loots": [
+            {
+                "itemId": 12863,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19496,
+                "pourcent": 2
+            },
+            {
+                "itemId": 19519,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1749,
+        "imageId": 128301738,
+        "title": {
+            "fr": "Scaramel le Fondant",
+            "en": "Scaramel the Melting",
+            "es": "Scaramel el Fundente",
+            "pt": "Scaramel o Derretendo"
+        },
+        "level": 98,
+        "levelMax": 103,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BRAKMAR_PABONG_FIELDS"
+        ],
+        "loots": [
+            {
+                "itemId": 25497,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25498,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4280,
+        "imageId": 188604280,
+        "title": {
+            "fr": "Slek Sy",
+            "en": "Slek Sy",
+            "es": "Slek Sy",
+            "pt": "Slek Sy"
+        },
+        "level": 98,
+        "levelMax": 103,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "ZINIT_SLEK_CAVE"
+        ],
+        "loots": [
+            {
+                "itemId": 21248,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21249,
+                "pourcent": 2
+            },
+            {
+                "itemId": 21693,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 12804,
+                "pourcent": 0.3
+            }
+        ]
+    }, {
+        "id": 5010,
+        "imageId": 120504520,
+        "title": {
+            "fr": "Chapoto l'Amical",
+            "en": "Chapoto the Friendly",
+            "es": "Chapoto el Amistoso",
+            "pt": "Chapoto o Amigável"
+        },
+        "level": 113,
+        "levelMax": 118,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "AMAKNA_RIKTUS_PLAINS"
+        ],
+        "loots": [
+            {
+                "itemId": 26482,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 2489,
+        "imageId": 145102076,
+        "title": {
+            "fr": "Chuchoteur Chachatophile",
+            "en": "Whisperer Catlover",
+            "es": "Susurrador Gataro",
+            "pt": "Sussurrador Amante de Gatos"
+        },
+        "level": 113,
+        "levelMax": 118,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "CHUCHOKU_KINGDOM_CHUCHOPLAINE"
+        ],
+        "loots": [
+            {
+                "itemId": 14439,
+                "pourcent": 2
+            },
+            {
+                "itemId": 14650,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 2384,
+        "imageId": 151002384,
+        "title": {
+            "fr": "Fhenris le Mulmouth Solitaire",
+            "en": "Fhenris the Solitary Mulmouth",
+            "es": "Fhenris el Solitario Mulmouth",
+            "pt": "Fhenris o Solitário Mulmouth"
+        },
+        "level": 113,
+        "levelMax": 118,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SBERG_BURIED_VILLAGE"
+        ],
+        "loots": [
+            {
+                "itemId": 23264,
+                "pourcent": 2
+            },
+            {
+                "itemId": 23265,
+                "pourcent": 2
+            },
+            {
+                "itemId": 17657,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4390,
+        "imageId": 126004390,
+        "title": {
+            "fr": "Prince Gelu",
+            "en": "Prince Gelu",
+            "es": "Príncipe Gelu",
+            "pt": "Príncipe Gelu"
+        },
+        "level": 113,
+        "levelMax": 118,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BILBYZA_GELAX_COAST"
+        ],
+        "loots": [
+            {
+                "itemId": 23285,
+                "pourcent": 2
+            },
+            {
+                "itemId": 23287,
+                "pourcent": 2
+            },
+            {
+                "itemId": 26486,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 1633,
+        "imageId": 122601633,
+        "title": {
+            "fr": "FlacFlic le Ponctuel",
+            "en": "FlacFlic the Punctual",
+            "es": "FlacFlic el Puntual",
+            "pt": "FlacFlic o Pontual"
+        },
+        "level": 123,
+        "levelMax": 128,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SUFOKIA_MOUNTAINS_FLACKEUX"
+        ],
+        "loots": [
+            {
+                "itemId": 25595,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25597,
+                "pourcent": 2
+            },
+            {
+                "itemId": 26579,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4889,
+        "imageId": 177804172,
+        "title": {
+            "fr": "Léviathon",
+            "en": "Leviathon",
+            "es": "Leviathon",
+            "pt": "Leviathon"
+        },
+        "level": 125,
+        "levelMax": 125,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Donjon",
+            "en": "Dungeon",
+            "es": "Mazmorras",
+            "pt": "Masmorra"
+        },
+        "locations": [
+            "SUFOKIA_DUNGEON_PICHIN"
+        ],
+        "loots": [
+            {
+                "itemId": 25694,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 25691,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 26563,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4480,
+        "imageId": 104702383,
+        "title": {
+            "fr": "Image du Comte Harebourg",
+            "en": "Image of Count Harebourg",
+            "es": "Imagen del Conde Harebourg",
+            "pt": "Imagem do Conde Harebourg"
+        },
+        "level": 128,
+        "levelMax": 133,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SBERG_HAREBOURG_CASTLE"
+        ],
+        "loots": [
+            {
+                "itemId": 16139,
+                "pourcent": 2
+            },
+            {
+                "itemId": 23162,
+                "pourcent": 2
+            },
+            {
+                "itemId": 16146,
+                "pourcent": 1
+            }
+        ]
+    }, {
+        "id": 4235,
+        "imageId": 187704235,
+        "title": {
+            "fr": "Keskon Smare",
+            "en": "Keskon Smare",
+            "es": "Keskon Smare",
+            "pt": "Keskon Smare"
+        },
+        "level": 128,
+        "levelMax": 133,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "ZINIT_BASE_FLANK_SMARES"
+        ],
+        "loots": [
+            {
+                "itemId": 20971,
+                "pourcent": 2
+            },
+            {
+                "itemId": 20972,
+                "pourcent": 2
+            },
+            {
+                "itemId": 20995,
+                "pourcent": 0.8
+            }
+        ]
+    }, {
+        "id": 4391,
+        "imageId": 127804391,
+        "title": {
+            "fr": "Mihmosa le Fleuri",
+            "en": "Mihmosa the Flowery",
+            "es": "Mihmosa el Floral",
+            "pt": "Mihmosa o Floral"
+        },
+        "level": 128,
+        "levelMax": 133,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SHUKRUTE_SHTULHU_TERRITORY"
+        ],
+        "loots": [
+            {
+                "itemId": 24142,
+                "pourcent": 2
+            },
+            {
+                "itemId": 7574,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 1638,
+        "imageId": 131501638,
+        "title": {
+            "fr": "Pichakoté le Dégoûtant",
+            "en": "Pichakoté the Disgusting",
+            "es": "Pichakoté el Repugnante",
+            "pt": "Pichakoté o Desagradável"
+        },
+        "level": 128,
+        "levelMax": 133,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SUFOKIA_MINES_GALLERIES"
+        ],
+        "loots": [
+            {
+                "itemId": 25663,
+                "pourcent": 2
+            },
+            {
+                "itemId": 25661,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 2992,
+        "imageId": 161502992,
+        "title": {
+            "fr": "Troolgrodyte",
+            "en": "Troolgrodyte",
+            "es": "Troolgrodyte",
+            "pt": "Troolgrodyte"
+        },
+        "level": 128,
+        "levelMax": 133,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SAHARACH"
+        ],
+        "loots": [
+            {
+                "itemId": 18386,
+                "pourcent": 2
+            },
+            {
+                "itemId": 24807,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 4998,
+        "imageId": 104800398,
+        "title": {
+            "fr": "Abrasif le Décapant",
+            "en": "Abrasif the Stripper",
+            "es": "Abrasif el Descapante",
+            "pt": "Abrasif o Decapante"
+        },
+        "level": 134,
+        "levelMax": 138,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "BONTA_TONKULT_FOREST"
+        ],
+        "loots": [
+            {
+                "itemId": 25727,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 25729,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 26581,
+                "pourcent": 0.72
+            }
+        ]
+    }, {
+        "id": 4372,
+        "imageId": 161104372,
+        "title": {
+            "fr": "Cêpomwé l'Innocent",
+            "en": "Cêpomwé the Innocent",
+            "es": "Cêpomwé el Inocente",
+            "pt": "Cêpomwé o Inocente"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "SAHARACH_FUNGOPHY"
+        ],
+        "loots": [
+            {
+                "itemId": 24144,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 18387,
+                "pourcent": 0.9
+            }
+        ]
+    }, {
+        "id": 4269,
+        "imageId": 187404269,
+        "title": {
+            "fr": "Gris XIII",
+            "en": "Gray XIII",
+            "es": "Gris XIII",
+            "pt": "Cinza XIII"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "2H30",
+            "en": "2H30",
+            "es": "2H30",
+            "pt": "2H30"
+        },
+        "locations": [
+            "ZINIT_BASE_FLANK_PHORREURS"
+        ],
+        "loots": [
+            {
+                "itemId": 21546,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 21545,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 21547,
+                "pourcent": 0.72
+            }
+        ]
+    }, {
+        "id": 5532,
+        "imageId": 154802563,
+        "title": {
+            "fr": "Jafaw le génie",
+            "en": "Jafaw the Genius",
+            "es": "Jafaw el Genio",
+            "pt": "Jafaw o Gênio"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Wabbit",
+            "en": "Wabbit Challenge",
+            "es": "Desafío Wabbit",
+            "pt": "Desafio Wabbit"
+        },
+        "locations": [
+            "WABBIT_ISLAND_WABBIT_TERRITORY"
+        ],
+        "loots": [
+            {
+                "itemId": 22948,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 17269,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 18645,
+                "pourcent": 0.36
+            }
+        ]
+    }, {
+        "id": 2630,
+        "imageId": 154502554,
+        "title": {
+            "fr": "Lenaldix",
+            "en": "Lenaldix",
+            "es": "Lenaldix",
+            "pt": "Lenaldix"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Lenald",
+            "en": "Lenald Challenge",
+            "es": "Desafío Lenald",
+            "pt": "Desafio Lenald"
+        },
+        "locations": [
+            "WABBIT_ISLAND_LENALD_TERRITORY"
+        ],
+        "loots": [
+            {
+                "itemId": 18633,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 18635,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 18641,
+                "pourcent": 0.72
+            }
+        ]
+    }, {
+        "id": 5473,
+        "imageId": 1111705473,
+        "title": {
+            "fr": "Ougiptien le maudit",
+            "en": "Ougiptien the Cursed",
+            "es": "Ougiptien el Maldito",
+            "pt": "Ougiptien o Maldito"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Légumutant",
+            "en": "Légumutant Challenge",
+            "es": "Desafío Légumutant",
+            "pt": "Desafio Légumutant"
+        },
+        "locations": [
+            "WABBIT_ISLAND_DEVASTATED_FIELDS"
+        ],
+        "loots": [
+            {
+                "itemId": 31328,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 31330,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 31067,
+                "pourcent": 0.72
+            }
+        ]
+    }, {
+        "id": 2743,
+        "imageId": 155202572,
+        "title": {
+            "fr": "Zombowabbit le putréfié",
+            "en": "Zombowabbit the Putrid",
+            "es": "Zombowabbit el Putrido",
+            "pt": "Zombowabbit o Putrificado"
+        },
+        "level": 143,
+        "levelMax": 148,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Zwombbit",
+            "en": "Zwombbit Challenge",
+            "es": "Desafío Zwombbit",
+            "pt": "Desafio Zwombbit"
+        },
+        "locations": [
+            "WABBIT_ISLAND_MORBID_SUBTERRANEANS"
+        ],
+        "loots": [
+            {
+                "itemId": 17214,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 31317,
+                "pourcent": 1.8
+            },
+            {
+                "itemId": 17357,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 5480,
+        "imageId": 1111905480,
+        "title": {
+            "fr": "Archéobombyx l'épicé",
+            "en": "Archéobombyx the spicy",
+            "es": "Archéobombyx el picante",
+            "pt": "Archéobombyx o picante"
+        },
+        "level": 158,
+        "levelMax": 163,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Sabléoptère",
+            "en": "Sabléoptère Challenge",
+            "es": "Desafío Sabléoptère",
+            "pt": "Desafio Sabléoptère"
+        },
+        "locations": [
+            "WABBIT_ISLAND_SAND_CAWOTTE"
+        ],
+        "loots": [
+            {
+                "itemId": 31236,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 31234,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 31242,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 4782,
+        "imageId": 137201736,
+        "title": {
+            "fr": "Blopale le Scintillant",
+            "en": "Blopale the Sparkling",
+            "es": "Blopale el Centelleante",
+            "pt": "Blopale o Cintilante"
+        },
+        "level": 158,
+        "levelMax": 163,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "BRAKMAR_MACHEVILLE"
+        ],
+        "loots": [
+            {
+                "itemId": 29974,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 29976,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 26484,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 3098,
+        "imageId": 163403098,
+        "title": {
+            "fr": "Disciple de Raval",
+            "en": "Disciple of Raval",
+            "es": "Discípulo de Raval",
+            "pt": "Discípulo de Raval"
+        },
+        "level": 158,
+        "levelMax": 163,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "SRAMBAD"
+        ],
+        "loots": [
+            {
+                "itemId": 18541,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 18559,
+                "pourcent": 0.8
+            },
+            {
+                "itemId": 18694,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 3175,
+        "imageId": 163403101,
+        "title": {
+            "fr": "Sir Urh le Renfermé",
+            "en": "Sir Urh the Reclusive",
+            "es": "Sir Urh el Recluso",
+            "pt": "Sir Urh o Recluso"
+        },
+        "level": 158,
+        "levelMax": 163,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ENUTROSOR"
+        ],
+        "loots": [
+            {
+                "itemId": 22628,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 22629,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 18699,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 5039,
+        "imageId": 1102905039,
+        "title": {
+            "fr": "Zarbi l’Inhabituel",
+            "en": "Zarbi the Unusual",
+            "es": "Zarbi el Inusual",
+            "pt": "Zarbi o Inusitado"
+        },
+        "level": 158,
+        "levelMax": 163,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "PANDALOUSIE_VALLEY_SALTY_MARSH"
+        ],
+        "loots": [
+            {
+                "itemId": 26751,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 26749,
+                "pourcent": 1.6
+            },
+            {
+                "itemId": 27024,
+                "pourcent": 0.64
+            }
+        ]
+    }, {
+        "id": 5015,
+        "imageId": 129401464,
+        "title": {
+            "fr": "Capuchino l’Energisant",
+            "en": "Capuchino the Energizing",
+            "es": "Capuchino el Energizante",
+            "pt": "Capuchino o Energizante"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "BONTA_MINE_TREFOUNDS"
+        ],
+        "loots": [
+            {
+                "itemId": 29883,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 30337,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 30335,
+                "pourcent": 1.4
+            }
+        ]
+    }, {
+        "id": 4358,
+        "imageId": 169204358,
+        "title": {
+            "fr": "L’Oiseau du temps",
+            "en": "The Bird of Time",
+            "es": "El Pájaro del Tiempo",
+            "pt": "O Pássaro do Tempo"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "XELORIUM_PRESENT"
+        ],
+        "loots": [
+            {
+                "itemId": 22393,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 22392,
+                "pourcent": 0.7
+            },
+            {
+                "itemId": 19143,
+                "pourcent": 0.28
+            },
+            {
+                "itemId": 22567,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22568,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22569,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22570,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22571,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22572,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 4853,
+        "imageId": 134602127,
+        "title": {
+            "fr": "Papapoutre le Rigide",
+            "en": "Papapoutre the Rigid",
+            "es": "Papapoutre el Rígido",
+            "pt": "Papapoutre o Rígido"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "BRAKMAR_MINE_TREFOUNDS"
+        ],
+        "loots": [
+            {
+                "itemId": 25803,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 25805,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 29885,
+                "pourcent": 1.4
+            }
+        ]
+    }, {
+        "id": 4357,
+        "imageId": 169304357,
+        "title": {
+            "fr": "Rib’Eri le Routourneur",
+            "en": "Rib’Eri the Turnabout",
+            "es": "Rib’Eri el Giratorio",
+            "pt": "Rib’Eri o Virador"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "XELORIUM_PASSED"
+        ],
+        "loots": [
+            {
+                "itemId": 22362,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 22361,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 19063,
+                "pourcent": 0.56
+            },
+            {
+                "itemId": 22567,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22568,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22569,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22570,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22571,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22572,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 5012,
+        "imageId": 120501170,
+        "title": {
+            "fr": "Rictus l’Expressif",
+            "en": "Rictus the Expressive",
+            "es": "Rictus el Expresivo",
+            "pt": "Rictus o Expressivo"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "AMAKNA_MINE_TREFOUNDS"
+        ],
+        "loots": [
+            {
+                "itemId": 26007,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 29880,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 26490,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 26001,
+                "pourcent": 0.56
+            }
+        ]
+    }, {
+        "id": 5017,
+        "imageId": 197905017,
+        "title": {
+            "fr": "Rouflaket le Gentleman",
+            "en": "Rouflaket the Gentleman",
+            "es": "Rouflaket el Caballero",
+            "pt": "Rouflaket o Cavalheiro"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "SUFOKIA_MINES_TREFOUNDS"
+        ],
+        "loots": [
+            {
+                "itemId": 25935,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 25937,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 29887,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 26599,
+                "pourcent": 0.56
+            }
+        ]
+    }, {
+        "id": 4304,
+        "imageId": 187204304,
+        "title": {
+            "fr": "Soeur Soudeuse la Fondue",
+            "en": "Sister Soudeuse the Fondue",
+            "es": "Hermana Soudeuse la Fondue",
+            "pt": "Irmã Soudeuse a Fondue"
+        },
+        "level": 173,
+        "levelMax": 178,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ZINIT_TOP_FLANK_SBIRE_KALI"
+        ],
+        "loots": [
+            {
+                "itemId": 21202,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 21203,
+                "pourcent": 1.4
+            },
+            {
+                "itemId": 22567,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22568,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22569,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22570,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22571,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22572,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 5045,
+        "imageId": 1103005045,
+        "title": {
+            "fr": "Pandémik le Malade",
+            "en": "Pandémik the Sick",
+            "es": "Pandémik el Enfermo",
+            "pt": "Pandémik o Doente"
+        },
+        "level": 188,
+        "levelMax": 193,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "PANDALOUSIE_VALLEY_PANDISSIDAN_VILLAGE"
+        ],
+        "loots": [
+            {
+                "itemId": 26815,
+                "pourcent": 1.2
+            },
+            {
+                "itemId": 26817,
+                "pourcent": 1.2
+            },
+            {
+                "itemId": 27028,
+                "pourcent": 0.48
+            }
+        ]
+    }, {
+        "id": 5133,
+        "imageId": 1103905133,
+        "title": {
+            "fr": "Pic-à-choux l’électrique",
+            "en": "Pic-à-choux the Electric",
+            "es": "Pic-à-choux el Eléctrico",
+            "pt": "Pic-à-choux o Elétrico"
+        },
+        "level": 188,
+        "levelMax": 193,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "SADIDA_KINGDOM_GERBOUILLES_GALLERIES"
+        ],
+        "loots": [
+            {
+                "itemId": 27443,
+                "pourcent": 1.2
+            },
+            {
+                "itemId": 27445,
+                "pourcent": 1.2
+            },
+            {
+                "itemId": 27355,
+                "pourcent": 0.48
+            }
+        ]
+    }, {
+        "id": 5102,
+        "imageId": 1103305102,
+        "title": {
+            "fr": "Tanukouï-San",
+            "en": "Tanukouï-San",
+            "es": "Tanukouï-San",
+            "pt": "Tanukouï-San"
+        },
+        "level": 200,
+        "levelMax": 200,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Soiffard",
+            "en": "Soiffard Challenge",
+            "es": "Desafío Soiffard",
+            "pt": "Desafio Soiffard"
+        },
+        "locations": [
+            "PANDALOUSIE_VALLEY_CEMETERY"
+        ],
+        "loots": [
+            {
+                "itemId": 27293,
+                "pourcent": 2
+            },
+            {
+                "itemId": 27297,
+                "pourcent": 2
+            }
+        ]
+    }, {
+        "id": 5139,
+        "imageId": 1104005139,
+        "title": {
+            "fr": "Archibourg l’Archimonstre Hibourg",
+            "en": "Archibourg the Archimonster Hibourg",
+            "es": "Archibourg el Archimonstruo Hibourg",
+            "pt": "Archibourg o Arquimonstro Hibourg"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "SADIDA_KINGDOM_DEFORESTED_FOREST"
+        ],
+        "loots": [
+            {
+                "itemId": 27371,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27373,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27357,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5051,
+        "imageId": 1103105051,
+        "title": {
+            "fr": "Fléomérique le Poète",
+            "en": "Fléomérique the Poet",
+            "es": "Fléomérique el Poeta",
+            "pt": "Fléomérique o Poeta"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "PANDALOUSIE_VALLEY_BURNED_FOREST"
+        ],
+        "loots": [
+            {
+                "itemId": 26888,
+                "pourcent": 1
+            },
+            {
+                "itemId": 26886,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27032,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5058,
+        "imageId": 1103205058,
+        "title": {
+            "fr": "Fléorripilant le Fantôme Fléopard",
+            "en": "Fléorripilant the Phantom Fléopard",
+            "es": "Fléorripilant el Fantasma Fléopard",
+            "pt": "Fléorripilant o Fantasma Fléopard"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "PANDALOUSIE_VALLEY_CEMETERY"
+        ],
+        "loots": [
+            {
+                "itemId": 26955,
+                "pourcent": 1
+            },
+            {
+                "itemId": 26957,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27036,
+                "pourcent": 0.2
+            }
+        ]
+    }, {
+        "id": 4261,
+        "imageId": 189004261,
+        "title": {
+            "fr": "Fréonctueux le Gaz pas chaud",
+            "en": "Fréonctueux the Cold Gas",
+            "es": "Fréonctueux el Gas Frío",
+            "pt": "Fréonctueux o Gás Frio"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ZINIT_SUMMIT_ETHERNELS"
+        ],
+        "loots": [
+            {
+                "itemId": 21789,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21802,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21784,
+                "pourcent": 0.4
+            },
+            {
+                "itemId": 22544,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22541,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22550,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22547,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22545,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22549,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22540,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22543,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22546,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22539,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22542,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22537,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22548,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22538,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 4220,
+        "imageId": 186704218,
+        "title": {
+            "fr": "Minibuliette",
+            "en": "Minibuliette",
+            "es": "Minibuliette",
+            "pt": "Minibuliette"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ZINIT_SUMMIT_DRAGOEFS"
+        ],
+        "loots": [
+            {
+                "itemId": 20955,
+                "pourcent": 1
+            },
+            {
+                "itemId": 20954,
+                "pourcent": 1
+            },
+            {
+                "itemId": 20956,
+                "pourcent": 0.4
+            },
+            {
+                "itemId": 22544,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22541,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22550,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22547,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22545,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22549,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22540,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22543,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22546,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22539,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22542,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22537,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22548,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22538,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 4330,
+        "imageId": 190004330,
+        "title": {
+            "fr": "Sar’houmane le Prêtre de la flamme",
+            "en": "Sar'houmane the Flame Priest",
+            "es": "Sar'houmane el Sacerdote de la Llama",
+            "pt": "Sar'houmane o Sacerdote da Chama"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ZINIT_DORMOR_CAVE"
+        ],
+        "loots": [
+            {
+                "itemId": 21869,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21884,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21701,
+                "pourcent": 0.4
+            },
+            {
+                "itemId": 22544,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22541,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22550,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22547,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22545,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22549,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22540,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22543,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22546,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22539,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22542,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22537,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22548,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22538,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 4329,
+        "imageId": 186604329,
+        "title": {
+            "fr": "Uhu le Mielleux",
+            "en": "Uhu the Honeyed",
+            "es": "Uhu el Meloso",
+            "pt": "Uhu o Melado"
+        },
+        "level": 203,
+        "levelMax": 208,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "4H",
+            "en": "4H",
+            "es": "4H",
+            "pt": "4H"
+        },
+        "locations": [
+            "ZINIT_TOP_FLANK_BLEROX"
+        ],
+        "loots": [
+            {
+                "itemId": 21700,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21703,
+                "pourcent": 1
+            },
+            {
+                "itemId": 21867,
+                "pourcent": 0.4
+            },
+            {
+                "itemId": 22544,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22541,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22550,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22547,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22545,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22549,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22540,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22543,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22546,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22539,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22542,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22537,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22548,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 22538,
+                "pourcent": 0.5
+            }
+        ]
+    }, {
+        "id": 5172,
+        "imageId": 1105905172,
+        "title": {
+            "fr": "Vandaltonien le malvoyant",
+            "en": "Vandaltonien the Visually Impaired",
+            "es": "Vandaltonien el Débil de Vista",
+            "pt": "Vandaltonien o Deficiente Visual"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Vandaliéné",
+            "en": "Vandaliéné Challenge",
+            "es": "Desafío Vandaliéné",
+            "pt": "Desafio Vandaliéné"
+        },
+        "locations": [
+            "OSAMOSA_DORSAL_FOREST"
+        ],
+        "loots": [
+            {
+                "itemId": 27754,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27756,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27815,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5249,
+        "imageId": 1106805249,
+        "title": {
+            "fr": "Lacrymorse le Larmoyant",
+            "en": "Lacrymorse the Tearful",
+            "es": "Lacrymorse el Llorón",
+            "pt": "Lacrymorse o Lamentoso"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Mansot",
+            "en": "Mansot Challenge",
+            "es": "Desafío Mansot",
+            "pt": "Desafio Mansot"
+        },
+        "locations": [
+            "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS"
+        ],
+        "loots": [
+            {
+                "itemId": 28261,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28259,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28328,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5190,
+        "imageId": 1106205190,
+        "title": {
+            "fr": "Imbuffle l'égo centrique",
+            "en": "Imbuffle the Ego-Centric",
+            "es": "Imbuffle el Egoísta",
+            "pt": "Imbuffle o Egoísta"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Toundrasoir",
+            "en": "Toundrasoir Challenge",
+            "es": "Desafío Toundrasoir",
+            "pt": "Desafio Toundrasoir"
+        },
+        "locations": [
+            "OSAMOSA_GLACIAL_WING"
+        ],
+        "loots": [
+            {
+                "itemId": 27696,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27698,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27814,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5178,
+        "imageId": 1106005178,
+        "title": {
+            "fr": "Scorpitre le blagueur",
+            "en": "Scorpitre the Joker",
+            "es": "Scorpitre el Bromista",
+            "pt": "Scorpitre o Piadeiro"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Cagnardeur",
+            "en": "Cagnardeur Challenge",
+            "es": "Desafío Cagnardeur",
+            "pt": "Desafio Cagnardeur"
+        },
+        "locations": [
+            "OSAMOSA_ARID_WING"
+        ],
+        "loots": [
+            {
+                "itemId": 27582,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27580,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27812,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5184,
+        "imageId": 1106105184,
+        "title": {
+            "fr": "Pinsoumis le rebelle",
+            "en": "Pinsoumis the Rebel",
+            "es": "Pinsoumis el Rebelde",
+            "pt": "Pinsoumis o Rebelde"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Crustargneux",
+            "en": "Crustargneux Challenge",
+            "es": "Desafío Crustargneux",
+            "pt": "Desafio Crustargneux"
+        },
+        "locations": [
+            "OSAMOSA_CAUDAL_SHORE"
+        ],
+        "loots": [
+            {
+                "itemId": 27638,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27640,
+                "pourcent": 1
+            },
+            {
+                "itemId": 27813,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5243,
+        "imageId": 1106705243,
+        "title": {
+            "fr": "Scoubidours le Morfalours",
+            "en": "Scoubidours the Gluttonous",
+            "es": "Scoubidours el Glotón",
+            "pt": "Scoubidours o Guloso"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Plantigarde",
+            "en": "Plantigarde Challenge",
+            "es": "Desafío Plantigarde",
+            "pt": "Desafio Plantigarde"
+        },
+        "locations": [
+            "CHUCHOKU_KINGDOM_TUNDRA"
+        ],
+        "loots": [
+            {
+                "itemId": 28196,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28198,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28325,
+                "pourcent": 0.1
+            }
+        ]
+    }, {
+        "id": 5237,
+        "imageId": 1106605237,
+        "title": {
+            "fr": "Torturpide le vil",
+            "en": "Torturpide the Vile",
+            "es": "Torturpide el Vil",
+            "pt": "Torturpide o Vil"
+        },
+        "level": 218,
+        "levelMax": 223,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Carapatte",
+            "en": "Carapatte Challenge",
+            "es": "Desafío Carapatte",
+            "pt": "Desafio Carapatte"
+        },
+        "locations": [
+            "CHUCHOKU_INNER_GRAMPAR"
+        ],
+        "loots": [
+            {
+                "itemId": 28133,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28135,
+                "pourcent": 1
+            },
+            {
+                "itemId": 28322,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5291,
+        "imageId": 1107705291,
+        "title": {
+            "fr": "Archibald l'Effroyable",
+            "en": "Archibald the Terrible",
+            "es": "Archibald el Terrorífico",
+            "pt": "Archibald o Terrível"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Démhorrible",
+            "en": "Démhorrible Challenge",
+            "es": "Desafío Démhorrible",
+            "pt": "Desafio Démhorrible"
+        },
+        "locations": [
+            "SHUKRUTE_HORROR_CITADEL"
+        ],
+        "loots": [
+            {
+                "itemId": 29173,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29175,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29181,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5285,
+        "imageId": 1107505285,
+        "title": {
+            "fr": "Ar'Manthe la Religieuse",
+            "en": "Ar'Manthe the Nun",
+            "es": "Ar'Manthe la Monja",
+            "pt": "Ar'Manthe a Freira"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Vidéant",
+            "en": "Vidéant Challenge",
+            "es": "Desafío Vidéant",
+            "pt": "Desafio Vidéant"
+        },
+        "locations": [
+            "SHUKRUTE_VACUUM_SPIRAL"
+        ],
+        "loots": [
+            {
+                "itemId": 29111,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29113,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29119,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5279,
+        "imageId": 1107305279,
+        "title": {
+            "fr": "Viil l'Incorruptible",
+            "en": "Viil the Uncorruptible",
+            "es": "Viil el Incorrupible",
+            "pt": "Viil o Incorrupível"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Phytomorphe",
+            "en": "Phytomorphe Challenge",
+            "es": "Desafío Phytomorphe",
+            "pt": "Desafio Phytomorphe"
+        },
+        "locations": [
+            "SHUKRUTE_DESPAIR_KINGDOM"
+        ],
+        "loots": [
+            {
+                "itemId": 29049,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29051,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29057,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5303,
+        "imageId": 1108105303,
+        "title": {
+            "fr": "Constant l'Éternel",
+            "en": "Constant the Eternal",
+            "es": "Constant el Eterno",
+            "pt": "Constant o Eterno"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Ravageur",
+            "en": "Ravager Challenge",
+            "es": "Desafío Ravageur",
+            "pt": "Desafio Ravageur"
+        },
+        "locations": [
+            "SHUKRUTE_DEATH_ROAD"
+        ],
+        "loots": [
+            {
+                "itemId": 29297,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29589,
+                "pourcent": 0.5
+            },
+            {
+                "itemId": 29305,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5297,
+        "imageId": 1107905297,
+        "title": {
+            "fr": "~`hd#@! l'Incompris",
+            "en": "~`hd#@! the Misunderstood",
+            "es": "~`hd#@! el Incomprendido",
+            "pt": "~`hd#@! o Incompreendido"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Égaré",
+            "en": "Lost Challenge",
+            "es": "Desafío Perdido",
+            "pt": "Desafio Perdido"
+        },
+        "locations": [
+            "SHUKRUTE_DEMENTIA"
+        ],
+        "loots": [
+            {
+                "itemId": 29235,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29237,
+                "pourcent": 1
+            },
+            {
+                "itemId": 29243,
+                "pourcent": 0.4
+            }
+        ]
+    }, {
+        "id": 5402,
+        "imageId": 1110605402,
+        "title": {
+            "fr": "Stork l'Ingénieux",
+            "en": "Stork the Ingenious",
+            "es": "Stork el Ingenioso",
+            "pt": "Stork o Ingênuo"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Poisseux Abyssaux/Steamers",
+            "en": "Abyssal Sticky / Steamer Challenge",
+            "es": "Desafío Pegajoso Abisal / Steamers",
+            "pt": "Desafio Pegajoso Abissal / Steamers"
+        },
+        "locations": [
+            "EREBORIA_PRISON"
+        ],
+        "loots": [
+            {
+                "itemId": 30277,
+                "pourcent": 1
+            },
+            {
+                "itemId": 30284,
+                "pourcent": 1
+            },
+            {
+                "itemId": 30275,
+                "pourcent": 0.2
+            }
+        ]
+    }, {
+        "id": 5396,
+        "imageId": 1110405396,
+        "title": {
+            "fr": "Cire Momoriss",
+            "en": "Cire Momoriss",
+            "es": "Cire Momoriss",
+            "pt": "Cire Momoriss"
+        },
+        "level": 233,
+        "levelMax": 238,
+        "isArchi": true,
+        "isCatchable": false,
+        "respawn": {
+            "fr": "Challenge Poisseux Abyssaux/Steamers",
+            "en": "Abyssal Sticky / Steamer Challenge",
+            "es": "Desafío Pegajoso Abisal / Steamers",
+            "pt": "Desafio Pegajoso Abissal / Steamers"
+        },
+        "locations": [
+            "EREBORIA_PRISON"
+        ],
+        "loots": [
+            {
+                "itemId": 30150,
+                "pourcent": 1
+            },
+            {
+                "itemId": 30148,
+                "pourcent": 1
+            },
+            {
+                "itemId": 30146,
+                "pourcent": 0.4
+            }
+        ]
+    }
 ]

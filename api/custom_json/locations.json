@@ -1,1334 +1,1333 @@
 [
-   {
-      "code":"ASTRUB_CITY",
-      "title":{
-         "fr":"Astrub - Cité d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":12
-   },
-   {
-      "code":"ASTRUB_FIELDS",
-      "title":{
-         "fr":"Astrub - Champs d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":20
-   },
-   {
-      "code":"ASTRUB_PLAINS",
-      "title":{
-         "fr":"Astrub - Plaines d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":20
-   },
-   {
-      "code":"ASTRUB_FISHERMANS_HAMLET",
-      "title":{
-         "fr":"Astrub - Hameau des Pécheurs",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":20
-   },
-   {
-      "code":"ASTRUB_CEMETERY",
-      "title":{
-         "fr":"Astrub - Cimetière d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":35
-   },
-   {
-      "code":"ASTRUB_TAINELA",
-      "title":{
-         "fr":"Astrub - Tainela",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":12,
-      "levelMax":20
-   },
-   {
-      "code":"ASTRUB_MOUNTAINS",
-      "title":{
-         "fr":"Astrub - Montagnes d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":21,
-      "levelMax":35
-   },
-   {
-      "code":"ASTRUB_FOREST",
-      "title":{
-         "fr":"Astrub - Forêt d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":21,
-      "levelMax":35
-   },
-   
-   {
-      "code":"ASTRUB_SEWERS",
-      "title":{
-         "fr":"Astrub - Egouts d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":6,
-      "levelMax":20
-   },
-   {
-      "code":"ASTRUB_MINES",
-      "title":{
-         "fr":"Astrub - Mines d'Astrub",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":21,
-      "levelMax":35
-   },
-   {
-      "code":"ASTRUB_WAKFU_SOURCE",
-      "title":{
-         "fr":"Astrub - Source de Wakfu",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"ASTRUB_STATIS_SOURCE",
-      "title":{
-         "fr":"Astrub - Source de Statis",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"AMAKNA_CAPITAL",
-      "title":{
-         "fr":"Amakna - Capitale d'Amakna",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"AMAKNA_SINGING_FIELDS",
-      "title":{
-         "fr":"Amakna - Champs qui Chantent",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"AMAKNA_EMELKA_FOREST",
-      "title":{
-         "fr":"Amakna - Forêt d'Emelka",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"AMAKNA_RIKTUS_PLAINS",
-      "title":{
-         "fr":"Amakna - Plaine des Riktus",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":96,
-      "levelMax":110
-   },
-   {
-      "code":"AMAKNA_MINE_GALLERIES",
-      "title":{
-         "fr":"Amakna - Mine d'Amakna - Galeries",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":136,
-      "levelMax":50
-   },
-   {
-      "code":"AMAKNA_MINE_TREFOUNDS",
-      "title":{
-         "fr":"Amakna - Mine d'Amakna - Tréfonds",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"AMAKNA_SEA_ZONE",
-      "title":{
-         "fr":"Amakna - Zone Maritime",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"AMAKNA_DUNGEON_CHAMPS_POURCHAN",
-      "title":{
-         "fr":"Amakna - Donjon Les Champs Pourchan",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"SUFOKIA_CAPITAL",
-      "title":{
-         "fr":"Sufokia - Capitale de sufokia",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"SUFOKIA_DUNE_KANE",
-      "title":{
-         "fr":"Sufokia - Dune Kane",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":51,
-      "levelMax":65
-   },
-   {
-      "code":"SUFOKIA_MOUNTAINS_FLACKEUX",
-      "title":{
-         "fr":"Sufokia - Montagne des Flaqueux",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"SUFOKIA_SEA_ZONE",
-      "title":{
-         "fr":"Sufokia - Zone Maritime",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"SUFOKIA_MINES_GALLERIES",
-      "title":{
-         "fr":"Sufokia - Mines de Sufokia - Galeries",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"SUFOKIA_MINES_TREFOUNDS",
-      "title":{
-         "fr":"Sufokia - Mines de Sufokia - Tréfonds",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"SUFOKIA_DUNGEON_KOKOKOLANTHA",
-      "title":{
-         "fr":"Sufokia - Donjon Kokokolantha",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":65,
-      "levelMax":65
-   },
-   {
-      "code":"SUFOKIA_DUNGEON_PICHIN",
-      "title":{
-         "fr":"Sufokia - Donjon La Pichine",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":65,
-      "levelMax":65
-   },
-   {
-      "code":"BONTA_CAPITAL",
-      "title":{
-         "fr":"Bonta - Capitale de Bonta",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"BONTA_CANIA_PLAINS",
-      "title":{
-         "fr":"Bonta - Plaines de Cania",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"BONTA_KARA",
-      "title":{
-         "fr":"Bonta - Kara",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"BONTA_TONKULT_FOREST",
-      "title":{
-         "fr":"Bonta - Fourré de Tonkult",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"BONTA_SEA_ZONE",
-      "title":{
-         "fr":"Bonta - Zone Maritime",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"BONTA_MINE_GALLERIES",
-      "title":{
-         "fr":"Bonta - Mine de Bonta - Galeries",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"BONTA_MINE_TREFOUNDS",
-      "title":{
-         "fr":"Bonta - Mine de Bonta - Tréfonds",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"BRAKMAR_CAPITAL",
-      "title":{
-         "fr":"Brâkmar - Capitale de Brâkmar",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"BRAKMAR_SIDIMOTE_LANDS",
-      "title":{
-         "fr":"Brâkmar - Landes de Sidimote",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"BRAKMAR_PABONG_FIELDS",
-      "title":{
-         "fr":"Brâkmar - Champs Pabong",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"BRAKMAR_MACHEVILLE",
-      "title":{
-         "fr":"Brâkmar - Macheville",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"BRAKMAR_SEA_ZONE",
-      "title":{
-         "fr":"Brâkmar - Zone Maritime",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"BRAKMAR_MINE_GALLERIES",
-      "title":{
-         "fr":"Brâkmar - Mine de Brâkmar - Galeries",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"BRAKMAR_MINE_TREFOUNDS",
-      "title":{
-         "fr":"Brâkmar - Mine de Brâkmar - Tréfonds",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
     {
-      "code":"BRAKMAR_DUNGEON_MORBAX_NECROHAIR",
-      "title":{
-         "fr":"Brâkmar - Donjon Nécropoil de Morbax",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":95,
-      "levelMax":95
-   },
-   {
-      "code":"SADIDA_KINGDOM_VILLAGE",
-      "title":{
-         "fr":"Royaume Sadida - Village",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"SADIDA_KINGDOM_CLOUDED_HILL",
-      "title":{
-         "fr":"Royaume Sadida - Colline Entoilée",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"SADIDA_KINGDOM_MULOS_CLEARENCE",
-      "title":{
-         "fr":"Royaume Sadida - Clairière des Mulous",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"SADIDA_KINGDOM_GERBOUILLES_GALLERIES",
-      "title":{
-         "fr":"Royaume Sadida - Galeries des Gerbouilles",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":171,
-      "levelMax":185
-   },
-   {
-      "code":"SADIDA_KINGDOM_DEFORESTED_FOREST",
-      "title":{
-         "fr":"Royaume Sadida - Forêt déforestée",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_PORT",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Port de Chendu",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_SUMMIT",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Sommet des Mille Brumes",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_SALTY_MARSH",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Marais salé",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":141,
-      "levelMax":155
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_PANDISSIDAN_VILLAGE",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Village des Pandissidans",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":171,
-      "levelMax":185
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_CEMETERY",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Cimetière",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_BURNED_FOREST",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Forêt calcinée",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"PANDALOUSIE_VALLEY_MINES",
-      "title":{
-         "fr":"Vallée de la Pandalousie - Mines de la pandalousie",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":245
-   },
-   {
-      "code":"CHUCHOKU_KINGDOM_CHUCHOPLAINE",
-      "title":{
-         "fr":"Royaume Chuchoku - Chuchoplaine",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":96,
-      "levelMax":110
-   },
-   {
-      "code":"CHUCHOKU_KINGDOM_TUNDRA",
-      "title":{
-         "fr":"Royaume Chuchoku - Toundra",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"CHUCHOKU_KINGDOM_BANQUISE_MANSOTS",
-      "title":{
-         "fr":"Royaume Chuchoku - Banquise des Mansots",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"CHUCHOKU_INNER_GRAMPAR",
-      "title":{
-         "fr":"Royaume Chuchoku - Intérieur de Grampar",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"SAHARACH",
-      "title":{
-         "fr":"Saharach",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"SAHARACH_FUNGOPHY",
-      "title":{
-         "fr":"Saharach - La fungopée",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"MOON_JUNGLE",
-      "title":{
-         "fr":"Moon - Jungle de Moon",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":171,
-      "levelMax":185
-   },
-   {
-      "code":"MOON_BEACH",
-      "title":{
-         "fr":"Moon - Plage de Moon",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":171,
-      "levelMax":185
-   },
-   {
-      "code":"MOON_SUBTERRANEANS",
-      "title":{
-         "fr":"Moon - Sous Terrains de l'île de Moon",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":171,
-      "levelMax":185
-   },
-   {
-      "code":"WABBIT_ISLAND_VILLAGE_LENALD",
-      "title":{
-         "fr":"Île des Wabbits - Village Lenald",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"WABBIT_ISLAND_LENALD_TERRITORY",
-      "title":{
-         "fr":"Île des Wabbits - Territoire Lenald",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"WABBIT_ISLAND_DEVASTATED_FIELDS",
-      "title":{
-         "fr":"Île des Wabbits - Champ dévastés",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"WABBIT_ISLAND_WABBIT_TERRITORY",
-      "title":{
-         "fr":"Île des Wabbits - Territoire Wabbit",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":155
-   },
-   {
-      "code":"WABBIT_ISLAND_SAND_CAWOTTE",
-      "title":{
-         "fr":"Île des Wabbits - Cawotte ensablée",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":141,
-      "levelMax":155
-   },
-   {
-      "code":"WABBIT_ISLAND_MORBID_SUBTERRANEANS",
-      "title":{
-         "fr":"Île des Wabbits - Souterrains morbides",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":141,
-      "levelMax":155
-   },
-   {
-      "code":"WILD_DOMAIN",
-      "title":{
-         "fr":"Domaine Sauvage",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":51,
-      "levelMax":65
-   },
-   {
-      "code":"KELBA_LANDS",
-      "title":{
-         "fr":"Kelba - Landes de Kelba",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"KELBA_PEAKS",
-      "title":{
-         "fr":"Kelba - Pics de kelba",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":66,
-      "levelMax":80
-   },
-   {
-      "code":"KATREPAT",
-      "title":{
-         "fr":"Katrepat",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"MONK_ISLAND",
-      "title":{
-         "fr":"Ile aux moines",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"BILBYZA_GELAX_COAST",
-      "title":{
-         "fr":"Bilbyza - Costa del Gelax",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":110
-   },
-   {
-      "code":"BILBYZA_GELAX_DIMENSION",
-      "title":{
-         "fr":"Bilbyza - Gelaxième Dimension",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":96,
-      "levelMax":110
-   },
-   {
-      "code":"MINERAL_TOWER",
-      "title":{
-         "fr":"Tour Minérale",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":230
-   },
-   {
-      "code":"TROOL_FAIR",
-      "title":{
-         "fr":"Foire du Trool",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"EREBORIA_PORT",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Port d'Ereboria",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"EREBORIA_PIRATE_BEACH",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Plage des pirates",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"EREBORIA_CURSED_BEACH",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Plage maudite",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":36,
-      "levelMax":50
-   },
-   {
-      "code":"EREBORIA_CAVERN",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Caverne des Marteaux-Aigris",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":51,
-      "levelMax":65
-   },
-   {
-      "code":"EREBORIA_SUFOCIAN_MINE",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Mine néo-Sufokienne",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"EREBORIA_PRISON",
-      "title":{
-         "fr":"Ereboria, l'île maudite - Prison maritime",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"BIBLIOTEMPLE",
-      "title":{
-         "fr":"Bibliotemple",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"ROK_ISLAND",
-      "title":{
-         "fr":"Ile de Rok",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":230
-   },
-   {
-      "code":"SBERG_ICEBERG",
-      "title":{
-         "fr":"Ile Sberg - La banquise de Sberg",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":125
-   },
-   {
-      "code":"SBERG_BURIED_VILLAGE",
-      "title":{
-         "fr":"Ile Sberg - Village Enseveli Enseveli",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"SBERG_HAREBOURG_CASTLE",
-      "title":{
-         "fr":"Ile Sberg - Château de Harebourg",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"ZINIT_BEACH",
-      "title":{
-         "fr":"Mont Zinit - Plage du Zinit",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":21,
-      "levelMax":35
-   },
-   {
-      "code":"ZINIT_SAVAGE_BEACH_PART_1",
-      "title":{
-         "fr":"Mont Zinit - Plage Sauvage - Partie 1",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":51,
-      "levelMax":65
-   },
-   {
-      "code":"ZINIT_SAVAGE_BEACH_PART_2",
-      "title":{
-         "fr":"Mont Zinit - Plage Sauvage - Partie 2",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":51,
-      "levelMax":65
-   },
-   {
-      "code":"ZINIT_SLEK_CAVE",
-      "title":{
-         "fr":"Mont Zinit - Grotte Slek",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":81,
-      "levelMax":95
-   },
-   {
-      "code":"ZINIT_BASE_FLANK_SMARES",
-      "title":{
-         "fr":"Mont Zinit - Bas Flanc - Smares",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":125
-   },
-   {
-      "code":"ZINIT_BASE_FLANK_PHORREURS",
-      "title":{
-         "fr":"Mont Zinit - Bas Flanc - Phorreurs",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":126,
-      "levelMax":140
-   },
-   {
-      "code":"ZINIT_TOP_FLANK_SBIRE_KALI",
-      "title":{
-         "fr":"Mont Zinit - Haut Flanc - Sbires de Kali",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"ZINIT_TOP_FLANK_BLEROX",
-      "title":{
-         "fr":"Mont Zinit - Haut Flanc - Blérox",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"ZINIT_DORMOR_CAVE",
-      "title":{
-         "fr":"Mont Zinit - Grotte du Dor'Mor",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"ZINIT_SUMMIT_DRAGOEFS",
-      "title":{
-         "fr":"Mont Zinit - Sommet - Dragoeufs",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"ZINIT_SUMMIT_ETHERNELS",
-      "title":{
-         "fr":"Mont Zinit - Sommet - Ethernels",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":186,
-      "levelMax":200
-   },
-   {
-      "code":"SHUKRUTE_SHUSHARDES_REEF",
-      "title":{
-         "fr":"Shukrute - Récif des Shushardes",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":170
-   },
-   {
-      "code":"SHUKRUTE_SHTULHU_TERRITORY",
-      "title":{
-         "fr":"Shukrute - Territoire de Sthulhu",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":111,
-      "levelMax":170
-   },
-   {
-      "code":"SHUKRUTE_FALLEN_SOUL_CROSSROAD",
-      "title":{
-         "fr":"Shukrute - Croisée des âmes déchues",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"SHUKRUTE_HORROR_CITADEL",
-      "title":{
-         "fr":"Shukrute - Citadelle de l'horreur",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"SHUKRUTE_VACUUM_SPIRAL",
-      "title":{
-         "fr":"Shukrute - Spirale du vide",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"SHUKRUTE_DEATH_ROAD",
-      "title":{
-         "fr":"Shukrute - Route des morts",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"SHUKRUTE_DESPAIR_KINGDOM",
-      "title":{
-         "fr":"Shukrute - Royaume du désespoir",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"SHUKRUTE_DEMENTIA",
-      "title":{
-         "fr":"Shukrute - Démentia",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":216,
-      "levelMax":230
-   },
-   {
-      "code":"CELESTIAL_ISLAND_RII",
-      "title":{
-         "fr":"Rii, l'île céleste",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":10
-   },
-   {
-      "code":"INGLORIUM",
-      "title":{
-         "fr":"Inglorium",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":230
-   },
-   {
-      "code":"ECAFLIPUS_ARENA",
-      "title":{
-         "fr":"Ecaflipus (Arènes)",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":1,
-      "levelMax":230
-   },
-   {
-      "code":"SRAMBAD",
-      "title":{
-         "fr":"Srambad",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":141,
-      "levelMax":155
-   },
-   {
-      "code":"ENUTROSOR",
-      "title":{
-         "fr":"Enutrosor",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":141,
-      "levelMax":155
-   },
-   {
-      "code":"XELORIUM_PASSED",
-      "title":{
-         "fr":"Xélorium Passé",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"XELORIUM_PRESENT",
-      "title":{
-         "fr":"Xélorium Présent",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":156,
-      "levelMax":170
-   },
-   {
-      "code":"OSAMOSA_LAB",
-      "title":{
-         "fr":"Osamosa - Laboratoire d'Osamodas",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"OSAMOSA_DORSAL_FOREST",
-      "title":{
-         "fr":"Osamosa - Forêt Dorsale",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"OSAMOSA_ARID_WING",
-      "title":{
-         "fr":"Osamosa - Aile Aride",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"OSAMOSA_GLACIAL_WING",
-      "title":{
-         "fr":"Osamosa - Aile Glaciaire",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   },
-   {
-      "code":"OSAMOSA_CAUDAL_SHORE",
-      "title":{
-         "fr":"Osamosa - Rivage Caudal",
-         "en":"",
-         "es":"",
-         "pt":""
-      },
-      "levelMin":201,
-      "levelMax":215
-   }
+        "code": "ASTRUB_CITY",
+        "title": {
+            "fr": "Astrub - Cité d'Astrub",
+            "en": "Astrub - Astrub City",
+            "es": "Astrub - Ciudad de Astrub",
+            "pt": "Astrub - Cidade de Astrub"
+        },
+        "levelMin": 6,
+        "levelMax": 12
+    },
+    {
+        "code": "ASTRUB_FIELDS",
+        "title": {
+            "fr": "Astrub - Champs d'Astrub",
+            "en": "Astrub - Astrub Fields",
+            "es": "Astrub - Campos de Astrub",
+            "pt": "Astrub - Campos de Astrub"
+        },
+        "levelMin": 6,
+        "levelMax": 20
+    },
+    {
+        "code": "ASTRUB_PLAINS",
+        "title": {
+            "fr": "Astrub - Plaines d'Astrub",
+            "en": "Astrub - Astrub Plains",
+            "es": "Astrub - Llanuras de Astrub",
+            "pt": "Astrub - Planícies de Astrub"
+        },
+        "levelMin": 6,
+        "levelMax": 20
+    },
+    {
+        "code": "ASTRUB_FISHERMANS_HAMLET",
+        "title": {
+            "fr": "Astrub - Hameau des Pécheurs",
+            "en": "Astrub - Fisherman's Hamlet",
+            "es": "Astrub - Aldea de los Pescadores",
+            "pt": "Astrub - Aldeia dos Pescadores"
+        },
+        "levelMin": 6,
+        "levelMax": 20
+    },
+    {
+        "code": "ASTRUB_CEMETERY",
+        "title": {
+            "fr": "Astrub - Cimetière d'Astrub",
+            "en": "Astrub - Astrub Cemetery",
+            "es": "Astrub - Cementerio de Astrub",
+            "pt": "Astrub - Cemitério de Astrub"
+        },
+        "levelMin": 6,
+        "levelMax": 35
+    },
+    {
+        "code": "ASTRUB_TAINELA",
+        "title": {
+            "fr": "Astrub - Tainela",
+            "en": "Astrub - Tainela",
+            "es": "Astrub - Tainela",
+            "pt": "Astrub - Tainela"
+        },
+        "levelMin": 12,
+        "levelMax": 20
+    },
+    {
+        "code": "ASTRUB_MOUNTAINS",
+        "title": {
+            "fr": "Astrub - Montagnes d'Astrub",
+            "en": "Astrub - Astrub Mountains",
+            "es": "Astrub - Montañas de Astrub",
+            "pt": "Astrub - Montanhas de Astrub"
+        },
+        "levelMin": 21,
+        "levelMax": 35
+    },
+    {
+        "code": "ASTRUB_FOREST",
+        "title": {
+            "fr": "Astrub - Forêt d'Astrub",
+            "en": "Astrub - Astrub Forest",
+            "es": "Astrub - Bosque de Astrub",
+            "pt": "Astrub - Floresta de Astrub"
+        },
+        "levelMin": 21,
+        "levelMax": 35
+    },
+    {
+        "code": "ASTRUB_SEWERS",
+        "title": {
+            "fr": "Astrub - Egouts d'Astrub",
+            "en": "Astrub - Astrub Sewers",
+            "es": "Astrub - Alcantarillas de Astrub",
+            "pt": "Astrub - Esgotos de Astrub"
+        },
+        "levelMin": 6,
+        "levelMax": 20
+    },
+    {
+        "code": "ASTRUB_MINES",
+        "title": {
+            "fr": "Astrub - Mines d'Astrub",
+            "en": "Astrub - Astrub Mines",
+            "es": "Astrub - Minas de Astrub",
+            "pt": "Astrub - Minas de Astrub"
+        },
+        "levelMin": 21,
+        "levelMax": 35
+    },
+    {
+        "code": "ASTRUB_WAKFU_SOURCE",
+        "title": {
+            "fr": "Astrub - Source de Wakfu",
+            "en": "Astrub - Wakfu Source",
+            "es": "Astrub - Fuente de Wakfu",
+            "pt": "Astrub - Fonte de Wakfu"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "ASTRUB_STATIS_SOURCE",
+        "title": {
+            "fr": "Astrub - Source de Statis",
+            "en": "Astrub - Stasis Source",
+            "es": "Astrub - Fuente de Stasis",
+            "pt": "Astrub - Fonte de Stasis"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "AMAKNA_CAPITAL",
+        "title": {
+            "fr": "Amakna - Capitale d'Amakna",
+            "en": "Amakna - Amakna Capital",
+            "es": "Amakna - Capital de Amakna",
+            "pt": "Amakna - Capital de Amakna"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "AMAKNA_SINGING_FIELDS",
+        "title": {
+            "fr": "Amakna - Champs qui Chantent",
+            "en": "Amakna - Singing Fields",
+            "es": "Amakna - Campos Cantores",
+            "pt": "Amakna - Campos Cantantes"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "AMAKNA_EMELKA_FOREST",
+        "title": {
+            "fr": "Amakna - Forêt d'Emelka",
+            "en": "Amakna - Emelka Forest",
+            "es": "Amakna - Bosque de Emelka",
+            "pt": "Amakna - Floresta de Emelka"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "AMAKNA_RIKTUS_PLAINS",
+        "title": {
+            "fr": "Amakna - Plaine des Riktus",
+            "en": "Amakna - Riktus Plains",
+            "es": "Amakna - Llanuras de Riktus",
+            "pt": "Amakna - Planícies dos Riktus"
+        },
+        "levelMin": 96,
+        "levelMax": 110
+    },
+    {
+        "code": "AMAKNA_MINE_GALLERIES",
+        "title": {
+            "fr": "Amakna - Mine d'Amakna - Galeries",
+            "en": "Amakna - Amakna Mine - Galleries",
+            "es": "Amakna - Mina de Amakna - Galerías",
+            "pt": "Amakna - Mina de Amakna - Galerias"
+        },
+        "levelMin": 136,
+        "levelMax": 50
+    },
+    {
+        "code": "AMAKNA_MINE_TREFOUNDS",
+        "title": {
+            "fr": "Amakna - Mine d'Amakna - Tréfonds",
+            "en": "Amakna - Amakna Mine - Depths",
+            "es": "Amakna - Mina de Amakna - Profundidades",
+            "pt": "Amakna - Mina de Amakna - Profundezas"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "AMAKNA_SEA_ZONE",
+        "title": {
+            "fr": "Amakna - Zone Maritime",
+            "en": "Amakna - Maritime Zone",
+            "es": "Amakna - Zona Marítima",
+            "pt": "Amakna - Zona Marítima"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "AMAKNA_DUNGEON_CHAMPS_POURCHAN",
+        "title": {
+            "fr": "Amakna - Donjon Les Champs Pourchan",
+            "en": "Amakna - Pourchan Fields Dungeon",
+            "es": "Amakna - Mazmorra de los Campos Pourchan",
+            "pt": "Amakna - Masmorra dos Campos Pourchan"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "SUFOKIA_CAPITAL",
+        "title": {
+            "fr": "Sufokia - Capitale de Sufokia",
+            "en": "Sufokia - Capital of Sufokia",
+            "es": "Sufokia - Capital de Sufokia",
+            "pt": "Sufokia - Capital de Sufokia"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "SUFOKIA_DUNE_KANE",
+        "title": {
+            "fr": "Sufokia - Dune Kane",
+            "en": "Sufokia - Kane Dune",
+            "es": "Sufokia - Duna Kane",
+            "pt": "Sufokia - Duna Kane"
+        },
+        "levelMin": 51,
+        "levelMax": 65
+    },
+    {
+        "code": "SUFOKIA_MOUNTAINS_FLACKEUX",
+        "title": {
+            "fr": "Sufokia - Montagne des Flaqueux",
+            "en": "Sufokia - Flackeux Mountains",
+            "es": "Sufokia - Montaña de los Flaqueux",
+            "pt": "Sufokia - Montanha dos Flaqueux"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "SUFOKIA_SEA_ZONE",
+        "title": {
+            "fr": "Sufokia - Zone Maritime",
+            "en": "Sufokia - Maritime Zone",
+            "es": "Sufokia - Zona Marítima",
+            "pt": "Sufokia - Zona Marítima"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "SUFOKIA_MINES_GALLERIES",
+        "title": {
+            "fr": "Sufokia - Mines de Sufokia - Galeries",
+            "en": "Sufokia - Sufokia Mines - Galleries",
+            "es": "Sufokia - Minas de Sufokia - Galerías",
+            "pt": "Sufokia - Minas de Sufokia - Galerias"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "SUFOKIA_MINES_TREFOUNDS",
+        "title": {
+            "fr": "Sufokia - Mines de Sufokia - Tréfonds",
+            "en": "Sufokia - Sufokia Mines - Depths",
+            "es": "Sufokia - Minas de Sufokia - Profundidades",
+            "pt": "Sufokia - Minas de Sufokia - Profundezas"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "SUFOKIA_DUNGEON_KOKOKOLANTHA",
+        "title": {
+            "fr": "Sufokia - Donjon Kokokolantha",
+            "en": "Sufokia - Kokokolantha Dungeon",
+            "es": "Sufokia - Mazmorra de Kokokolantha",
+            "pt": "Sufokia - Masmorra de Kokokolantha"
+        },
+        "levelMin": 65,
+        "levelMax": 65
+    },
+    {
+        "code": "SUFOKIA_DUNGEON_PICHIN",
+        "title": {
+            "fr": "Sufokia - Donjon La Pichine",
+            "en": "Sufokia - La Pichine Dungeon",
+            "es": "Sufokia - Mazmorra de La Pichine",
+            "pt": "Sufokia - Masmorra de La Pichine"
+        },
+        "levelMin": 65,
+        "levelMax": 65
+    },
+    {
+        "code": "BONTA_CAPITAL",
+        "title": {
+            "fr": "Bonta - Capitale de Bonta",
+            "en": "Bonta - Bonta Capital",
+            "es": "Bonta - Capital de Bonta",
+            "pt": "Bonta - Capital de Bonta"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "BONTA_CANIA_PLAINS",
+        "title": {
+            "fr": "Bonta - Plaines de Cania",
+            "en": "Bonta - Cania Plains",
+            "es": "Bonta - Llanuras de Cania",
+            "pt": "Bonta - Planícies de Cania"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "BONTA_KARA",
+        "title": {
+            "fr": "Bonta - Kara",
+            "en": "Bonta - Kara",
+            "es": "Bonta - Kara",
+            "pt": "Bonta - Kara"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "BONTA_TONKULT_FOREST",
+        "title": {
+            "fr": "Bonta - Fourré de Tonkult",
+            "en": "Bonta - Tonkult Thicket",
+            "es": "Bonta - Matorral de Tonkult",
+            "pt": "Bonta - Mato de Tonkult"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "BONTA_SEA_ZONE",
+        "title": {
+            "fr": "Bonta - Zone Maritime",
+            "en": "Bonta - Maritime Zone",
+            "es": "Bonta - Zona Marítima",
+            "pt": "Bonta - Zona Marítima"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "BONTA_MINE_GALLERIES",
+        "title": {
+            "fr": "Bonta - Mine de Bonta - Galeries",
+            "en": "Bonta - Bonta Mine - Galleries",
+            "es": "Bonta - Mina de Bonta - Galerías",
+            "pt": "Bonta - Mina de Bonta - Galerias"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "BONTA_MINE_TREFOUNDS",
+        "title": {
+            "fr": "Bonta - Mine de Bonta - Tréfonds",
+            "en": "Bonta - Bonta Mine - Depths",
+            "es": "Bonta - Mina de Bonta - Profundidades",
+            "pt": "Bonta - Mina de Bonta - Profundezas"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "BRAKMAR_CAPITAL",
+        "title": {
+            "fr": "Brâkmar - Capitale de Brâkmar",
+            "en": "Brakmar - Brakmar Capital",
+            "es": "Brakmar - Capital de Brakmar",
+            "pt": "Brakmar - Capital de Brakmar"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "BRAKMAR_SIDIMOTE_LANDS",
+        "title": {
+            "fr": "Brâkmar - Landes de Sidimote",
+            "en": "Brakmar - Sidimote Lands",
+            "es": "Brakmar - Tierras de Sidimote",
+            "pt": "Brakmar - Terras de Sidimote"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "BRAKMAR_PABONG_FIELDS",
+        "title": {
+            "fr": "Brâkmar - Champs Pabong",
+            "en": "Brakmar - Pabong Fields",
+            "es": "Brakmar - Campos de Pabong",
+            "pt": "Brakmar - Campos de Pabong"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "BRAKMAR_MACHEVILLE",
+        "title": {
+            "fr": "Brâkmar - Macheville",
+            "en": "Brakmar - Macheville",
+            "es": "Brakmar - Macheville",
+            "pt": "Brakmar - Macheville"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "BRAKMAR_SEA_ZONE",
+        "title": {
+            "fr": "Brâkmar - Zone Maritime",
+            "en": "Brakmar - Maritime Zone",
+            "es": "Brakmar - Zona Marítima",
+            "pt": "Brakmar - Zona Marítima"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "BRAKMAR_MINE_GALLERIES",
+        "title": {
+            "fr": "Brâkmar - Mine de Brâkmar - Galeries",
+            "en": "Brakmar - Brakmar Mine - Galleries",
+            "es": "Brakmar - Mina de Brakmar - Galerías",
+            "pt": "Brakmar - Mina de Brakmar - Galerias"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "BRAKMAR_MINE_TREFOUNDS",
+        "title": {
+            "fr": "Brâkmar - Mine de Brâkmar - Tréfonds",
+            "en": "Brakmar - Brakmar Mine - Depths",
+            "es": "Brakmar - Mina de Brakmar - Profundidades",
+            "pt": "Brakmar - Mina de Brakmar - Profundezas"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "BRAKMAR_DUNGEON_MORBAX_NECROHAIR",
+        "title": {
+            "fr": "Brâkmar - Donjon Nécropoil de Morbax",
+            "en": "Brakmar - Morbax Necropoil Dungeon",
+            "es": "Brakmar - Mazmorra de la Necrópolis de Morbax",
+            "pt": "Brakmar - Masmorra da Necrópole de Morbax"
+        },
+        "levelMin": 95,
+        "levelMax": 95
+    },
+    {
+        "code": "SADIDA_KINGDOM_VILLAGE",
+        "title": {
+            "fr": "Royaume Sadida - Village",
+            "en": "Sadida Kingdom - Village",
+            "es": "Reino Sadida - Aldea",
+            "pt": "Reino Sadida - Vila"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "SADIDA_KINGDOM_CLOUDED_HILL",
+        "title": {
+            "fr": "Royaume Sadida - Colline Entoilée",
+            "en": "Sadida Kingdom - Webbed Hill",
+            "es": "Reino Sadida - Colina Entelada",
+            "pt": "Reino Sadida - Colina Tecida"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "SADIDA_KINGDOM_MULOS_CLEARENCE",
+        "title": {
+            "fr": "Royaume Sadida - Clairière des Mulous",
+            "en": "Sadida Kingdom - Mulou Clearing",
+            "es": "Reino Sadida - Claro de los Mulous",
+            "pt": "Reino Sadida - Clareira dos Mulous"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "SADIDA_KINGDOM_GERBOUILLES_GALLERIES",
+        "title": {
+            "fr": "Royaume Sadida - Galeries des Gerbouilles",
+            "en": "Sadida Kingdom - Gerbouilles Galleries",
+            "es": "Reino Sadida - Galerías de Gerbouilles",
+            "pt": "Reino Sadida - Galerias das Gerbouilles"
+        },
+        "levelMin": 171,
+        "levelMax": 185
+    },
+    {
+        "code": "SADIDA_KINGDOM_DEFORESTED_FOREST",
+        "title": {
+            "fr": "Royaume Sadida - Forêt déforestée",
+            "en": "Sadida Kingdom - Deforested Forest",
+            "es": "Reino Sadida - Bosque Deforestado",
+            "pt": "Reino Sadida - Floresta Desmatada"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_PORT",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Port de Chendu",
+            "en": "Pandalousie Valley - Port of Chendu",
+            "es": "Valle de Pandalousie - Puerto de Chendu",
+            "pt": "Vale de Pandalousie - Porto de Chendu"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_SUMMIT",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Sommet des Mille Brumes",
+            "en": "Pandalousie Valley - Summit of a Thousand Mists",
+            "es": "Valle de Pandalousie - Cima de las Mil Brumas",
+            "pt": "Vale de Pandalousie - Cume das Mil Névoas"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_SALTY_MARSH",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Marais salé",
+            "en": "Pandalousie Valley - Salty Marsh",
+            "es": "Valle de Pandalousie - Pantano Salado",
+            "pt": "Vale de Pandalousie - Pântano Salgado"
+        },
+        "levelMin": 141,
+        "levelMax": 155
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_PANDISSIDAN_VILLAGE",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Village des Pandissidans",
+            "en": "Pandalousie Valley - Pandissidan Village",
+            "es": "Valle de Pandalousie - Aldea de los Pandissidans",
+            "pt": "Vale de Pandalousie - Vila dos Pandissidans"
+        },
+        "levelMin": 171,
+        "levelMax": 185
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_CEMETERY",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Cimetière",
+            "en": "Pandalousie Valley - Cemetery",
+            "es": "Valle de Pandalousie - Cementerio",
+            "pt": "Vale de Pandalousie - Cemitério"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_BURNED_FOREST",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Forêt calcinée",
+            "en": "Pandalousie Valley - Burned Forest",
+            "es": "Valle de Pandalousie - Bosque Quemado",
+            "pt": "Vale de Pandalousie - Floresta Queimada"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "PANDALOUSIE_VALLEY_MINES",
+        "title": {
+            "fr": "Vallée de la Pandalousie - Mines de la Pandalousie",
+            "en": "Pandalousie Valley - Pandalousie Mines",
+            "es": "Valle de Pandalousie - Minas de Pandalousie",
+            "pt": "Vale de Pandalousie - Minas de Pandalousie"
+        },
+        "levelMin": 1,
+        "levelMax": 245
+    },
+    {
+        "code": "CHUCHOKU_KINGDOM_CHUCHOPLAINE",
+        "title": {
+            "fr": "Royaume Chuchoku - Chuchoplaine",
+            "en": "Chuchoku Kingdom - Chuchoplaine",
+            "es": "Reino Chuchoku - Chuchoplaine",
+            "pt": "Reino Chuchoku - Chuchoplaine"
+        },
+        "levelMin": 96,
+        "levelMax": 110
+    },
+    {
+        "code": "CHUCHOKU_KINGDOM_TUNDRA",
+        "title": {
+            "fr": "Royaume Chuchoku - Toundra",
+            "en": "Chuchoku Kingdom - Tundra",
+            "es": "Reino Chuchoku - Tundra",
+            "pt": "Reino Chuchoku - Tundra"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "CHUCHOKU_KINGDOM_BANQUISE_MANSOTS",
+        "title": {
+            "fr": "Royaume Chuchoku - Banquise des Mansots",
+            "en": "Chuchoku Kingdom - Mansots Ice Floe",
+            "es": "Reino Chuchoku - Banquisa de los Mansots",
+            "pt": "Reino Chuchoku - Banquisa dos Mansots"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "CHUCHOKU_INNER_GRAMPAR",
+        "title": {
+            "fr": "Royaume Chuchoku - Intérieur de Grampar",
+            "en": "Chuchoku Kingdom - Inner Grampar",
+            "es": "Reino Chuchoku - Interior de Grampar",
+            "pt": "Reino Chuchoku - Interior de Grampar"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "SAHARACH",
+        "title": {
+            "fr": "Saharach",
+            "en": "Saharach",
+            "es": "Saharach",
+            "pt": "Saharach"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "SAHARACH_FUNGOPHY",
+        "title": {
+            "fr": "Saharach - La Fungopée",
+            "en": "Saharach - The Fungopy",
+            "es": "Saharach - La Fungopía",
+            "pt": "Saharach - A Fungopéia"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "MOON_JUNGLE",
+        "title": {
+            "fr": "Moon - Jungle de Moon",
+            "en": "Moon - Moon Jungle",
+            "es": "Moon - Jungla de Moon",
+            "pt": "Moon - Selva de Moon"
+        },
+        "levelMin": 171,
+        "levelMax": 185
+    },
+    {
+        "code": "MOON_BEACH",
+        "title": {
+            "fr": "Moon - Plage de Moon",
+            "en": "Moon - Moon Beach",
+            "es": "Moon - Playa de Moon",
+            "pt": "Moon - Praia de Moon"
+        },
+        "levelMin": 171,
+        "levelMax": 185
+    },
+    {
+        "code": "MOON_SUBTERRANEANS",
+        "title": {
+            "fr": "Moon - Sous Terrains de l'île de Moon",
+            "en": "Moon - Subterranean Tunnels of Moon Island",
+            "es": "Luna - Subterráneos de la isla de la Luna",
+            "pt": "Lua - Subterrâneos da Ilha da Lua"
+        },
+        "levelMin": 171,
+        "levelMax": 185
+    },
+    {
+        "code": "WABBIT_ISLAND_VILLAGE_LENALD",
+        "title": {
+            "fr": "Île des Wabbits - Village Lenald",
+            "en": "Wabbit Island - Lenald Village",
+            "es": "Isla de los Wabbits - Pueblo Lenald",
+            "pt": "Ilha dos Wabbits - Vila Lenald"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "WABBIT_ISLAND_LENALD_TERRITORY",
+        "title": {
+            "fr": "Île des Wabbits - Territoire Lenald",
+            "en": "Wabbit Island - Lenald Territory",
+            "es": "Isla de los Wabbits - Territorio Lenald",
+            "pt": "Ilha dos Wabbits - Território Lenald"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "WABBIT_ISLAND_DEVASTATED_FIELDS",
+        "title": {
+            "fr": "Île des Wabbits - Champ dévastés",
+            "en": "Wabbit Island - Devastated Fields",
+            "es": "Isla de los Wabbits - Campos Devastados",
+            "pt": "Ilha dos Wabbits - Campos Devastados"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "WABBIT_ISLAND_WABBIT_TERRITORY",
+        "title": {
+            "fr": "Île des Wabbits - Territoire Wabbit",
+            "en": "Wabbit Island - Wabbit Territory",
+            "es": "Isla de los Wabbits - Territorio Wabbit",
+            "pt": "Ilha dos Wabbits - Território Wabbit"
+        },
+        "levelMin": 126,
+        "levelMax": 155
+    },
+    {
+        "code": "WABBIT_ISLAND_SAND_CAWOTTE",
+        "title": {
+            "fr": "Île des Wabbits - Cawotte ensablée",
+            "en": "Wabbit Island - Sand-Covered Cawotte",
+            "es": "Isla de los Wabbits - Cawotte Empantanada",
+            "pt": "Ilha dos Wabbits - Cawotte Areia"
+        },
+        "levelMin": 141,
+        "levelMax": 155
+    },
+    {
+        "code": "WABBIT_ISLAND_MORBID_SUBTERRANEANS",
+        "title": {
+            "fr": "Île des Wabbits - Souterrains morbides",
+            "en": "Wabbit Island - Morbid Subterraneans",
+            "es": "Isla de los Wabbits - Subterráneos mórbidos",
+            "pt": "Ilha dos Wabbits - Subterrâneos mórbidos"
+        },
+        "levelMin": 141,
+        "levelMax": 155
+    },
+    {
+        "code": "WILD_DOMAIN",
+        "title": {
+            "fr": "Domaine Sauvage",
+            "en": "Wild Domain",
+            "es": "Dominio Salvaje",
+            "pt": "Domínio Selvagem"
+        },
+        "levelMin": 51,
+        "levelMax": 65
+    },
+    {
+        "code": "KELBA_LANDS",
+        "title": {
+            "fr": "Kelba - Landes de Kelba",
+            "en": "Kelba - Kelba Lands",
+            "es": "Kelba - Tierras de Kelba",
+            "pt": "Kelba - Terras de Kelba"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "KELBA_PEAKS",
+        "title": {
+            "fr": "Kelba - Pics de kelba",
+            "en": "Kelba - Kelba Peaks",
+            "es": "Kelba - Picos de Kelba",
+            "pt": "Kelba - Picos de Kelba"
+        },
+        "levelMin": 66,
+        "levelMax": 80
+    },
+    {
+        "code": "KATREPAT",
+        "title": {
+            "fr": "Katrepat",
+            "en": "Katrepat",
+            "es": "Katrepat",
+            "pt": "Katrepat"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "MONK_ISLAND",
+        "title": {
+            "fr": "Ile aux moines",
+            "en": "Monk Island",
+            "es": "Isla de los Monjes",
+            "pt": "Ilha dos Monges"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "BILBYZA_GELAX_COAST",
+        "title": {
+            "fr": "Bilbyza - Costa del Gelax",
+            "en": "Bilbyza - Gelax Coast",
+            "es": "Bilbyza - Costa Gelax",
+            "pt": "Bilbyza - Costa Gelax"
+        },
+        "levelMin": 81,
+        "levelMax": 110
+    },
+    {
+        "code": "BILBYZA_GELAX_DIMENSION",
+        "title": {
+            "fr": "Bilbyza - Gelaxième Dimension",
+            "en": "Bilbyza - Gelaxian Dimension",
+            "es": "Bilbyza - Dimensión Gelaxiana",
+            "pt": "Bilbyza - Dimensão Gelaxiana"
+        },
+        "levelMin": 96,
+        "levelMax": 110
+    },
+    {
+        "code": "MINERAL_TOWER",
+        "title": {
+            "fr": "Tour Minérale",
+            "en": "Mineral Tower",
+            "es": "Torre Mineral",
+            "pt": "Torre Mineral"
+        },
+        "levelMin": 1,
+        "levelMax": 230
+    },
+    {
+        "code": "TROOL_FAIR",
+        "title": {
+            "fr": "Foire du Trool",
+            "en": "Trool Fair",
+            "es": "Feria del Trool",
+            "pt": "Feira do Trool"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "EREBORIA_PORT",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Port d'Ereboria",
+            "en": "Ereboria, the Cursed Island - Ereboria Port",
+            "es": "Ereboria, la isla maldita - Puerto de Ereboria",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Porto de Ereboria"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "EREBORIA_PIRATE_BEACH",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Plage des pirates",
+            "en": "Ereboria, the Cursed Island - Pirate Beach",
+            "es": "Ereboria, la isla maldita - Playa de los Piratas",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Praia dos Piratas"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "EREBORIA_CURSED_BEACH",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Plage maudite",
+            "en": "Ereboria, the Cursed Island - Cursed Beach",
+            "es": "Ereboria, la isla maldita - Playa Maldita",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Praia Amaldiçoada"
+        },
+        "levelMin": 36,
+        "levelMax": 50
+    },
+    {
+        "code": "EREBORIA_CAVERN",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Caverne des Marteaux-Aigris",
+            "en": "Ereboria, the Cursed Island - Hammered Cavern",
+            "es": "Ereboria, la isla maldita - Caverna de los Martillos Enfurecidos",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Caverna dos Martelos Enfurecidos"
+        },
+        "levelMin": 51,
+        "levelMax": 65
+    },
+    {
+        "code": "EREBORIA_SUFOCIAN_MINE",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Mine néo-Sufokienne",
+            "en": "Ereboria, the Cursed Island - Neo-Sufokian Mine",
+            "es": "Ereboria, la isla maldita - Mina Neo-Sufokiana",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Mina Neo-Sufokiana"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "EREBORIA_PRISON",
+        "title": {
+            "fr": "Ereboria, l'île maudite - Prison maritime",
+            "en": "Ereboria, the Cursed Island - Maritime Prison",
+            "es": "Ereboria, la isla maldita - Prisión marítima",
+            "pt": "Ereboria, a Ilha Amaldiçoada - Prisão Marítima"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "BIBLIOTEMPLE",
+        "title": {
+            "fr": "Bibliotemple",
+            "en": "Bibliotemple",
+            "es": "Bibliotemplo",
+            "pt": "Bibliotemplo"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "ROK_ISLAND",
+        "title": {
+            "fr": "Ile de Rok",
+            "en": "Rok Island",
+            "es": "Isla de Rok",
+            "pt": "Ilha de Rok"
+        },
+        "levelMin": 1,
+        "levelMax": 230
+    },
+    {
+        "code": "SBERG_ICEBERG",
+        "title": {
+            "fr": "Ile Sberg - La banquise de Sberg",
+            "en": "Sberg Island - Sberg's Icefield",
+            "es": "Isla Sberg - El Campo de Hielo de Sberg",
+            "pt": "Ilha Sberg - O Campo de Gelo de Sberg"
+        },
+        "levelMin": 81,
+        "levelMax": 125
+    },
+    {
+        "code": "SBERG_BURIED_VILLAGE",
+        "title": {
+            "fr": "Ile Sberg - Village Enseveli Enseveli",
+            "en": "Sberg Island - Buried Village",
+            "es": "Isla Sberg - Pueblo Enterrado",
+            "pt": "Ilha Sberg - Vila Enterrada"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "SBERG_HAREBOURG_CASTLE",
+        "title": {
+            "fr": "Ile Sberg - Château de Harebourg",
+            "en": "Sberg Island - Harebourg Castle",
+            "es": "Isla Sberg - Castillo de Harebourg",
+            "pt": "Ilha Sberg - Castelo de Harebourg"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "ZINIT_BEACH",
+        "title": {
+            "fr": "Mont Zinit - Plage du Zinit",
+            "en": "Zinit Mountain - Zinit Beach",
+            "es": "Montaña Zinit - Playa de Zinit",
+            "pt": "Montanha Zinit - Praia de Zinit"
+        },
+        "levelMin": 21,
+        "levelMax": 35
+    },
+    {
+        "code": "ZINIT_SAVAGE_BEACH_PART_1",
+        "title": {
+            "fr": "Mont Zinit - Plage Sauvage - Partie 1",
+            "en": "Zinit Mountain - Savage Beach - Part 1",
+            "es": "Montaña Zinit - Playa Salvaje - Parte 1",
+            "pt": "Montanha Zinit - Praia Selvagem - Parte 1"
+        },
+        "levelMin": 51,
+        "levelMax": 65
+    },
+    {
+        "code": "ZINIT_SAVAGE_BEACH_PART_2",
+        "title": {
+            "fr": "Mont Zinit - Plage Sauvage - Partie 2",
+            "en": "Zinit Mountain - Savage Beach - Part 2",
+            "es": "Montaña Zinit - Playa Salvaje - Parte 2",
+            "pt": "Montanha Zinit - Praia Selvagem - Parte 2"
+        },
+        "levelMin": 51,
+        "levelMax": 65
+    },
+    {
+        "code": "ZINIT_SLEK_CAVE",
+        "title": {
+            "fr": "Mont Zinit - Grotte Slek",
+            "en": "Zinit Mountain - Slek Cave",
+            "es": "Montaña Zinit - Cueva Slek",
+            "pt": "Montanha Zinit - Caverna Slek"
+        },
+        "levelMin": 81,
+        "levelMax": 95
+    },
+    {
+        "code": "ZINIT_BASE_FLANK_SMARES",
+        "title": {
+            "fr": "Mont Zinit - Bas Flanc - Smares",
+            "en": "Zinit Mountain - Lower Flank - Smares",
+            "es": "Montaña Zinit - Flanco Inferior - Smares",
+            "pt": "Montanha Zinit - Flanco Inferior - Smares"
+        },
+        "levelMin": 111,
+        "levelMax": 125
+    },
+    {
+        "code": "ZINIT_BASE_FLANK_PHORREURS",
+        "title": {
+            "fr": "Mont Zinit - Bas Flanc - Phorreurs",
+            "en": "Zinit Mountain - Lower Flank - Phorreurs",
+            "es": "Montaña Zinit - Flanco Inferior - Phorreurs",
+            "pt": "Montanha Zinit - Flanco Inferior - Phorreurs"
+        },
+        "levelMin": 126,
+        "levelMax": 140
+    },
+    {
+        "code": "ZINIT_TOP_FLANK_SBIRE_KALI",
+        "title": {
+            "fr": "Mont Zinit - Haut Flanc - Sbires de Kali",
+            "en": "Zinit Mountain - Upper Flank - Minions of Kali",
+            "es": "Montaña Zinit - Flanco Superior - Secuaces de Kali",
+            "pt": "Montanha Zinit - Flanco Superior - Minions de Kali"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "ZINIT_TOP_FLANK_BLEROX",
+        "title": {
+            "fr": "Mont Zinit - Haut Flanc - Blérox",
+            "en": "Zinit Mountain - Upper Flank - Blérox",
+            "es": "Montaña Zinit - Flanco Superior - Blérox",
+            "pt": "Montanha Zinit - Flanco Superior - Blérox"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "ZINIT_DORMOR_CAVE",
+        "title": {
+            "fr": "Mont Zinit - Grotte du Dor'Mor",
+            "en": "Zinit Mountain - Dor'Mor Cave",
+            "es": "Montaña Zinit - Cueva de Dor'Mor",
+            "pt": "Montanha Zinit - Caverna de Dor'Mor"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "ZINIT_SUMMIT_DRAGOEFS",
+        "title": {
+            "fr": "Mont Zinit - Sommet - Dragoeufs",
+            "en": "Zinit Mountain - Summit - Dragoeufs",
+            "es": "Montaña Zinit - Cima - Dragoeufs",
+            "pt": "Montanha Zinit - Pico - Dragoeufs"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "ZINIT_SUMMIT_ETHERNELS",
+        "title": {
+            "fr": "Mont Zinit - Sommet - Ethernels",
+            "en": "Zinit Mountain - Summit - Ethernels",
+            "es": "Montaña Zinit - Cima - Ethernels",
+            "pt": "Montanha Zinit - Pico - Ethernels"
+        },
+        "levelMin": 186,
+        "levelMax": 200
+    },
+    {
+        "code": "SHUKRUTE_SHUSHARDES_REEF",
+        "title": {
+            "fr": "Shukrute - Récif des Shushardes",
+            "en": "Shukrute - Shushardes Reef",
+            "es": "Shukrute - Arrecife de Shushardes",
+            "pt": "Shukrute - Recifes das Shushardes"
+        },
+        "levelMin": 111,
+        "levelMax": 170
+    },
+    {
+        "code": "SHUKRUTE_SHTULHU_TERRITORY",
+        "title": {
+            "fr": "Shukrute - Territoire de Sthulhu",
+            "en": "Shukrute - Shtulhu Territory",
+            "es": "Shukrute - Territorio de Sthulhu",
+            "pt": "Shukrute - Território de Sthulhu"
+        },
+        "levelMin": 111,
+        "levelMax": 170
+    },
+    {
+        "code": "SHUKRUTE_FALLEN_SOUL_CROSSROAD",
+        "title": {
+            "fr": "Shukrute - Croisée des âmes déchues",
+            "en": "Shukrute - Fallen Soul Crossroad",
+            "es": "Shukrute - Cruce de las almas caídas",
+            "pt": "Shukrute - Encruzilhada das almas caídas"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "SHUKRUTE_HORROR_CITADEL",
+        "title": {
+            "fr": "Shukrute - Citadelle de l'horreur",
+            "en": "Shukrute - Citadel of Horror",
+            "es": "Shukrute - Ciudadela del Horror",
+            "pt": "Shukrute - Cidadela do Horror"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "SHUKRUTE_VACUUM_SPIRAL",
+        "title": {
+            "fr": "Shukrute - Spirale du vide",
+            "en": "Shukrute - Vacuum Spiral",
+            "es": "Shukrute - Espiral del Vacío",
+            "pt": "Shukrute - Espiral do Vácuo"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "SHUKRUTE_DEATH_ROAD",
+        "title": {
+            "fr": "Shukrute - Route des morts",
+            "en": "Shukrute - Road of the Dead",
+            "es": "Shukrute - Camino de los Muertos",
+            "pt": "Shukrute - Estrada da Morte"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "SHUKRUTE_DESPAIR_KINGDOM",
+        "title": {
+            "fr": "Shukrute - Royaume du désespoir",
+            "en": "Shukrute - Kingdom of Despair",
+            "es": "Shukrute - Reino de la desesperación",
+            "pt": "Shukrute - Reino do Desespero"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "SHUKRUTE_DEMENTIA",
+        "title": {
+            "fr": "Shukrute - Démentia",
+            "en": "Shukrute - Dementia",
+            "es": "Shukrute - Demencia",
+            "pt": "Shukrute - Demência"
+        },
+        "levelMin": 216,
+        "levelMax": 230
+    },
+    {
+        "code": "CELESTIAL_ISLAND_RII",
+        "title": {
+            "fr": "Rii, l'île céleste",
+            "en": "Rii, the Celestial Island",
+            "es": "Rii, la isla celestial",
+            "pt": "Rii, a ilha celestial"
+        },
+        "levelMin": 1,
+        "levelMax": 10
+    },
+    {
+        "code": "INGLORIUM",
+        "title": {
+            "fr": "Inglorium",
+            "en": "Inglorium",
+            "es": "Inglorium",
+            "pt": "Inglorium"
+        },
+        "levelMin": 1,
+        "levelMax": 230
+    },
+    {
+        "code": "ECAFLIPUS_ARENA",
+        "title": {
+            "fr": "Ecaflipus (Arènes)",
+            "en": "Ecaflipus (Arena)",
+            "es": "Ecaflipus (Arena)",
+            "pt": "Ecaflipus (Arena)"
+        },
+        "levelMin": 1,
+        "levelMax": 230
+    },
+    {
+        "code": "SRAMBAD",
+        "title": {
+            "fr": "Srambad",
+            "en": "Srambad",
+            "es": "Srambad",
+            "pt": "Srambad"
+        },
+        "levelMin": 141,
+        "levelMax": 155
+    },
+    {
+        "code": "ENUTROSOR",
+        "title": {
+            "fr": "Enutrosor",
+            "en": "Enutrosor",
+            "es": "Enutrosor",
+            "pt": "Enutrosor"
+        },
+        "levelMin": 141,
+        "levelMax": 155
+    },
+    {
+        "code": "XELORIUM_PASSED",
+        "title": {
+            "fr": "Xélorium Passé",
+            "en": "Xélorium Past",
+            "es": "Xélorium Pasado",
+            "pt": "Xélorium Passado"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "XELORIUM_PRESENT",
+        "title": {
+            "fr": "Xélorium Présent",
+            "en": "Xélorium Present",
+            "es": "Xélorium Presente",
+            "pt": "Xélorium Presente"
+        },
+        "levelMin": 156,
+        "levelMax": 170
+    },
+    {
+        "code": "OSAMOSA_LAB",
+        "title": {
+            "fr": "Osamosa - Laboratoire d'Osamodas",
+            "en": "Osamosa - Osamodas' Laboratory",
+            "es": "Osamosa - Laboratorio de Osamodas",
+            "pt": "Osamosa - Laboratório de Osamodas"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "OSAMOSA_DORSAL_FOREST",
+        "title": {
+            "fr": "Osamosa - Forêt Dorsale",
+            "en": "Osamosa - Dorsal Forest",
+            "es": "Osamosa - Bosque Dorsal",
+            "pt": "Osamosa - Floresta Dorsal"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "OSAMOSA_ARID_WING",
+        "title": {
+            "fr": "Osamosa - Aile Aride",
+            "en": "Osamosa - Arid Wing",
+            "es": "Osamosa - Ala Árida",
+            "pt": "Osamosa - Asa Árida"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "OSAMOSA_GLACIAL_WING",
+        "title": {
+            "fr": "Osamosa - Aile Glaciaire",
+            "en": "Osamosa - Glacial Wing",
+            "es": "Osamosa - Ala Glaciar",
+            "pt": "Osamosa - Asa Glacial"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    },
+    {
+        "code": "OSAMOSA_CAUDAL_SHORE",
+        "title": {
+            "fr": "Osamosa - Rivage Caudal",
+            "en": "Osamosa - Caudal Shore",
+            "es": "Osamosa - Costa Caudal",
+            "pt": "Osamosa - Costa Caudal"
+        },
+        "levelMin": 201,
+        "levelMax": 215
+    }
 ]

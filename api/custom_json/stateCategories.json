@@ -1,371 +1,416 @@
-[ 
-{
-    "code": null,
-    "title" : {
-      "fr" : "Aucune",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
+[
+    {
+        "code": null,
+        "title": {
+            "fr": "Aucune",
+            "en": "None",
+            "es": "Ninguno",
+            "pt": "Nenhum"
+        }
+    },
+    {
+        "code": "CHARAC",
+        "title": {
+            "fr": "Stats",
+            "en": "Stats",
+            "es": "Estadísticas",
+            "pt": "Estatísticas"
+        }
+    },
+    {
+        "code": "PA",
+        "title": {
+            "fr": "Stats - PA",
+            "en": "Stats - AP",
+            "es": "Estadísticas - PA",
+            "pt": "Estatísticas - PA"
+        }
+    },
+    {
+        "code": "PM",
+        "title": {
+            "fr": "Stats - PM",
+            "en": "Stats - MP",
+            "es": "Estadísticas - PM",
+            "pt": "Estatísticas - PM"
+        }
+    },
+    {
+        "code": "PO",
+        "title": {
+            "fr": "Stats - PO",
+            "en": "Stats - Range",
+            "es": "Estadísticas - PO",
+            "pt": "Estatísticas - PO"
+        }
+    },
+    {
+        "code": "PW",
+        "title": {
+            "fr": "Stats - PW",
+            "en": "Stats - PW",
+            "es": "Estadísticas - PW",
+            "pt": "Estatísticas - PW"
+        }
+    },
+    {
+        "code": "HP",
+        "title": {
+            "fr": "Stats - PV",
+            "en": "Stats - HP",
+            "es": "Estadísticas - PV",
+            "pt": "Estatísticas - PV"
+        }
+    },
+    {
+        "code": "CRITICAL",
+        "title": {
+            "fr": "Stats - Coup critiques",
+            "en": "Stats - Critical Hits",
+            "es": "Estadísticas - Golpes críticos",
+            "pt": "Estatísticas - Golpes críticos"
+        }
+    },
+    {
+        "code": "WILL",
+        "title": {
+            "fr": "Stats - Volonté",
+            "en": "Stats - Willpower",
+            "es": "Estadísticas - Voluntad",
+            "pt": "Estatísticas - Vontade"
+        }
+    },
+    {
+        "code": "PARADE",
+        "title": {
+            "fr": "Stats - Parade",
+            "en": "Stats - Parade",
+            "es": "Estadísticas - Parada",
+            "pt": "Estatísticas - Parade"
+        }
+    },
+    {
+        "code": "RES",
+        "title": {
+            "fr": "Stats - Résistances",
+            "en": "Stats - Resistances",
+            "es": "Estadísticas - Resistencias",
+            "pt": "Estatísticas - Resistências"
+        }
+    },
+    {
+        "code": "DODGE",
+        "title": {
+            "fr": "Stats - Esquive",
+            "en": "Stats - Dodge",
+            "es": "Estadísticas - Esquiva",
+            "pt": "Estatísticas - Esquiva"
+        }
+    },
+    {
+        "code": "TACKLE",
+        "title": {
+            "fr": "Stats - Tacle",
+            "en": "Stats - Tackle",
+            "es": "Estadísticas - Tacle",
+            "pt": "Estatísticas - Tackle"
+        }
+    },
+    {
+        "code": "ELEMENT",
+        "title": {
+            "fr": "Stats - Maîtrise Élémentaire",
+            "en": "Stats - Elemental Mastery",
+            "es": "Estadísticas - Maestría Elemental",
+            "pt": "Estatísticas - Maestria Elemental"
+        }
+    },
+    {
+        "code": "SUMMON",
+        "title": {
+            "fr": "Stats - Transmis aux invocations",
+            "en": "Stats - Transferred to Summons",
+            "es": "Estadísticas - Transferido a invocaciones",
+            "pt": "Estatísticas - Transferido para invocações"
+        }
+    },
+    {
+        "code": "DMG",
+        "title": {
+            "fr": "Dégats",
+            "en": "Damage",
+            "es": "Daño",
+            "pt": "Dano"
+        }
+    },
+    {
+        "code": "DMG_GENERAL",
+        "title": {
+            "fr": "Dégats - Général",
+            "en": "Damage - General",
+            "es": "Daño - General",
+            "pt": "Dano - Geral"
+        }
+    },
+    {
+        "code": "DMG_MELEE",
+        "title": {
+            "fr": "Dégats - Mêlée",
+            "en": "Damage - Melee",
+            "es": "Daño - Cuerpo a cuerpo",
+            "pt": "Dano - Corpo a corpo"
+        }
+    },
+    {
+        "code": "DMG_DIST",
+        "title": {
+            "fr": "Dégats - Distance",
+            "en": "Damage - Ranged",
+            "es": "Daño - A distancia",
+            "pt": "Dano - À distância"
+        }
+    },
+    {
+        "code": "DMG_SINGLE",
+        "title": {
+            "fr": "Dégats - Monocible",
+            "en": "Damage - Single Target",
+            "es": "Daño - Monocible",
+            "pt": "Dano - Monocontato"
+        }
+    },
+    {
+        "code": "DMG_AREA",
+        "title": {
+            "fr": "Dégats - Zone",
+            "en": "Damage - Area",
+            "es": "Daño - Zona",
+            "pt": "Dano - Área"
+        }
+    },
+    {
+        "code": "DMG_CRITICAL",
+        "title": {
+            "fr": "Dégats - Coups critiques",
+            "en": "Damage - Critical Hits",
+            "es": "Daño - Golpes críticos",
+            "pt": "Dano - Golpes críticos"
+        }
+    },
+    {
+        "code": "DMG_NO_CRITICAL",
+        "title": {
+            "fr": "Dégats - Non critiques",
+            "en": "Damage - Non-Critical",
+            "es": "Daño - No críticos",
+            "pt": "Dano - Não críticos"
+        }
+    },
+    {
+        "code": "DMG_BERSERK",
+        "title": {
+            "fr": "Dégats - Berserk",
+            "en": "Damage - Berserk",
+            "es": "Daño - Berserk",
+            "pt": "Dano - Berserk"
+        }
+    },
+    {
+        "code": "DMG_FOCUS_ONE_SPELL",
+        "title": {
+            "fr": "Dégats - Concentrés sur un seul sort",
+            "en": "Damage - Focused on One Spell",
+            "es": "Daño - Concentrado en un solo hechizo",
+            "pt": "Dano - Focado em um único feitiço"
+        }
+    },
+    {
+        "code": "DMG_FRONT",
+        "title": {
+            "fr": "Dégats - De Face",
+            "en": "Damage - Front",
+            "es": "Daño - De frente",
+            "pt": "Dano - Frente"
+        }
+    },
+    {
+        "code": "DMG_BACK",
+        "title": {
+            "fr": "Dégats - De Dos",
+            "en": "Damage - Back",
+            "es": "Daño - Por detrás",
+            "pt": "Dano - Trás"
+        }
+    },
+    {
+        "code": "DMG_FLAMING",
+        "title": {
+            "fr": "Dégats - Enflammé",
+            "en": "Damage - Flaming",
+            "es": "Daño - En llamas",
+            "pt": "Dano - Flaming"
+        }
+    },
+    {
+        "code": "DMG_INDIRECT",
+        "title": {
+            "fr": "Dégats - Indirects",
+            "en": "Damage - Indirect",
+            "es": "Daño - Indirecto",
+            "pt": "Dano - Indireto"
+        }
+    },
+    {
+        "code": "DMG_MULTI_ELEMENT",
+        "title": {
+            "fr": "Dégats - Multi Éléments",
+            "en": "Damage - Multi Element",
+            "es": "Daño - Multi Elemento",
+            "pt": "Dano - Multi Elementos"
+        }
+    },
+    {
+        "code": "DMG_MONO_ELEMENT",
+        "title": {
+            "fr": "Dégats - Mono Élément",
+            "en": "Damage - Mono Element",
+            "es": "Daño - Mono Elemento",
+            "pt": "Dano - Mono Elementos"
+        }
+    },
+    {
+        "code": "DMG_ARMOR",
+        "title": {
+            "fr": "Dégats - Destruction d’Armure",
+            "en": "Damage - Armor Destruction",
+            "es": "Daño - Destrucción de Armadura",
+            "pt": "Dano - Destruição de Armadura"
+        }
+    },
+    {
+        "code": "DMG_STEAL_LIFE",
+        "title": {
+            "fr": "Dégats - Vol de Vie",
+            "en": "Damage - Life Steal",
+            "es": "Daño - Robo de vida",
+            "pt": "Dano - Roubo de Vida"
+        }
+    },
+    {
+        "code": "NO_SECONDARY_MASTERY",
+        "title": {
+            "fr": "Dégats - Sans Maîtrise Secondaires",
+            "en": "Damage - No Secondary Mastery",
+            "es": "Daño - Sin Maestría Secundaria",
+            "pt": "Dano - Sem Maestria Secundária"
+        }
+    },
+    {
+        "code": "NO_ELEMENT",
+        "title": {
+            "fr": "Dégats - Sans Maîtrise Élémentaire",
+            "en": "Damage - No Element Mastery",
+            "es": "Daño - Sin Maestría Elemental",
+            "pt": "Dano - Sem Maestria Elementar"
+        }
+    },
+    {
+        "code": "OPTI_ROUND_1",
+        "title": {
+            "fr": "Optimisation - Tour 1",
+            "en": "Optimization - Round 1",
+            "es": "Optimización - Ronda 1",
+            "pt": "Otimização - Rodada 1"
+        }
+    },
+    {
+        "code": "OPTI_BREACH",
+        "title": {
+            "fr": "Optimisation - Brèches",
+            "en": "Optimization - Breaches",
+            "es": "Optimización - Brechas",
+            "pt": "Otimização - Brechas"
+        }
+    },
+    {
+        "code": "SUPPORT",
+        "title": {
+            "fr": "Supports",
+            "en": "Supports",
+            "es": "Soportes",
+            "pt": "Suportes"
+        }
+    },
+    {
+        "code": "SUPPORT_HEALING",
+        "title": {
+            "fr": "Supports - Soins",
+            "en": "Supports - Healing",
+            "es": "Soportes - Sanación",
+            "pt": "Suportes - Cura"
+        }
+    },
+    {
+        "code": "SUPPORT_ARMOR",
+        "title": {
+            "fr": "Support - Armures",
+            "en": "Support - Armor",
+            "es": "Soporte - Armaduras",
+            "pt": "Suporte - Armaduras"
+        }
+    },
+    {
+        "code": "SUPPORT_REDUCE_DMG",
+        "title": {
+            "fr": "Supports - Réduction des dégâts subis",
+            "en": "Supports - Damage Reduction",
+            "es": "Soportes - Reducción de daño",
+            "pt": "Suportes - Redução de dano"
+        }
+    },
+    {
+        "code": "SUPPORT_PARADE",
+        "title": {
+            "fr": "Supports - Parade",
+            "en": "Supports - Parade",
+            "es": "Soportes - Parada",
+            "pt": "Suportes - Parade"
+        }
+    },
+    {
+        "code": "SUPPORT_TACKLE",
+        "title": {
+            "fr": "Supports - Tacle",
+            "en": "Supports - Tackle",
+            "es": "Soportes - Tacle",
+            "pt": "Suportes - Tackle"
+        }
+    },
+    {
+        "code": "SUPPORT_DODGE",
+        "title": {
+            "fr": "Supports - Esquive",
+            "en": "Supports - Dodge",
+            "es": "Soportes - Esquiva",
+            "pt": "Suportes - Esquiva"
+        }
+    },
+    {
+        "code": "SUPPORT_PENALTY",
+        "title": {
+            "fr": "Support - Malus Soins / Armure reçue",
+            "en": "Support - Healing / Armor Penalty",
+            "es": "Soporte - Penalización en curaciones / armadura recibida",
+            "pt": "Suporte - Penalidade de cura / armadura recebida"
+        }
+    },
+    {
+        "code": "USELESS",
+        "title": {
+            "fr": "Inutile",
+            "en": "Useless",
+            "es": "Inútil",
+            "pt": "Inútil"
+        }
     }
-}, {
-    "code": "CHARAC",
-    "title" : {
-      "fr" : "Stats",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "PA",
-    "title" : {
-      "fr" : "Stats - PA",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "PM",
-    "title" : {
-      "fr" : "Stats - PM",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "PO",
-    "title" : {
-      "fr" : "Stats - PO",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "PW",
-    "title" : {
-      "fr" : "Stats - PW",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "HP",
-    "title" : {
-      "fr" : "Stats - PV",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "CRITICAL",
-    "title" : {
-      "fr" : "Stats - Coup critiques",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "WILL",
-    "title" : {
-      "fr" : "Stats - Volonté",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "PARADE",
-    "title" : {
-      "fr" : "Stats - Parade",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "RES",
-    "title" : {
-      "fr" : "Stats - Résistances",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DODGE",
-    "title" : {
-      "fr" : "Stats - Esquive",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "TACKLE",
-    "title" : {
-      "fr" : "Stats - Tacle",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "ELEMENT",
-    "title" : {
-      "fr" : "Stats - Maîtrise Élémentaire",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUMMON",
-    "title" : {
-      "fr" : "Stats - Transmis aux invocations",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG",
-    "title" : {
-      "fr" : "Dégats",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_GENERAL",
-    "title" : {
-      "fr" : "Dégats - Général",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_MELEE",
-    "title" : {
-      "fr" : "Dégats - Mêlée",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_DIST",
-    "title" : {
-      "fr" : "Dégats - Distance",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_SINGLE",
-    "title" : {
-      "fr" : "Dégats - Monocible",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_AREA",
-    "title" : {
-      "fr" : "Dégats - Zone",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_CRITICAL",
-    "title" : {
-      "fr" : "Dégats - Coups critiques ",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_NO_CRITICAL",
-    "title" : {
-      "fr" : "Dégats - Non critiques",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_BERSERK",
-    "title" : {
-      "fr" : "Dégats - Berserk",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_FOCUS_ONE_SPELL",
-    "title" : {
-      "fr" : "Dégats - Concentrés sur un seul sort",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_FRONT",
-    "title" : {
-      "fr" : "Dégats - De Face",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_BACK",
-    "title" : {
-      "fr" : "Dégats - De Dos",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_FLAMING",
-    "title" : {
-      "fr" : "Dégats - Enflammé",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_INDIRECT",
-    "title" : {
-      "fr" : "Dégats - Indirects",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_MULTI_ELEMENT",
-    "title" : {
-      "fr" : "Dégats - Multi Éléments",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_MONO_ELEMENT",
-    "title" : {
-      "fr" : "Dégats - Mono Élément",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-},  {
-    "code": "DMG_ARMOR",
-    "title" : {
-      "fr" : "Dégats - Destruction d’Armure",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "DMG_STEAL_LIFE",
-    "title" : {
-      "fr" : "Dégats - Vol de Vie",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "NO_SECONDARY_MASTERY",
-    "title" : {
-      "fr" : "Dégats - Sans Maîtrise Secondaires",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "NO_ELEMENT",
-    "title" : {
-      "fr" : "Dégats - Sans Maîtrise Élémentaire",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "OPTI_ROUND_1",
-    "title" : {
-      "fr" : "Optimisation - Tour 1",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-},  {
-    "code": "OPTI_BREACH",
-    "title" : {
-      "fr" : "Optimisation - Brèches",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT",
-    "title" : {
-      "fr" : "Supports",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_HEALING",
-    "title" : {
-      "fr" : "Supports - Soins",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_ARMOR",
-    "title" : {
-      "fr" : "Support - Armures",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_REDUCE_DMG",
-    "title" : {
-      "fr" : "Supports - Réduction des dégâts subis",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_PARADE",
-    "title" : {
-      "fr" : "Supports - Parade",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_TACKLE",
-    "title" : {
-      "fr" : "Supports - Tacle",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_DODGE",
-    "title" : {
-      "fr" : "Supports - Esquive",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "SUPPORT_PENALTY",
-    "title" : {
-      "fr" : "Support - Malus Soins / Armure reçue",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-}, {
-    "code": "USELESS",
-    "title" : {
-      "fr" : "Inutile",
-      "en" : "",
-      "es" : "",
-      "pt" : ""
-    }
-} 
 ]
