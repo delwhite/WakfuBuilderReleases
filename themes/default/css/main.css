@@ -721,6 +721,9 @@ MenuButton, .menu-item {
 .enchantment-content .filters-sublimation .categories-select {
   -fx-max-width: 300;
 }
+.enchantment-content .filters-sublimation .categories-select .scroll-bar .thumb {
+  -fx-background-color: #333333;
+}
 .enchantment-content.max-1290 .enchantment-positions .enchantment-position {
   -fx-pref-width: 72;
   -fx-background-radius: 5;

@@ -195,6 +195,9 @@
         -fx-padding: 1 0 3 0;
         .categories-select {
             -fx-max-width: 300;
+            .scroll-bar .thumb {
+                -fx-background-color: #333333;
+            }
         }
     }
 
