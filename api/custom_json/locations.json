@@ -854,8 +854,8 @@
             "es": "Torre Mineral",
             "pt": "Torre Mineral"
         },
-        "levelMin": 1,
-        "levelMax": 230
+        "levelMin": 36,
+        "levelMax": 215
     },
     {
         "code": "TROOL_FAIR",
@@ -954,7 +954,7 @@
             "pt": "Ilha de Rok"
         },
         "levelMin": 1,
-        "levelMax": 230
+        "levelMax": 245
     },
     {
         "code": "SBERG_ICEBERG",
@@ -1218,7 +1218,7 @@
             "pt": "Inglorium"
         },
         "levelMin": 1,
-        "levelMax": 230
+        "levelMax": 245
     },
     {
         "code": "ECAFLIPUS_ARENA",
@@ -1229,7 +1229,7 @@
             "pt": "Ecaflipus (Arena)"
         },
         "levelMin": 1,
-        "levelMax": 230
+        "levelMax": 245
     },
     {
         "code": "SRAMBAD",
@@ -1329,5 +1329,71 @@
         },
         "levelMin": 201,
         "levelMax": 215
+    },
+    {
+        "code": "MIST_ISLAND_WRIGGLERS_QUARRY",
+        "title": {
+            "fr": "Île des brumes - Carrière des Grouilleux",
+            "en": "Mist Island - Wrigglers' Quarry",
+            "es": "Isla de las Brumas - Cantera de los Retorcidos",
+            "pt": "Ilha das Brumas - Pedreira dos Retorcidos"
+        },
+        "levelMin": 231,
+        "levelMax": 245
+    },
+    {
+        "code": "MIST_ISLAND_WRIGGLERS_DESOLATION",
+        "title": {
+            "fr": "Île des brumes - Désolation des Grouilleux",
+            "en": "Mist Island - Wrigglers' Desolation",
+            "es": "Isla de las Brumas - Desolación de los Retorcidos",
+            "pt": "Ilha das Brumas - Desolação dos Retorcidos"
+        },
+        "levelMin": 231,
+        "levelMax": 245
+    },
+    {
+        "code": "MIST_ISLAND_PRIMAL_FOREST",
+        "title": {
+            "fr": "Île des brumes - Forêt primaire",
+            "en": "Mist Island - Primal Forest",
+            "es": "Isla de las Brumas - Bosque Primario",
+            "pt": "Ilha das Brumas - Floresta Primordial"
+        },
+        "levelMin": 231,
+        "levelMax": 245
+    },
+    {
+        "code": "MIST_ISLAND_COSMO_CANYON",
+        "title": {
+            "fr": "Île des brumes - Cosmo Canyon",
+            "en": "Mist Island - Cosmo Canyon",
+            "es": "Isla de las Brumas - Cañón Cósmico",
+            "pt": "Ilha das Brumas - Cânion Cósmico"
+        },
+        "levelMin": 231,
+        "levelMax": 245
+    },
+    {
+        "code": "MIST_ISLAND_SAVANNAH",
+        "title": {
+            "fr": "Île des brumes - Savane",
+            "en": "Mist Island - Savannah",
+            "es": "Isla de las Brumas - Sabana",
+            "pt": "Ilha das Brumas - Savana"
+        },
+        "levelMin": 231,
+        "levelMax": 245
+    },
+    {
+        "code": "MIST_ISLAND_BWORK_SWAMPS",
+        "title": {
+            "fr": "Île des brumes - Marécages Bwork",
+            "en": "Mist Island - Bwork Swamps",
+            "es": "Isla de las Brumas - Pantanos Bwork",
+            "pt": "Ilha das Brumas - Pântanos Bwork"
+        },
+        "levelMin": 231,
+        "levelMax": 245
     }
 ]
