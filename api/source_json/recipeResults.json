@@ -27628,4 +27628,9 @@
   "productedItemId" : 32177,
   "productOrder" : 0,
   "productedItemQuantity" : 1
+}, {
+  "recipeId" : 9940,
+  "productedItemId" : 32425,
+  "productOrder" : 0,
+  "productedItemQuantity" : 1
 } ]

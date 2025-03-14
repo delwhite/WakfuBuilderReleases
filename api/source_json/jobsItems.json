@@ -194397,9 +194397,9 @@
   },
   "description" : {
     "fr" : "On dit que c'est une maquette tout droit sortie du livre \"La mécanique du pain\". Elle permet de compléter n'importe quelle maquette faite en farine.",
-    "en" : "",
-    "es" : "",
-    "pt" : ""
+    "en" : "This looks like a model straight out of \"Popular Bread Mechanics\". It's the perfect addition to any flour-based construction.",
+    "es" : "Dicen que es una maqueta sacada del libro 'La mecánica del pan'. Permite completar cualquier maqueta hecha de harina.",
+    "pt" : "Parece até uma maquete saída diretamente do livro \"A mecânica do pão\". Ela permite concluir qualquer maquete de farinha."
   }
 }, {
   "definition" : {
@@ -194420,9 +194420,9 @@
   },
   "description" : {
     "fr" : "Certains disent aussi \"Painisse de table\".",
-    "en" : "",
-    "es" : "",
-    "pt" : ""
+    "en" : "Also known as \"baguette ball\".",
+    "es" : "Otra gente también lo llama panis de mesa.",
+    "pt" : "Alguns também chamam de \"pãonis de mesa\"."
   }
 }, {
   "definition" : {
@@ -194461,14 +194461,14 @@
   "title" : {
     "fr" : "Tarpain",
     "en" : "Breadcoup",
-    "es" : "Tarpán",
+    "es" : "Pansalva",
     "pt" : "Pãocas"
   },
   "description" : {
     "fr" : "Comme disent les grands-mères : \"y'a tarpain de pain\" !",
-    "en" : "",
-    "es" : "",
-    "pt" : ""
+    "en" : "As they say in the old country, \"Merci breadcoup pour le bon bread!\"",
+    "es" : "Como dicen algunos: 'Hay pan a pansalva'.",
+    "pt" : "Mal conheço e já considero pãocas!"
   }
 }, {
   "definition" : {
@@ -194658,5 +194658,51 @@
     "en" : "You get the feeling that it's giving off something really exceptional.",
     "es" : "Tienes la impresión de que desprende algo excepcional.",
     "pt" : "Você tem a sensação de que ela emana algo excepcional."
+  }
+}, {
+  "definition" : {
+    "id" : 32425,
+    "level" : 1,
+    "rarity" : 1,
+    "itemTypeId" : 566,
+    "graphicParameters" : {
+      "gfxId" : 22053,
+      "femaleGfxId" : 22053
+    }
+  },
+  "title" : {
+    "fr" : "Miroir du temps figé",
+    "en" : "Mirror of Frozen Time",
+    "es" : "Espejo del tiempo fijado",
+    "pt" : "Espelho do Tempo Congelado"
+  },
+  "description" : {
+    "fr" : "Il s'y reflète une vue d'un univers où tout le monde vous a oublié. Est-il parallèle ? C'est une autre question.",
+    "en" : "It reflects a view of a universe where everyone has forgotten you. Is it a parallel universe? That's a whole other question.",
+    "es" : "Refleja la visión de un universo donde todo el mundo te ha olvidado. ¿Será paralelo? Esa es otra pregunta.",
+    "pt" : "Reflete uma visão de um universo onde todo mundo esqueceu você. Será que é paralelo? É outra questão."
+  }
+}, {
+  "definition" : {
+    "id" : 32426,
+    "level" : 111,
+    "rarity" : 3,
+    "itemTypeId" : 531,
+    "graphicParameters" : {
+      "gfxId" : 53132426,
+      "femaleGfxId" : 53132426
+    }
+  },
+  "title" : {
+    "fr" : "Fragment de temporalité",
+    "en" : "Timeline Fragment",
+    "es" : "Fragmento de temporalidad",
+    "pt" : "Fragmento de Temporalidade"
+  },
+  "description" : {
+    "fr" : "Cet engrenage est une relique du passé. Peut-être que si vous en trouviez d'autres, vous pourriez lui trouver une utilité.",
+    "en" : "This gear is a relic of the past. If you find any more like it, maybe you can put it to use.",
+    "es" : "Este engranaje es una reliquia del pasado. Si encontraras más, quizás podrías darle una utilidad.",
+    "pt" : "Esta engrenagem é uma relíquia do passado. Se encontrar outras, talvez você arrume uma utilidade para ela."
   }
 } ]

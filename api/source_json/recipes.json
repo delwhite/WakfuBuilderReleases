@@ -38680,4 +38680,11 @@
   "xpRatio" : 16200,
   "isUpgrade" : true,
   "upgradeItemId" : 32176
+}, {
+  "id" : 9940,
+  "categoryId" : 81,
+  "level" : 0,
+  "xpRatio" : 0,
+  "isUpgrade" : false,
+  "upgradeItemId" : 0
 } ]

@@ -180,6 +180,16 @@
             -fx-background-color: #B71B28;
         }*/
     }
+    &.equip-condition {
+        -fx-border-color: #8b0000;
+        -fx-border-radius: 5;
+        -fx-padding: 0;
+
+        .item-desc, .item-desc-alt {
+            -fx-background-color: #301e1e;
+            -fx-background-radius: 5;
+        }
+    }
 }
 
 .use-and-crit-descs {

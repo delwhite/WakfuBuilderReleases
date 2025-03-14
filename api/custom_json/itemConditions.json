@@ -1,0 +1,1520 @@
+[
+    {
+        "id" : 26665,
+        "title" : {
+            "fr" : "Zoreloge",
+            "en" : "Timepieth",
+            "es" : "Reloz",
+            "pt" : "Zorlógio"
+        },
+        "equipConditions" : {
+          "fr" : [ "Xelor uniquement" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        },
+        "comment": "Plus aucun item de dropable pour wakfu / stasis .."
+    },
+    {
+        "id" : 26666,
+        "title" : {
+            "fr" : "Zoreloge",
+            "en" : "Timepieth",
+            "es" : "Reloz",
+            "pt" : "Zorlógio"
+        },
+        "equipConditions" : {
+          "fr" : [ "Xelor uniquement" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        },
+        "comment": "Plus aucun item de dropable pour wakfu / stasis .."
+    },
+    {
+        "id" : 20065,
+        "title" : {
+            "fr" : "La Main brutale d'Eniripsa",
+            "en" : "Eniripsa's Rough Hands",
+            "es" : "La mano bruta de Aniripsa",
+            "pt" : "As mãos brutais de Eniripsa"
+        },
+        "equipConditions" : {
+          "fr" : [ "Eniripsa uniquement" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        },
+        "comment": "Il y avait une amulette par classe, mais visiblement plus aucune de drop possible, idem pour les emblemes de classes .."
+    },
+    {
+        "id" : 27289,
+        "title" : {
+            "fr" : "Ceinture Assoiffée",
+            "en" : "Parched Belt",
+            "es" : "Cinturón sediento",
+            "pt" : "Cinto Sedento"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA >= 13" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27290,
+        "title" : {
+            "fr" : "Ceinture Assoiffée",
+            "en" : "Parched Belt",
+            "es" : "Cinturón sediento",
+            "pt" : "Cinto Sedento"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA >= 13" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27303,
+        "title" : {
+          "fr" : "Ceinture Pimentée",
+          "en" : "Spicy Belt",
+          "es" : "Cinturón especiado",
+          "pt" : "Cinto Apimentado"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27304,
+        "title" : {
+          "fr" : "Ceinture Pimentée",
+          "en" : "Spicy Belt",
+          "es" : "Cinturón especiado",
+          "pt" : "Cinto Apimentado"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 19698,
+        "title" : {
+          "fr" : "Issé Sceau",
+          "en" : "Shiver Ring",
+          "es" : "Ízala vela",
+          "pt" : "Anel do tremor"
+        },
+        "equipConditions" : {
+          "fr" : [ "Unicité extrême (impossible de porter deux versions de l'anneau de différentes raretés)" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 22226,
+        "title" : {
+          "fr" : "Issé Sceau",
+          "en" : "Shiver Ring",
+          "es" : "Ízala vela",
+          "pt" : "Anel do tremor"
+        },
+        "equipConditions" : {
+          "fr" : [ "Unicité extrême (impossible de porter deux versions de l'anneau de différentes raretés)" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 22227,
+        "title" : {
+          "fr" : "Issé Sceau",
+          "en" : "Shiver Ring",
+          "es" : "Ízala vela",
+          "pt" : "Anel do tremor"
+        },
+        "equipConditions" : {
+          "fr" : [ "Unicité extrême (impossible de porter deux versions de l'anneau de différentes raretés)" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26296,
+        "title" : {
+          "fr" : "Ceinturon Brrrr",
+          "en" : "Brrr Belt",
+          "es" : "Cinturón brrrr",
+          "pt" : "Cinturão Brrrr"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA >= 13" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26317,
+        "title" : {
+          "fr" : "Ceinturon Brrrr",
+          "en" : "Brrr Belt",
+          "es" : "Cinturón brrrr",
+          "pt" : "Cinturão Brrrr"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA >= 13" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27409,
+        "title" : {
+          "fr" : "Hiboucle",
+          "en" : "Bubuckle",
+          "es" : "Buhescudo",
+          "pt" : "Strigicinto"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27410,
+        "title" : {
+          "fr" : "Hiboucle",
+          "en" : "Bubuckle",
+          "es" : "Buhescudo",
+          "pt" : "Strigicinto"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27447,
+        "title" : {
+          "fr" : "Ceinture DigiArv",
+          "en" : "DigiArv Belt",
+          "es" : "Cinturón DigiArv",
+          "pt" : "Cinto DigiArv"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27448,
+        "title" : {
+          "fr" : "Ceinture DigiArv",
+          "en" : "DigiArv Belt",
+          "es" : "Cinturón DigiArv",
+          "pt" : "Cinto DigiArv"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26643,
+        "title" : {
+          "fr" : "Montrure",
+          "en" : "Trance Belt",
+          "es" : "Cintorario",
+          "pt" : "Cinto do Trance"
+        },
+        "equipConditions" : {
+          "fr" : [ "Xelor uniquement" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26644,
+        "title" : {
+          "fr" : "Montrure",
+          "en" : "Trance Belt",
+          "es" : "Cintorario",
+          "pt" : "Cinto do Trance"
+        },
+        "equipConditions" : {
+          "fr" : [ "Xelor uniquement" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26994,
+        "title" : {
+          "fr" : "Bottes Ailes Tell",
+          "en" : "Tell-Tale Boots",
+          "es" : "Botas Tel Talas",
+          "pt" : "Botas Elat Tell"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW >= 8" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26995,
+        "title" : {
+          "fr" : "Bottes Ailes Tell",
+          "en" : "Tell-Tale Boots",
+          "es" : "Botas Tel Talas",
+          "pt" : "Botas Elat Tell"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW >= 8" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26996,
+        "title" : {
+          "fr" : "Bottes Ailes Tell",
+          "en" : "Tell-Tale Boots",
+          "es" : "Botas Tel Talas",
+          "pt" : "Botas Elat Tell"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW >= 8" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26298,
+        "title" : {
+          "fr" : "Bottes Ombragées",
+          "en" : "Shadowed Boots",
+          "es" : "Botas sombrías",
+          "pt" : "Botas Sombreadas"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW <= 4" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26293,
+        "title" : {
+          "fr" : "Marche vers Ombre",
+          "en" : "Worn to a Shadow",
+          "es" : "Sombra aquí y allá",
+          "pt" : "Caminhada para a Sombra"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-LEADERSHIP] Exactement 4 contrôle" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26314,
+        "title" : {
+          "fr" : "Marche vers Ombre",
+          "en" : "Worn to a Shadow",
+          "es" : "Sombra aquí y allá",
+          "pt" : "Caminhada para a Sombra"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-LEADERSHIP] Exactement 4 contrôle" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26290,
+        "title" : {
+          "fr" : "Plastrombre",
+          "en" : "Shademail",
+          "es" : "Sombrarmadura",
+          "pt" : "Protetor Sombrio"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26311,
+        "title" : {
+          "fr" : "Plastrombre",
+          "en" : "Shademail",
+          "es" : "Sombrarmadura",
+          "pt" : "Protetor Sombrio"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26953,
+        "title" : {
+          "fr" : "Plastron Bière",
+          "en" : "Biddyplate",
+          "es" : "Peto Mentodo",
+          "pt" : "Peitoral Coviteiro"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26954,
+        "title" : {
+          "fr" : "Plastron Bière",
+          "en" : "Biddyplate",
+          "es" : "Peto Mentodo",
+          "pt" : "Peitoral Coviteiro"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26299,
+        "title" : {
+          "fr" : "Plastron des Ombres",
+          "en" : "Breastplate of Shadows",
+          "es" : "Coraza de las sombras",
+          "pt" : "Peitoral das Sombras"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26318,
+        "title" : {
+          "fr" : "Plastron des Ombres",
+          "en" : "Breastplate of Shadows",
+          "es" : "Coraza de las sombras",
+          "pt" : "Peitoral das Sombras"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27297,
+        "title" : {
+          "fr" : "Plastron Déshydraté",
+          "en" : "Dehydrated Breastplate",
+          "es" : "Coraza deshidratada",
+          "pt" : "Peitoral Desidratado"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27298,
+        "title" : {
+          "fr" : "Plastron Déshydraté",
+          "en" : "Dehydrated Breastplate",
+          "es" : "Coraza deshidratada",
+          "pt" : "Peitoral Desidratado"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 500", "[IMAGE-TACKLE] Tacle <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27443,
+        "title" : {
+          "fr" : "Plastron Amon Amarth",
+          "en" : "Amon Amarth Breastplate",
+          "es" : "Coraza Amon Amarth",
+          "pt" : "Peitoral de Amon Amarth"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 400", "[IMAGE-TACKLE] Tacle <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27444,
+        "title" : {
+          "fr" : "Plastron Amon Amarth",
+          "en" : "Amon Amarth Breastplate",
+          "es" : "Coraza Amon Amarth",
+          "pt" : "Peitoral de Amon Amarth"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-TACKLE] Tacle >= 400", "[IMAGE-TACKLE] Tacle <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9616,
+         "title" : {
+           "fr" : "Plastron de la Justice",
+           "en" : "Justice Breastplate",
+           "es" : "Coraza justiciera",
+           "pt" : "Peitoral da Justiça"
+         },
+        "equipConditions" : {
+          "fr" : [ "Citoyenneté >= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 24128,
+         "title" : {
+           "fr" : "Plastron de la Justice",
+           "en" : "Justice Breastplate",
+           "es" : "Coraza justiciera",
+           "pt" : "Peitoral da Justiça"
+         },
+        "equipConditions" : {
+          "fr" : [ "Citoyenneté >= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9981,
+        "title" : {
+          "fr" : "Plastron de la Raison",
+          "en" : "Breastplate of Righteousness",
+          "es" : "Coraza de la razón",
+          "pt" : "Peitoral da Integridade"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 40%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 23857,
+        "title" : {
+          "fr" : "Voile d'Excarnus",
+          "en" : "Excarnus Veil",
+          "es" : "Velo de Excarnus",
+          "pt" : "Véu de Excarnus"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27695,
+        "title" : {
+          "fr" : "Voile d'Excarnus",
+          "en" : "Excarnus Veil",
+          "es" : "Velo de Excarnus",
+          "pt" : "Véu de Excarnus"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 14131,
+        "title" : {
+          "fr" : "Voile d'Excarnus",
+          "en" : "Excarnus Veil",
+          "es" : "Velo de Excarnus",
+          "pt" : "Véu de Excarnus"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26322,
+        "title" : {
+          "fr" : "Cape Hilare",
+          "en" : "Hairlarious Cloak",
+          "es" : "Capilarante",
+          "pt" : "Capa Hilária"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26302,
+        "title" : {
+          "fr" : "Cape Hilare",
+          "en" : "Hairlarious Cloak",
+          "es" : "Capilarante",
+          "pt" : "Capa Hilária"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26312,
+        "title" : {
+          "fr" : "Cape Hilère",
+          "en" : "Cape Hillary",
+          "es" : "Capa Ylar",
+          "pt" : "Capa Hilar"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-BLOCK] Parade <= 20%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26291,
+        "title" : {
+          "fr" : "Cape Hilère",
+          "en" : "Cape Hillary",
+          "es" : "Capa Ylar",
+          "pt" : "Capa Hilar"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-BLOCK] Parade <= 20%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27293,
+        "title" : {
+          "fr" : "Cape Salée",
+          "en" : "Salty Cape",
+          "es" : "Capa salada",
+          "pt" : "Capa Salgada"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-BLOCK] Parade >= 40%", "[IMAGE-BLOCK] Parade <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27294,
+        "title" : {
+          "fr" : "Cape Salée",
+          "en" : "Salty Cape",
+          "es" : "Capa salada",
+          "pt" : "Capa Salgada"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-BLOCK] Parade >= 40%", "[IMAGE-BLOCK] Parade <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27445,
+        "title" : {
+          "fr" : "Cape du Lord Zaens",
+          "en" : "Lord Zaens's Cape",
+          "es" : "Capa del lord Zaens",
+          "pt" : "Capa do Lorde Zaens"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27446,
+        "title" : {
+          "fr" : "Cape du Lord Zaens",
+          "en" : "Lord Zaens's Cape",
+          "es" : "Capa del lord Zaens",
+          "pt" : "Capa do Lorde Zaens"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique >= 40%", "[IMAGE-FEROCITY] Chance Critique <= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27693,
+        "title" : {
+          "fr" : "Spalières du Corbeau Blanc",
+          "en" : "White Crow Hackle",
+          "es" : "Hombreras del Cuervo Blanco",
+          "pt" : "Penugem de Corvo Branco"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 14140,
+        "title" : {
+          "fr" : "Spalières du Corbeau Blanc",
+          "en" : "White Crow Hackle",
+          "es" : "Hombreras del Cuervo Blanco",
+          "pt" : "Penugem de Corvo Branco"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 23177,
+        "title" : {
+          "fr" : "Spalières du Corbeau Blanc",
+          "en" : "White Crow Hackle",
+          "es" : "Hombreras del Cuervo Blanco",
+          "pt" : "Penugem de Corvo Branco"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26324,
+        "title" : {
+          "fr" : "Epaulettes Moqueuses",
+          "en" : "Jeering Epaulettes",
+          "es" : "Hombreras burlonas",
+          "pt" : "Dragonas Zombeteiras"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-DODGE] Esquive >= 500", "[IMAGE-DODGE] Esquive <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26304,
+        "title" : {
+          "fr" : "Epaulettes Moqueuses",
+          "en" : "Jeering Epaulettes",
+          "es" : "Hombreras burlonas",
+          "pt" : "Dragonas Zombeteiras"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-DODGE] Esquive >= 500", "[IMAGE-DODGE] Esquive <= 600" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26997,
+        "title" : {
+          "fr" : "Les Coques Tell",
+          "en" : "Krock Tails",
+          "es" : "Kok Tel",
+          "pt" : "Casco Ktell"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26998,
+        "title" : {
+          "fr" : "Les Coques Tell",
+          "en" : "Krock Tails",
+          "es" : "Kok Tel",
+          "pt" : "Casco Ktell"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26310,
+        "title" : {
+          "fr" : "Les Patères",
+          "en" : "Hooklettes",
+          "es" : "Las Colgadoras",
+          "pt" : "Cabides"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26289,
+        "title" : {
+          "fr" : "Les Patères",
+          "en" : "Hooklettes",
+          "es" : "Las Colgadoras",
+          "pt" : "Cabides"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27449,
+        "title" : {
+          "fr" : "Haze'paulettes",
+          "en" : "Haze'paulettes",
+          "es" : "Haz'hombreras",
+          "pt" : "Hazedragonas"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27450,
+        "title" : {
+          "fr" : "Haze'paulettes",
+          "en" : "Haze'paulettes",
+          "es" : "Haz'hombreras",
+          "pt" : "Hazedragonas"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-MP] PM <= 5" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 18691,
+        "title" : {
+          "fr" : "Piquants du Guerrier Trool anciens",
+          "en" : "Ancient Trool Warrior Spikes",
+          "es" : "Pinchos del guerrero trool antiguos",
+          "pt" : "Espetos do Guerreiro Trool Antigos"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-AP] PA <= 11" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9615,
+        "title" : {
+          "fr" : "Epaulettes de la Justice",
+          "en" : "Justice Epaulettes",
+          "es" : "Hombreras justicieras",
+          "pt" : "Dragonas da Justiça"
+        },
+        "equipConditions" : {
+          "fr" : [ "Citoyenneté >= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 24129,
+        "title" : {
+          "fr" : "Epaulettes de la Justice",
+          "en" : "Justice Epaulettes",
+          "es" : "Hombreras justicieras",
+          "pt" : "Dragonas da Justiça"
+        },
+        "equipConditions" : {
+          "fr" : [ "Citoyenneté >= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9980,
+        "title" : {
+          "fr" : "Epaulettes de Karne",
+          "en" : "Karne Epaulettes",
+          "es" : "Hombreras de Akre",
+          "pt" : "Dragonas NaKarne"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 35%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27747,
+        "title" : {
+          "fr" : "Coiffe d’Hagën-Glass",
+          "en" : "Hagen Daz's Helmet",
+          "es" : "Sombrero de Crújian Jerry",
+          "pt" : "Elmo Quibom"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maitrise Distance >= 400", "[IMAGE-RANGED_DMG] Maitrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 16035,
+        "title" : {
+          "fr" : "Coiffe d’Hagën-Glass",
+          "en" : "Hagen Daz's Helmet",
+          "es" : "Sombrero de Crújian Jerry",
+          "pt" : "Elmo Quibom"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maitrise Distance >= 400", "[IMAGE-RANGED_DMG] Maitrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 23018,
+        "title" : {
+          "fr" : "Coiffe d’Hagën-Glass",
+          "en" : "Hagen Daz's Helmet",
+          "es" : "Sombrero de Crújian Jerry",
+          "pt" : "Elmo Quibom"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maitrise Distance >= 400", "[IMAGE-RANGED_DMG] Maitrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 23019,
+        "title" : {
+          "fr" : "Coiffe d’Hagën-Glass",
+          "en" : "Hagen Daz's Helmet",
+          "es" : "Sombrero de Crújian Jerry",
+          "pt" : "Elmo Quibom"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maitrise Distance >= 400", "[IMAGE-RANGED_DMG] Maitrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26323,
+        "title" : {
+          "fr" : "Coiffe Goguenarde",
+          "en" : "Mocking Cap",
+          "es" : "Sombrero burlón",
+          "pt" : "Chapelouco"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique <= 25%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26303,
+        "title" : {
+          "fr" : "Coiffe Goguenarde",
+          "en" : "Mocking Cap",
+          "es" : "Sombrero burlón",
+          "pt" : "Chapelouco"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-FEROCITY] Chance Critique <= 25%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26313,
+        "title" : {
+          "fr" : "Coiffe Cornue",
+          "en" : "Horned Headgear",
+          "es" : "Sombrero cornudo",
+          "pt" : "Chapéu Cornudo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maîtrise Distance >= 400", "[IMAGE-RANGED_DMG] Maîtrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26292,
+        "title" : {
+          "fr" : "Coiffe Cornue",
+          "en" : "Horned Headgear",
+          "es" : "Sombrero cornudo",
+          "pt" : "Chapéu Cornudo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGED_DMG] Maîtrise Distance >= 400", "[IMAGE-RANGED_DMG] Maîtrise Distance <= 500" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26262,
+        "title" : {
+          "fr" : "Papatte de Milkar",
+          "en" : "Milkar Paw",
+          "es" : "Patita de Milkar",
+          "pt" : "Patinha de Amilkar"
+        },
+        "equipConditions" : {
+          "fr" : [ "Ne possède pas la condition d'unicité" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27287,
+        "title" : {
+          "fr" : "L'Hache de Raison",
+          "en" : "Ax of Reason",
+          "es" : "Hacha de Razón",
+          "pt" : "Machado de Razão"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO >= 2" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27288,
+        "title" : {
+          "fr" : "L'Hache de Raison",
+          "en" : "Ax of Reason",
+          "es" : "Hacha de Razón",
+          "pt" : "Machado de Razão"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO >= 2" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26300,
+        "title" : {
+          "fr" : "Pelle Rieuse",
+          "en" : "Laughing Shovel",
+          "es" : "Pala risueña",
+          "pt" : "Pá Risonha"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW <= 8" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26319,
+        "title" : {
+          "fr" : "Pelle Rieuse",
+          "en" : "Laughing Shovel",
+          "es" : "Pala risueña",
+          "pt" : "Pá Risonha"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WP] PW <= 8" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9970,
+        "title" : {
+          "fr" : "Pelle Pilon de Lumière",
+          "en" : "Hifipod Shovel",
+          "es" : "Pala poste de luz",
+          "pt" : "Pá Raifái"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 55%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9972,
+        "title" : {
+          "fr" : "Coupeciel",
+          "en" : "Skyslicer",
+          "es" : "Cortacielos",
+          "pt" : "Fatiacéu"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9974,
+        "title" : {
+          "fr" : "Marteau d'Eclat",
+          "en" : "Smash Hammer",
+          "es" : "Martillo blanqueante",
+          "pt" : "Martelo Esmagador"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 50%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9968,
+        "title" : {
+          "fr" : "Lame de Téhélien",
+          "en" : "Hohoglion Blade",
+          "es" : "Hoja de Pagüerlebel",
+          "pt" : "Lâmina Hoholião"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 45%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9964,
+        "title" : {
+          "fr" : "Arc de Moelle",
+          "en" : "Bifmaro Bow",
+          "es" : "Arco huesudo",
+          "pt" : "Arco de Tuta Nodeboi"
+        },
+        "equipConditions" : {
+          "fr" : [ "Wakfu >= 35%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9973,
+        "title" : {
+          "fr" : "Gourdin des Cadavres",
+          "en" : "Corpse Club",
+          "es" : "Porra de cadáveres",
+          "pt" : "Clava Cadáver"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 35%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26495,
+        "title" : {
+          "fr" : "Epée de Sufokia",
+          "en" : "Sufokia Sword",
+          "es" : "Bahía de Sufokia",
+          "pt" : "Espada de Sufokia"
+        },
+        "equipConditions" : {
+          "fr" : [ "Anneau de Sufokia équipé" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26497,
+        "title" : {
+          "fr" : "Epée de Brâkmar",
+          "en" : "Brakmar Sword",
+          "es" : "Espada de Brakmar",
+          "pt" : "Espada de Brakmar"
+        },
+        "equipConditions" : {
+          "fr" : [ "Anneau de Brâkmar équipé" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26494,
+        "title" : {
+          "fr" : "Epée d'Amakna",
+          "en" : "Amakna Sword",
+          "es" : "Espada de Amakna",
+          "pt" : "Espada de Amakna"
+        },
+        "equipConditions" : {
+          "fr" : [ "Anneau d'Amakna équipé" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26496,
+        "title" : {
+          "fr" : "Epée de Bonta",
+          "en" : "Bonta Sword",
+          "es" : "Espada de Bonta",
+          "pt" : "Espada de Bonta"
+        },
+        "equipConditions" : {
+          "fr" : [ "Anneau de Bonta équipé" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27377,
+        "title" : {
+          "fr" : "Cartes And",
+          "en" : "Art'And Cards",
+          "es" : "Carta And",
+          "pt" : "Cartands"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27378,
+        "title" : {
+          "fr" : "Cartes And",
+          "en" : "Art'And Cards",
+          "es" : "Carta And",
+          "pt" : "Cartands"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27299,
+        "title" : {
+          "fr" : "Cartes du Monde",
+          "en" : "World Maps",
+          "es" : "Mapas del mundo",
+          "pt" : "Mapas do Mundo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 27300,
+        "title" : {
+          "fr" : "Cartes du Monde",
+          "en" : "World Maps",
+          "es" : "Mapas del mundo",
+          "pt" : "Mapas do Mundo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26593,
+        "title" : {
+          "fr" : "Epée Eternelle",
+          "en" : "Eternal Sword",
+          "es" : "Espada eterna",
+          "pt" : "Espada Eterna"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-WILLPOWER] Volonté <= 20" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26316,
+        "title" : {
+          "fr" : "Epingle à Cheveux",
+          "en" : "Hairpin",
+          "es" : "Pinza para el pelo",
+          "pt" : "Prendedor de Cabelo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 26295,
+        "title" : {
+          "fr" : "Epingle à Cheveux",
+          "en" : "Hairpin",
+          "es" : "Pinza para el pelo",
+          "pt" : "Prendedor de Cabelo"
+        },
+        "equipConditions" : {
+          "fr" : [ "[IMAGE-RANGE] PO <= 3" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9969,
+        "title" : {
+          "fr" : "Epée du Tébélien",
+          "en" : "Hoglian Sword",
+          "es" : "Espada de Nobeño",
+          "pt" : "Espada Regueliana"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 45%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9971,
+        "title" : {
+          "fr" : "Bâton Fourcu",
+          "en" : "Crackdweller Staff",
+          "es" : "Bastón Cynko",
+          "pt" : "Bastão do Habitante-Abissal"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 40%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9963,
+        "title" : {
+          "fr" : "Cartes Lamitées",
+          "en" : "Katastro Cards",
+          "es" : "Cartas Lamidades",
+          "pt" : "Cartas Katastro"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 40%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 17792,
+        "title" : {
+          "fr" : "Aiguille Necrogrine",
+          "en" : "Necrogrine Hand",
+          "es" : "Aguja necrogrina",
+          "pt" : "Ponteiro Morto-Vivo"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 30%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9966,
+        "title" : {
+          "fr" : "Baguette du Courage",
+          "en" : "Wand of Courage",
+          "es" : "Varita del valor",
+          "pt" : "Varinha da Coragem"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 30%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9967,
+        "title" : {
+          "fr" : "Charogneuses",
+          "en" : "Cutting Edgies",
+          "es" : "Carroñeras",
+          "pt" : "Cuecortante"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 55%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9976,
+        "title" : {
+          "fr" : "Bouclier du Déni",
+          "en" : "Shield of Denial",
+          "es" : "Escudo del renegado",
+          "pt" : "Escudo da Negação"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 45%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    },
+    {
+        "id" : 9975,
+        "title" : {
+          "fr" : "Bouclier Necropete",
+          "en" : "Necrofahrt Shield",
+          "es" : "Escudo necropedo",
+          "pt" : "Escudo Necropuhm"
+        },
+        "equipConditions" : {
+          "fr" : [ "Stasis >= 30%" ],
+          "en" : [],
+          "es" : [],
+          "pt" : []
+        }
+    }
+]

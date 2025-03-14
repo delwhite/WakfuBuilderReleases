@@ -508,6 +508,15 @@ MenuButton, .menu-item {
               -fx-background-color: #B71B28;
           }*/
 }
+.item-descs.equip-condition {
+  -fx-border-color: #8b0000;
+  -fx-border-radius: 5;
+  -fx-padding: 0;
+}
+.item-descs.equip-condition .item-desc, .item-descs.equip-condition .item-desc-alt {
+  -fx-background-color: #301e1e;
+  -fx-background-radius: 5;
+}
 
 .use-and-crit-descs {
   -fx-background-color: #4f4f4f;
@@ -742,6 +751,10 @@ MenuButton, .menu-item {
 }
 .enchantment-content.max-495 .shards .shard .label {
   -fx-padding: 0 2 0 2;
+}
+
+.build-title {
+  -fx-max-width: 130;
 }
 
 .location-column-content, .loot-column-content {
