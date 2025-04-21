@@ -1,2 +1,2 @@
 @echo off
-java -jar "./WakfuBuilder.jar"
+java --enable-native-access=ALL-UNNAMED -jar "./WakfuBuilder.jar"
