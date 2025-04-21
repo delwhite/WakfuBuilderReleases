@@ -198,36 +198,43 @@ MenuButton, .menu-item {
   -fx-background-color: transparent;
 }
 
-.button {
+.button, .toggle-button {
   -fx-text-fill: #fff;
   -fx-background-color: #3f3f3f;
   -fx-padding: 10 20 10 20;
   -fx-background-radius: 5;
   -fx-background-insets: 0;
 }
-.button:hover {
+.button:hover, .toggle-button:hover {
   -fx-background-color: #4f4f4f;
 }
 
-.button {
+.button, .toggle-button {
   -fx-cursor: hand;
 }
 
 .combo-box, .text-field, .password-field, .text-area, .check-box, .radio-button,
-.toggle-group, .list-view, .spinner, .date-picker, .slider, .progress-bar {
+.toggle-group, .list-view, .spinner, .date-picker, .slider {
   -fx-background-color: #3f3f3f;
   -fx-text-fill: #E3E3E3;
   -fx-background-insets: 0;
 }
 .combo-box:hover, .combo-box:hover *, .text-field:hover, .text-field:hover *, .password-field:hover, .password-field:hover *, .text-area:hover, .text-area:hover *, .check-box:hover, .check-box:hover *, .radio-button:hover, .radio-button:hover *,
 .toggle-group:hover,
-.toggle-group:hover *, .list-view:hover, .list-view:hover *, .spinner:hover, .spinner:hover *, .date-picker:hover, .date-picker:hover *, .slider:hover, .slider:hover *, .progress-bar:hover, .progress-bar:hover * {
+.toggle-group:hover *, .list-view:hover, .list-view:hover *, .spinner:hover, .spinner:hover *, .date-picker:hover, .date-picker:hover *, .slider:hover, .slider:hover * {
   -fx-background-color: #4f4f4f;
 }
 .combo-box *, .text-field *, .password-field *, .text-area *, .check-box *, .radio-button *,
-.toggle-group *, .list-view *, .spinner *, .date-picker *, .slider *, .progress-bar * {
+.toggle-group *, .list-view *, .spinner *, .date-picker *, .slider * {
   -fx-background-color: #3f3f3f;
   -fx-text-fill: #E3E3E3;
+}
+
+.progress-bar * {
+  -fx-background-color: #3f3f3f;
+}
+.progress-bar .bar {
+  -fx-background-color: #1e90ff;
 }
 
 .combo-box, .check-box, .radio-button, .spinner,
@@ -589,6 +596,41 @@ MenuButton, .menu-item {
 }
 .search-filter .characteristic-rows .characteristic-row .text-field * {
   -fx-background-color: #4f4f4f;
+}
+
+.generator-content {
+  -fx-padding: 2 0 2 3;
+}
+.generator-content .generator-form-scroll {
+  -fx-min-width: 450;
+  -fx-background-color: transparent;
+  -fx-border-color: transparent;
+}
+.generator-content .generator-form-scroll .viewport {
+  -fx-background-color: transparent;
+}
+.generator-content .generator-form .target-row {
+  -fx-background-color: #3f3f3f;
+  -fx-padding: 5 5 5 3;
+}
+.generator-content .generator-form .target-row .text-field {
+  -fx-pref-width: 60;
+  -fx-background-color: #4f4f4f;
+}
+.generator-content .generator-form .target-row .text-field * {
+  -fx-background-color: #4f4f4f;
+}
+.generator-content .generator-form .target-row .desired-field {
+  -fx-pref-width: 60;
+}
+.generator-content .generator-form .target-row .max-field {
+  -fx-pref-width: 50;
+}
+.generator-content .generator-form .target-row .priority-field {
+  -fx-pref-width: 55;
+}
+.generator-content .progress-bar {
+  -fx-pref-width: 800;
 }
 
 .build-characteristics .build-characteristic {

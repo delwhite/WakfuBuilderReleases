@@ -4,7 +4,7 @@
 }
 
 // Boutons
-.button {
+.button, .toggle-button {
     -fx-text-fill: $primary_button_text_color;
     -fx-background-color: $primary_button_background_color;
     -fx-padding: 10 20 10 20;
@@ -15,13 +15,13 @@
     }
 }
 
-.button {
+.button, .toggle-button {
     -fx-cursor: hand;
 }
 
 // Fields
 .combo-box, .text-field, .password-field, .text-area, .check-box, .radio-button,
-.toggle-group, .list-view, .spinner, .date-picker, .slider, .progress-bar {
+.toggle-group, .list-view, .spinner, .date-picker, .slider {
     -fx-background-color: $primary_field_background_color;
     -fx-text-fill: $primary_field_text_color;
     -fx-background-insets: 0;
@@ -31,6 +31,15 @@
     * {
         -fx-background-color: $primary_field_background_color;
         -fx-text-fill: $primary_field_text_color;
+    }
+}
+
+.progress-bar {
+    * {
+        -fx-background-color: $primary_field_background_color;
+    }
+    .bar {
+        -fx-background-color: #1e90ff;
     }
 }
 

@@ -49,6 +49,48 @@
     }
 }
 
+.generator-content {
+    -fx-padding: 2 0 2 3;
+    .generator-form-scroll {
+        -fx-min-width: 450;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+        .viewport {
+            -fx-background-color: transparent;
+        }
+    }
+    .generator-form {
+         .target-row {
+            -fx-background-color: $primary_field_background_color;
+            -fx-padding: 5 5 5 3;
+
+            .text-field {
+                -fx-pref-width: 60;
+                -fx-background-color: $primary_field_background_color_hover;
+                * {
+                    -fx-background-color: $primary_field_background_color_hover;
+                }
+            }
+
+            .desired-field {
+                -fx-pref-width: 60;
+            }
+
+            .max-field {
+                -fx-pref-width: 50;
+            }
+
+            .priority-field {
+                -fx-pref-width: 55;
+            }
+        }   
+    }
+    
+    .progress-bar {
+        -fx-pref-width: 800;
+    }
+}
+
 .build-characteristics {
     .build-characteristic {
         -fx-background-radius: 5;
