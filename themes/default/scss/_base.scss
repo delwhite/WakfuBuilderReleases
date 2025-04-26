@@ -12,7 +12,17 @@ AnchorPane, TilePane, FlowPane, ScrollPane, TableView {
 Region, .scroll-pane > .viewport {
     -fx-background-color: transparent;
 }
-
+.context-menu {
+    -fx-background-color: transparent;
+    .menu-item {
+        -fx-text-fill: $primary_text_color;
+        -fx-opacity: 1;
+        -fx-padding-left: 10px;
+        * {
+            -fx-background-color: transparent;
+        }
+    }
+}
 .rootBar, .rootBar * {
     -fx-background-color: $primary_menu_background_color;
     -fx-text-fill: $primary_menu_text_color;

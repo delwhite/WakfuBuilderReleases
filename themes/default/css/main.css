@@ -25,6 +25,18 @@ Region, .scroll-pane > .viewport {
   -fx-background-color: transparent;
 }
 
+.context-menu {
+  -fx-background-color: transparent;
+}
+.context-menu .menu-item {
+  -fx-text-fill: #fff;
+  -fx-opacity: 1;
+  -fx-padding-left: 10px;
+}
+.context-menu .menu-item * {
+  -fx-background-color: transparent;
+}
+
 .rootBar, .rootBar * {
   -fx-background-color: #1F1E25;
   -fx-text-fill: #fff;
@@ -663,11 +675,11 @@ MenuButton, .menu-item {
   -fx-padding: 5 0 0 0;
 }
 
-.lock-button, .delete-button {
+.lock-button, .delete-button, .status-button {
   -fx-background-color: rgba(103, 103, 103, 0.5);
   -fx-background-radius: 4;
 }
-.lock-button:hover, .delete-button:hover {
+.lock-button:hover, .delete-button:hover, .status-button:hover {
   -fx-background-color: rgba(140, 140, 140, 0.5);
 }
 
